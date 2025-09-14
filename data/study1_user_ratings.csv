@@ -1,0 +1,235 @@
+pid,mood_t0,mood_t1,belief_human,feel_human,waisr_task_1,waisr_task_2,waisr_bond_1,waisr_goal_1,waisr_bond_2,waisr_goal_2,waisr_bond_3,waisr_goal_3,waisr_bond_4,waisr_task_3,waisr_goal_4,waisr_task_4
+66fd3f6c93c24ecc119be354,3,3,1,1,Disagree,Disagree,Agree,Neutral,Neutral,Agree,Neutral,Agree,Disagree,Agree,Disagree,Neutral
+5f2f280854c3203084e218e5,3,6,1,4,Agree,Agree,Agree,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral,Agree,Neutral,Neutral
+66c746f450506abe4d80b5e1,4,6,1,1,Agree,Agree,Neutral,Agree,Neutral,Agree,Neutral,Agree,Neutral,Agree,Agree,Agree
+6346e117e4e283094ff51b84,4,4,1,1,Disagree,Neutral,Strong Disagree,Neutral,Strong Disagree,Strong Disagree,Strong Disagree,Strong Disagree,Strong Disagree,Neutral,Neutral,Agree
+5d20c6d5b1e50a001c19e622,5,6,2,3,Agree,Neutral,Neutral,Agree,Agree,Agree,Neutral,Agree,Disagree,Neutral,Disagree,Agree
+676d0d8ea1b34584f966c1f6,6,6,1,7,Strong Agree,Strong Agree,Strong Agree,Strong Agree,Strong Agree,Strong Agree,Strong Agree,Strong Agree,Agree,Strong Agree,Strong Agree,Strong Agree
+6676e7538c7c4c68e18aa31a,5,6,2,5,Strong Agree,Strong Agree,Agree,Agree,Agree,Neutral,Agree,Strong Agree,Neutral,Strong Agree,Strong Agree,Agree
+5f1beeacb55680420cfcae9e,4,5,1,5,Agree,Agree,Neutral,Agree,Neutral,Agree,Neutral,Agree,Neutral,Strong Agree,Agree,Agree
+6779cadff8dc4ddeecc54ce2,4,7,2,4,Agree,Agree,Strong Disagree,Strong Agree,Agree,Strong Agree,Neutral,Strong Agree,Neutral,Agree,Strong Agree,Agree
+65030c046782881e902a5aaa,5,7,1,3,Strong Agree,Agree,Agree,Strong Agree,Agree,Strong Agree,Agree,Agree,Agree,Strong Agree,Agree,Strong Agree
+5c407a2c41b3f9000195e19f,4,6,2,5,Strong Agree,Agree,Agree,Agree,Agree,Strong Agree,Agree,Agree,Agree,Strong Agree,Strong Agree,Strong Agree
+6658c6e6298aedbc9b7ac19c,5,6,1,1,Agree,Agree,Neutral,Agree,Neutral,Agree,Neutral,Agree,Neutral,Strong Agree,Agree,Agree
+5f0c86cbe4af1361b7158f3e,5,6,1,7,Agree,Strong Agree,Agree,Agree,Agree,Strong Agree,Strong Agree,Strong Agree,Agree,Strong Agree,Strong Agree,Strong Agree
+66958ca9d7179281d46faf5d,5,6,2,4,Agree,Agree,Neutral,Agree,Neutral,Strong Agree,Neutral,Agree,Agree,Agree,Strong Agree,Agree
+5e4feb8037713502e9ed364b,4,5,1,3,Agree,Agree,Neutral,Neutral,Neutral,Neutral,Disagree,Neutral,Neutral,Agree,Neutral,Agree
+67717e578f7fc3b6ff3c6ae8,3,5,1,6,Agree,Agree,Neutral,Agree,Neutral,Agree,Neutral,Agree,Neutral,Strong Agree,Agree,Agree
+6713edf459846149d7bcc948,7,7,2,5,Strong Agree,Strong Agree,Neutral,Agree,Agree,Neutral,Disagree,Strong Agree,Disagree,Agree,Neutral,Strong Agree
+66a15c42533255e95d1d34a1,5,6,1,6,Strong Agree,Agree,Agree,Strong Agree,Agree,Strong Agree,Agree,Agree,Neutral,Agree,Agree,Agree
+6002ae1ea178912bfa128adf,4,5,3,6,Agree,Agree,Agree,Agree,Agree,Agree,Neutral,Agree,Neutral,Agree,Neutral,Agree
+5997043dbbe84800017964a7,4,5,1,7,Agree,Strong Agree,Strong Agree,Strong Agree,Strong Agree,Strong Agree,Strong Agree,Strong Agree,Agree,Strong Agree,Strong Agree,Strong Agree
+672b8d3c37b9296c39c3f677,3,3,1,2,Agree,Agree,Neutral,Agree,Agree,Agree,Disagree,Agree,Neutral,Neutral,Agree,Agree
+66df649422e557253882cee8,3,6,3,5,Agree,Agree,Strong Agree,Strong Agree,Strong Agree,Strong Agree,Strong Agree,Strong Agree,Agree,Strong Agree,Strong Agree,Strong Agree
+59dccd61e75b450001a689b7,6,6,1,4,Agree,Agree,Neutral,Strong Agree,Neutral,Agree,Neutral,Agree,Neutral,Agree,Agree,Agree
+5fd4d10b2f970406fe63ad96,5,6,1,1,Agree,Agree,Disagree,Agree,Neutral,Agree,Neutral,Agree,Agree,Agree,Agree,Agree
+648028bc524faa07ef0547eb,5,6,1,3,Agree,Agree,Agree,Strong Agree,Agree,Strong Agree,Strong Agree,Strong Agree,Neutral,Strong Agree,Agree,Agree
+67236d7fadd6365361bd7cc0,3,4,2,2,Agree,Agree,Neutral,Agree,Agree,Agree,Agree,Agree,Neutral,Agree,Agree,Agree
+5f35222b79aaa5065c8919bd,4,4,1,2,Neutral,Disagree,Agree,Agree,Agree,Agree,Agree,Neutral,Neutral,Disagree,Neutral,Neutral
+665fa30eccda55b454554d95,4,6,6,3,Strong Agree,Strong Agree,Neutral,Strong Agree,Neutral,Agree,Agree,Strong Agree,Neutral,Strong Agree,Strong Agree,Strong Agree
+62a76cb3209f192d4ac62bec,3,5,6,6,Agree,Agree,Agree,Agree,Agree,Agree,Agree,Agree,Neutral,Agree,Agree,Agree
+67320610635afc65498583cb,5,5,2,3,Agree,Agree,Neutral,Agree,Neutral,Agree,Neutral,Agree,Neutral,Agree,Agree,Agree
+56f699e876348f000c883bba,3,2,1,1,Strong Disagree,Strong Disagree,Strong Disagree,Strong Disagree,Strong Disagree,Strong Disagree,Strong Disagree,Strong Disagree,Strong Disagree,Strong Disagree,Strong Disagree,Strong Disagree
+6734acb87201d0735d63632c,4,5,1,2,Neutral,Neutral,Agree,Neutral,Agree,Agree,Agree,Strong Agree,Agree,Agree,Agree,Neutral
+5cb87813635b940017c2037a,5,6,3,4,Agree,Strong Agree,Neutral,Agree,Neutral,Neutral,Neutral,Strong Agree,Neutral,Agree,Agree,Strong Agree
+6759718f66f6d338a0663100,3,4,2,4,Agree,Agree,Neutral,Agree,Agree,Agree,Neutral,Agree,Neutral,Agree,Agree,Agree
+657b2d22191dda04598ef38b,5,6,1,3,Agree,Agree,Agree,Agree,Agree,Agree,Agree,Agree,Agree,Agree,Agree,Agree
+5d3bfbebfd9694001a2d0f99,2,3,1,3,Disagree,Strong Disagree,Neutral,Neutral,Agree,Neutral,Disagree,Agree,Neutral,Disagree,Neutral,Neutral
+676ee670250de1d8b3e57b03,6,7,1,2,Agree,Strong Agree,Strong Agree,Agree,Agree,Strong Agree,Agree,Agree,Strong Agree,Strong Agree,Strong Agree,Strong Agree
+672f38145bf80a772f4ac20a,5,5,4,5,Agree,Agree,Neutral,Agree,Agree,Agree,Agree,Agree,Agree,Agree,Agree,Agree
+5d6d729b679b200019c12498,3,6,2,5,Strong Agree,Agree,Neutral,Strong Agree,Agree,Strong Agree,Neutral,Strong Agree,Agree,Agree,Agree,Strong Agree
+5b2bd649ed66460001e86e39,3,5,1,2,Agree,Strong Agree,Agree,Strong Agree,Strong Agree,Strong Agree,Strong Agree,Strong Agree,Agree,Strong Agree,Strong Agree,Strong Agree
+67150a8c59846149d7bd00f2,4,5,1,5,Agree,Strong Agree,Strong Agree,Strong Agree,Strong Agree,Strong Agree,Agree,Agree,Neutral,Agree,Agree,Strong Agree
+6727964977929019f6ff8a5d,4,5,6,4,Agree,Agree,Neutral,Agree,Strong Agree,Agree,Neutral,Agree,Neutral,Agree,Strong Agree,Agree
+5c5b66cb3312f1000112f694,3,4,1,6,Agree,Strong Agree,Agree,Agree,Agree,Strong Agree,Agree,Agree,Neutral,Agree,Strong Agree,Agree
+62e3f7b224ec70641fd86b7b,3,5,1,3,Agree,Neutral,Strong Disagree,Agree,Neutral,Agree,Strong Disagree,Agree,Strong Disagree,Agree,Agree,Agree
+5d02a158c8a372001abf3b30,4,5,2,5,Agree,Agree,Neutral,Agree,Agree,Agree,Neutral,Agree,Neutral,Agree,Agree,Agree
+6718f7d06399295fc47821c0,7,7,7,7,Strong Agree,Strong Agree,Agree,Strong Agree,Strong Agree,Agree,Strong Agree,Strong Agree,Agree,Strong Agree,Strong Agree,Strong Agree
+663a28078139647b4663d09f,3,4,1,3,Neutral,Agree,Neutral,Agree,Agree,Agree,Neutral,Agree,Neutral,Agree,Agree,Agree
+61572b39d8a0be3869ccd5ae,5,6,2,3,Agree,Agree,Strong Agree,Strong Agree,Strong Agree,Strong Agree,Agree,Strong Agree,Agree,Strong Agree,Strong Agree,Agree
+6447cf4c43802edcd6b846bc,3,3,2,3,Neutral,Agree,Neutral,Agree,Neutral,Agree,Neutral,Agree,Neutral,Disagree,Agree,Agree
+675590f1eeef66188a85e1cd,4,7,6,5,Agree,Strong Agree,Strong Agree,Agree,Strong Agree,Strong Agree,Agree,Agree,Agree,Strong Agree,Agree,Strong Agree
+678019571a2ac0496e597be5,4,5,6,2,Agree,Neutral,Neutral,Neutral,Agree,Agree,Agree,Agree,Neutral,Neutral,Agree,Agree
+673bab950ce7fb673ff7eecc,5,6,2,3,Agree,Agree,Strong Agree,Agree,Strong Agree,Agree,Strong Agree,Agree,Neutral,Agree,Agree,Agree
+66d9a01e46a5112c3146c2bd,2,5,3,6,Agree,Agree,Agree,Agree,Agree,Strong Agree,Agree,Strong Agree,Strong Agree,Strong Agree,Strong Agree,Strong Agree
+604fa685e33606f9a0ee8189,5,6,3,4,Strong Agree,Strong Agree,Agree,Strong Agree,Strong Agree,Strong Agree,Strong Agree,Strong Agree,Agree,Strong Agree,Agree,Strong Agree
+60fae066c4ab91522a85f075,5,5,1,5,Agree,Agree,Neutral,Agree,Neutral,Neutral,Neutral,Agree,Neutral,Agree,Agree,Agree
+616c83fb9916289f401fb837,3,5,2,5,Agree,Strong Agree,Neutral,Agree,Neutral,Strong Agree,Neutral,Agree,Neutral,Strong Agree,Agree,Agree
+5a9c41f2dbdb470001eeef9c,2,4,1,3,Neutral,Agree,Agree,Strong Agree,Agree,Agree,Strong Agree,Agree,Neutral,Neutral,Agree,Agree
+67687d94d5edc29f07de0176,4,5,4,4,Agree,Agree,Neutral,Agree,Neutral,Neutral,Neutral,Neutral,Neutral,Agree,Agree,Agree
+676d3ef7769d39d4537e67d4,3,7,7,7,Agree,Agree,Strong Agree,Strong Agree,Strong Agree,Strong Agree,Strong Agree,Strong Agree,Agree,Strong Agree,Strong Agree,Strong Agree
+63e57ca5d6e126546cfc66bf,4,5,1,5,Agree,Agree,Strong Disagree,Agree,Strong Disagree,Agree,Strong Disagree,Agree,Strong Disagree,Agree,Agree,Agree
+6658c369bc36ded0ffe472b8,5,5,1,4,Agree,Agree,Neutral,Agree,Neutral,Agree,Neutral,Agree,Neutral,Agree,Agree,Neutral
+61333ed3b980f519ee86c45c,5,7,1,7,Strong Agree,Strong Agree,Strong Agree,Strong Agree,Strong Agree,Strong Agree,Strong Agree,Strong Agree,Neutral,Strong Agree,Strong Agree,Strong Agree
+665e0faa748512c88de27385,3,5,2,5,Agree,Strong Agree,Agree,Agree,Agree,Agree,Agree,Agree,Agree,Agree,Agree,Agree
+605a25c743f7ab91b0881ddf,5,5,1,1,Agree,Agree,Neutral,Agree,Neutral,Agree,Neutral,Agree,Neutral,Agree,Agree,Agree
+676060fef2955d6112c7e224,5,7,2,5,Agree,Strong Agree,Neutral,Agree,Strong Agree,Agree,Strong Agree,Agree,Neutral,Agree,Strong Agree,Strong Agree
+669038b13e852687aaf4a1cb,3,3,1,6,Agree,Agree,Agree,Strong Agree,Agree,Strong Agree,Strong Agree,Strong Agree,Agree,Strong Agree,Strong Agree,Agree
+67609dc51817400f95f9db14,3,5,1,1,Agree,Agree,Strong Agree,Strong Agree,Strong Agree,Strong Agree,Strong Agree,Strong Agree,Strong Agree,Strong Agree,Strong Agree,Agree
+5f04dc9fb117c31680c1a4f5,4,5,1,3,Agree,Agree,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral,Disagree,Agree,Neutral,Agree
+6740fd7385a9299cf29bdf96,4,4,1,2,Agree,Strong Agree,Agree,Strong Agree,Agree,Agree,Strong Agree,Agree,Strong Agree,Agree,Strong Agree,Neutral
+66c5e698d9527f93c31cab42,7,7,1,5,Strong Agree,Strong Agree,Agree,Strong Agree,Strong Agree,Strong Agree,Agree,Strong Agree,Strong Agree,Strong Agree,Strong Agree,Strong Agree
+58d43fb77c08be0001c24830,2,5,1,6,Agree,Agree,Neutral,Agree,Neutral,Agree,Neutral,Agree,Neutral,Strong Agree,Strong Agree,Agree
+67465c29233ddf0c2040ced8,4,5,1,1,Agree,Neutral,Disagree,Agree,Neutral,Agree,Disagree,Neutral,Disagree,Agree,Agree,Neutral
+664b530d4cf8b88b68548a11,2,3,1,2,Agree,Strong Agree,Agree,Strong Agree,Agree,Agree,Agree,Agree,Strong Agree,Strong Agree,Strong Agree,Strong Agree
+66774233add67a4a8e71398e,4,5,1,2,Agree,Agree,Disagree,Agree,Disagree,Agree,Disagree,Agree,Disagree,Neutral,Agree,Agree
+676288b65215f42b28a98b3f,7,7,7,7,Neutral,Strong Agree,Strong Agree,Strong Agree,Strong Agree,Strong Agree,Strong Agree,Strong Agree,Strong Agree,Strong Agree,Strong Agree,Strong Agree
+59d1f0fffaf42e00012b6c20,2,5,1,5,Strong Agree,Strong Agree,Agree,Strong Agree,Agree,Agree,Agree,Strong Agree,Neutral,Agree,Strong Agree,Strong Agree
+668d371bd614f22c3433ea48,4,5,1,4,Agree,Agree,Neutral,Neutral,Neutral,Agree,Agree,Agree,Neutral,Agree,Agree,Agree
+604a4755d62e5590404b5426,6,6,1,4,Agree,Agree,Neutral,Neutral,Neutral,Agree,Neutral,Agree,Disagree,Agree,Agree,Agree
+5ecd61476e04500905a6eed2,4,4,1,1,Neutral,Neutral,Neutral,Agree,Agree,Agree,Neutral,Agree,Neutral,Agree,Agree,Disagree
+60ae777b1f2abe681e903d0d,4,4,4,4,Disagree,Disagree,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral
+609510855d0c8e5bd0bdaf98,5,5,1,2,Neutral,Agree,Agree,Agree,Agree,Agree,Agree,Agree,Neutral,Agree,Agree,Agree
+5f11eb333c6e2c0df5b92270,4,5,2,3,Strong Agree,Strong Agree,Neutral,Strong Agree,Agree,Strong Agree,Neutral,Neutral,Neutral,Strong Agree,Strong Agree,Strong Agree
+6737d9fe76856492fd1603ef,4,6,4,5,Agree,Strong Agree,Neutral,Disagree,Agree,Agree,Neutral,Agree,Disagree,Agree,Agree,Agree
+609eda349f5d29975fbc2145,4,4,1,1,Neutral,Agree,Disagree,Agree,Agree,Agree,Neutral,Agree,Agree,Agree,Agree,Agree
+6441795624090301ddeba81e,4,3,2,2,Agree,Disagree,Agree,Agree,Agree,Agree,Neutral,Agree,Neutral,Agree,Agree,Disagree
+671a5b8dfc53e73310491a62,3,6,2,4,Agree,Agree,Agree,Strong Agree,Neutral,Agree,Neutral,Agree,Neutral,Agree,Agree,Agree
+6659f89651bdadba584e647c,4,5,1,5,Agree,Agree,Neutral,Strong Agree,Agree,Strong Agree,Agree,Strong Agree,Neutral,Strong Agree,Strong Agree,Strong Agree
+64784f5998230a548cb9cc60,5,6,3,4,Agree,Agree,Neutral,Agree,Agree,Agree,Neutral,Agree,Agree,Agree,Agree,Agree
+6671adcf4074ec7382ad560e,7,7,1,5,Agree,Strong Agree,Agree,Strong Agree,Agree,Neutral,Agree,Agree,Neutral,Agree,Agree,Neutral
+6658d13e8f1ee667f426421c,3,4,2,3,Neutral,Agree,Neutral,Agree,Neutral,Agree,Disagree,Agree,Neutral,Agree,Agree,Agree
+6683b0f95482b81b9714b57c,3,4,1,1,Neutral,Neutral,Disagree,Strong Disagree,Strong Disagree,Strong Disagree,Strong Disagree,Strong Disagree,Strong Disagree,Agree,Strong Disagree,Agree
+673b5c1281eb82f767f4d71c,6,6,2,6,Agree,Agree,Agree,Agree,Agree,Agree,Agree,Agree,Neutral,Strong Agree,Agree,Agree
+672c33aafed3be2f2a6ccfa0,3,4,1,3,Agree,Agree,Disagree,Agree,Neutral,Agree,Disagree,Agree,Disagree,Agree,Agree,Agree
+656f3c80f7ac5f41e230b9ee,3,6,1,3,Strong Agree,Strong Agree,Agree,Strong Agree,Agree,Agree,Agree,Strong Agree,Neutral,Strong Agree,Strong Agree,Strong Agree
+598f22af33481c000164d359,4,5,5,5,Agree,Agree,Agree,Agree,Agree,Strong Agree,Agree,Strong Agree,Agree,Agree,Agree,Agree
+600c125c46cf802e41733705,3,5,1,6,Agree,Neutral,Agree,Agree,Strong Agree,Agree,Neutral,Agree,Agree,Strong Agree,Agree,Agree
+5f05ef4bd552bc0009e5566c,4,6,1,2,Strong Agree,Strong Agree,Agree,Strong Agree,Strong Agree,Strong Agree,Agree,Agree,Agree,Strong Agree,Strong Agree,Strong Agree
+66d05ce2ebc84bef33af3a06,5,6,1,2,Disagree,Disagree,Neutral,Agree,Strong Disagree,Neutral,Disagree,Neutral,Strong Disagree,Agree,Disagree,Neutral
+5f70576bb22a006197aea6de,4,4,2,5,Neutral,Agree,Neutral,Agree,Neutral,Agree,Neutral,Agree,Strong Disagree,Disagree,Neutral,Neutral
+59baa4f5178f1b00018289b2,5,5,1,1,Agree,Agree,Strong Disagree,Neutral,Strong Disagree,Agree,Strong Disagree,Agree,Strong Disagree,Agree,Neutral,Agree
+660ed790b7c0b8649c41f432,6,6,1,5,Strong Agree,Strong Agree,Agree,Strong Agree,Strong Agree,Strong Agree,Agree,Strong Agree,Agree,Agree,Agree,Agree
+5cedaba627d8ce00018469bb,3,4,1,2,Neutral,Agree,Disagree,Disagree,Neutral,Disagree,Neutral,Disagree,Neutral,Agree,Agree,Neutral
+5dcfaad2dd9a740c2493fc28,2,2,1,2,Agree,Agree,Neutral,Agree,Agree,Agree,Neutral,Agree,Neutral,Strong Agree,Agree,Neutral
+6679886309dd90c237d80e5d,5,6,2,6,Agree,Agree,Neutral,Agree,Agree,Agree,Neutral,Agree,Neutral,Agree,Agree,Agree
+6751467d0ef4bb17c804e4c0,4,5,4,4,Neutral,Agree,Agree,Agree,Agree,Agree,Agree,Agree,Agree,Neutral,Agree,Agree
+67202234fd2f16cdb9c34721,5,6,1,3,Agree,Agree,Agree,Agree,Agree,Neutral,Neutral,Agree,Neutral,Agree,Strong Agree,Agree
+672d027eb57569b5077e0cc4,4,5,1,1,Agree,Agree,Neutral,Neutral,Neutral,Agree,Neutral,Agree,Neutral,Agree,Agree,Agree
+66924f3f720e8dcc562ef6fd,1,2,2,5,Neutral,Agree,Neutral,Strong Agree,Strong Agree,Strong Agree,Agree,Strong Agree,Neutral,Agree,Agree,Agree
+5d038adefda4bb00013f8afb,6,6,1,5,Agree,Agree,Strong Disagree,Agree,Neutral,Agree,Disagree,Agree,Neutral,Agree,Agree,Neutral
+5c5d36bc034e280001644c3b,4,5,4,4,Agree,Agree,Neutral,Agree,Neutral,Agree,Neutral,Agree,Neutral,Agree,Agree,Agree
+6658b161dc9f95822cbcf443,4,4,2,3,Agree,Disagree,Neutral,Agree,Neutral,Neutral,Neutral,Agree,Disagree,Agree,Agree,Agree
+6441204e8a1c0c51415ce0f8,6,6,2,4,Agree,Agree,Strong Agree,Strong Agree,Agree,Agree,Agree,Agree,Strong Agree,Agree,Agree,Agree
+65456ebc819cdd5600552571,5,6,2,6,Agree,Agree,Agree,Agree,Agree,Agree,Agree,Agree,Agree,Agree,Agree,Strong Agree
+673e1fe5947080d86c749aff,5,5,2,3,Agree,Agree,Neutral,Agree,Strong Agree,Agree,Agree,Strong Agree,Agree,Strong Agree,Agree,Agree
+6659b0c46a1675f2d40e2586,3,6,1,6,Neutral,Agree,Agree,Agree,Agree,Agree,Agree,Agree,Neutral,Agree,Agree,Agree
+6234905bd877b34677aaa521,3,6,1,4,Neutral,Strong Agree,Strong Disagree,Agree,Neutral,Agree,Strong Disagree,Agree,Strong Disagree,Strong Agree,Agree,Agree
+5e7d1c1e70dd753a081a29d9,5,6,3,3,Agree,Agree,Agree,Agree,Neutral,Agree,Agree,Agree,Neutral,Agree,Agree,Agree
+5b4a3ab1bc06c90001f902f4,3,5,1,1,Neutral,Disagree,Strong Disagree,Agree,Disagree,Agree,Disagree,Disagree,Disagree,Disagree,Disagree,Disagree
+5e9086ca917d9039e3c4cd25,5,5,1,4,Strong Agree,Strong Agree,Neutral,Agree,Neutral,Strong Agree,Neutral,Agree,Disagree,Strong Agree,Agree,Strong Agree
+5e7e1679f8a96f4be83e51e4,2,3,1,1,Agree,Agree,Strong Disagree,Agree,Strong Disagree,Strong Disagree,Strong Disagree,Strong Disagree,Strong Disagree,Agree,Strong Disagree,Neutral
+57dd3b0e91b7fc0001493db9,5,6,2,3,Strong Agree,Strong Agree,Agree,Strong Agree,Strong Agree,Strong Agree,Agree,Agree,Agree,Strong Agree,Agree,Strong Agree
+5fb8dc3c8e8e964121c6aa4c,4,6,2,5,Agree,Agree,Neutral,Agree,Neutral,Agree,Agree,Agree,Neutral,Agree,Agree,Agree
+668c39cf43ce2932522f9d37,4,5,1,4,Strong Agree,Agree,Neutral,Agree,Neutral,Strong Agree,Neutral,Agree,Neutral,Agree,Agree,Agree
+5d0a5d36d41b4b00172c3cc9,3,4,1,2,Agree,Agree,Agree,Agree,Agree,Agree,Agree,Agree,Agree,Agree,Agree,Agree
+65ff48ba8866040c0d0649c5,5,4,1,1,Strong Disagree,Strong Disagree,Neutral,Strong Disagree,Neutral,Disagree,Neutral,Neutral,Disagree,Disagree,Disagree,Strong Disagree
+59ef022eae9f950001d84a43,5,5,2,4,Agree,Agree,Neutral,Agree,Neutral,Agree,Agree,Agree,Neutral,Agree,Agree,Agree
+66b0829f976a969235a5ca75,5,7,1,3,Agree,Strong Agree,Neutral,Agree,Neutral,Agree,Neutral,Strong Agree,Agree,Strong Agree,Agree,Agree
+665bae8786e39a9d3071ef7c,4,7,4,6,Agree,Strong Agree,Neutral,Agree,Agree,Agree,Agree,Agree,Neutral,Agree,Agree,Agree
+66ba62aba868595bbef88f10,3,6,1,3,Agree,Strong Agree,Agree,Strong Agree,Strong Agree,Strong Agree,Neutral,Agree,Agree,Agree,Agree,Agree
+5c37a0e7bef9a20001e3a497,3,3,1,1,Agree,Agree,Neutral,Agree,Neutral,Agree,Neutral,Agree,Agree,Neutral,Agree,Neutral
+62fbd2e4a303a0c6ff0874b1,3,3,1,6,Neutral,Agree,Strong Disagree,Neutral,Strong Disagree,Disagree,Strong Disagree,Agree,Neutral,Disagree,Neutral,Neutral
+6738dae02c5a63be153fbe29,5,7,7,7,Strong Agree,Strong Agree,Strong Agree,Strong Agree,Strong Agree,Strong Agree,Strong Agree,Strong Agree,Strong Agree,Strong Agree,Strong Agree,Strong Agree
+605731872f40ec675cdf1f0b,5,6,1,5,Agree,Strong Agree,Agree,Strong Agree,Agree,Strong Agree,Agree,Agree,Strong Agree,Strong Agree,Strong Agree,Agree
+5a57e4f7acc75b00017a2dcd,7,7,4,4,Strong Agree,Strong Agree,Agree,Strong Agree,Strong Agree,Agree,Strong Agree,Strong Agree,Strong Agree,Agree,Agree,Strong Agree
+61166b2cec63d8ea49e36aac,5,6,2,5,Agree,Agree,Neutral,Agree,Neutral,Agree,Neutral,Agree,Neutral,Agree,Agree,Agree
+5e234e6d06121f5eceaba7f1,4,2,2,1,Strong Disagree,Disagree,Strong Disagree,Disagree,Strong Disagree,Strong Disagree,Strong Disagree,Disagree,Strong Disagree,Strong Disagree,Strong Disagree,Strong Disagree
+67591767ad41717a9710c4b8,7,7,1,1,Strong Agree,Strong Agree,Strong Agree,Strong Agree,Strong Agree,Agree,Strong Agree,Strong Agree,Agree,Strong Agree,Strong Agree,Strong Agree
+62ac24c9af89f1f28aea1d11,4,6,2,5,Agree,Strong Agree,Agree,Agree,Agree,Strong Agree,Agree,Agree,Neutral,Agree,Agree,Agree
+6772b66d08f724d93d1aab73,4,6,4,6,Strong Agree,Strong Agree,Neutral,Strong Agree,Neutral,Strong Agree,Strong Agree,Strong Agree,Neutral,Strong Agree,Strong Agree,Strong Agree
+6501b7fd7c5faeb580b81204,4,6,1,3,Strong Agree,Strong Agree,Agree,Strong Agree,Agree,Strong Agree,Agree,Strong Agree,Agree,Strong Agree,Strong Agree,Agree
+5bf53b3c87780800014ed5aa,3,5,1,3,Agree,Agree,Neutral,Agree,Agree,Strong Agree,Neutral,Strong Agree,Agree,Agree,Agree,Strong Agree
+599ab130b5566b0001aa85bb,5,5,2,4,Agree,Agree,Neutral,Agree,Neutral,Agree,Agree,Agree,Neutral,Agree,Agree,Agree
+599acb2f6c165e000113fc70,3,6,2,3,Agree,Agree,Neutral,Agree,Neutral,Agree,Neutral,Agree,Agree,Agree,Strong Agree,Agree
+6107b81f125c20be9e368b49,1,6,7,7,Strong Agree,Strong Agree,Agree,Strong Agree,Strong Agree,Strong Agree,Agree,Strong Agree,Agree,Agree,Agree,Agree
+5c197c9c020cbb00011201fe,5,6,2,5,Agree,Agree,Agree,Agree,Agree,Agree,Neutral,Strong Agree,Neutral,Agree,Strong Agree,Agree
+6747536d88cb6d53b9bed191,4,6,2,4,Agree,Strong Agree,Strong Agree,Agree,Strong Agree,Strong Agree,Agree,Strong Agree,Disagree,Strong Agree,Strong Agree,Agree
+5ce15b0ea7b516001828c646,6,6,1,2,Agree,Strong Agree,Neutral,Agree,Neutral,Agree,Neutral,Agree,Neutral,Agree,Strong Agree,Agree
+6658b52898569e477b21cf41,5,6,1,4,Agree,Agree,Neutral,Agree,Neutral,Agree,Disagree,Agree,Disagree,Agree,Agree,Agree
+5c4a061161db8c00015e4fb0,5,7,6,7,Agree,Strong Agree,Strong Agree,Strong Agree,Strong Agree,Strong Agree,Agree,Strong Agree,Strong Agree,Strong Agree,Strong Agree,Strong Agree
+671566748ec974a47ace455b,4,5,1,2,Agree,Agree,Disagree,Agree,Agree,Agree,Agree,Agree,Neutral,Agree,Agree,Agree
+6775b6f1acaab15bb77f71af,7,7,1,4,Strong Agree,Agree,Agree,Agree,Strong Agree,Strong Agree,Strong Agree,Strong Agree,Neutral,Agree,Agree,Agree
+667ac4dcd237965bb30cb0d0,5,6,1,1,Strong Agree,Strong Agree,Strong Agree,Strong Agree,Strong Agree,Strong Agree,Strong Agree,Strong Agree,Strong Agree,Strong Agree,Strong Agree,Strong Agree
+5cc99062d918560016acf6ac,5,6,1,3,Agree,Agree,Agree,Agree,Agree,Agree,Neutral,Agree,Neutral,Agree,Agree,Agree
+6658d9826d4ec610f1b0cc33,4,5,1,3,Agree,Agree,Neutral,Agree,Neutral,Agree,Neutral,Agree,Neutral,Agree,Agree,Agree
+6559e8fcb4e07db3db4e2165,6,6,2,5,Agree,Agree,Neutral,Agree,Neutral,Agree,Neutral,Agree,Neutral,Agree,Agree,Agree
+650ae1b2157df341fd193714,3,5,1,5,Strong Agree,Strong Agree,Agree,Agree,Agree,Agree,Neutral,Agree,Neutral,Strong Agree,Strong Agree,Strong Agree
+677e74c8dd1dce11a8f96f88,7,7,1,5,Neutral,Agree,Neutral,Agree,Strong Agree,Agree,Neutral,Agree,Disagree,Neutral,Agree,Agree
+66f1aeb024eaa71730ee0d8f,1,5,1,1,Strong Agree,Agree,Strong Agree,Strong Agree,Strong Agree,Strong Agree,Strong Agree,Strong Agree,Strong Agree,Agree,Agree,Strong Agree
+676fb072a0f80a990bd4cd32,4,6,4,5,Agree,Strong Agree,Strong Agree,Strong Agree,Strong Agree,Agree,Agree,Strong Agree,Agree,Strong Agree,Agree,Agree
+6399d599c9d83e0ed0317ea2,4,4,1,5,Agree,Strong Agree,Neutral,Agree,Agree,Agree,Neutral,Agree,Neutral,Agree,Agree,Strong Agree
+6682935831ecbb91041102e5,2,3,1,1,Neutral,Neutral,Neutral,Agree,Agree,Agree,Agree,Agree,Neutral,Disagree,Neutral,Disagree
+67644c9e4a8508ec299135c5,2,6,4,6,Strong Agree,Strong Agree,Neutral,Strong Agree,Neutral,Strong Agree,Neutral,Strong Agree,Strong Disagree,Strong Agree,Strong Agree,Strong Agree
+67580f69a9a3cb759240904b,6,7,1,3,Strong Agree,Strong Agree,Neutral,Agree,Neutral,Neutral,Neutral,Agree,Neutral,Strong Agree,Agree,Agree
+672b2e8321750551265ac390,6,7,1,3,Agree,Strong Agree,Neutral,Agree,Agree,Agree,Agree,Agree,Agree,Strong Agree,Agree,Agree
+66a63fbb0a4f33f35327ed8b,2,3,1,1,Agree,Agree,Neutral,Agree,Agree,Neutral,Neutral,Agree,Neutral,Agree,Agree,Agree
+66aa8dcfbc121dcef0433ecf,4,5,2,4,Agree,Agree,Agree,Agree,Agree,Agree,Neutral,Agree,Neutral,Agree,Neutral,Agree
+6742f8bfd1cce3eadeee8c62,7,5,4,5,Agree,Agree,Neutral,Agree,Agree,Agree,Agree,Agree,Neutral,Agree,Agree,Agree
+6744d50e3bd8711b57216cd2,4,7,3,5,Strong Agree,Strong Agree,Strong Agree,Strong Agree,Strong Agree,Strong Agree,Agree,Strong Agree,Strong Agree,Strong Agree,Strong Agree,Strong Agree
+595d3afcdd044900012ce78a,5,6,1,4,Agree,Agree,Agree,Agree,Agree,Agree,Neutral,Agree,Agree,Strong Agree,Agree,Strong Agree
+6394a8f1f510b07aeaf465e0,4,4,1,2,Agree,Agree,Agree,Strong Agree,Strong Agree,Agree,Neutral,Agree,Neutral,Strong Agree,Agree,Agree
+672d2977ae54935ef84a2b74,4,7,4,7,Strong Agree,Strong Agree,Strong Agree,Agree,Strong Agree,Strong Agree,Strong Agree,Strong Agree,Strong Agree,Strong Agree,Strong Agree,Strong Agree
+6777bc5eec85e7e2afa09d77,3,6,2,6,Agree,Agree,Strong Agree,Agree,Strong Agree,Agree,Strong Agree,Strong Agree,Neutral,Agree,Strong Agree,Strong Agree
+668fa82eb6aad7177cb29ba0,4,5,1,5,Agree,Strong Agree,Neutral,Agree,Neutral,Agree,Neutral,Agree,Neutral,Agree,Strong Agree,Agree
+5f4fbebb8bb76c0c01881651,4,5,1,4,Disagree,Disagree,Neutral,Agree,Agree,Agree,Neutral,Agree,Neutral,Neutral,Neutral,Neutral
+638e2eed82fa613f2140ba13,4,6,1,3,Agree,Agree,Agree,Strong Agree,Agree,Strong Agree,Neutral,Strong Agree,Neutral,Agree,Agree,Neutral
+677a5d8e2115bfbb2fa0c73c,3,5,1,4,Agree,Agree,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral,Agree,Neutral,Agree
+5a75b131eea3d300016ddc70,3,5,1,5,Agree,Agree,Neutral,Agree,Neutral,Neutral,Neutral,Agree,Neutral,Agree,Neutral,Agree
+5c4602713d08e80001369876,3,4,1,3,Agree,Agree,Agree,Strong Agree,Neutral,Agree,Agree,Agree,Neutral,Neutral,Agree,Agree
+66912ce354d84162615be8ba,3,5,2,2,Agree,Agree,Disagree,Agree,Disagree,Neutral,Disagree,Neutral,Disagree,Agree,Neutral,Agree
+5fef2fa9efea401f0b55a7c2,4,4,1,1,Agree,Agree,Neutral,Neutral,Agree,Agree,Agree,Agree,Strong Agree,Agree,Agree,Strong Agree
+63f85b1c3124fd03faff2126,7,7,1,6,Strong Agree,Strong Agree,Strong Agree,Agree,Agree,Strong Agree,Strong Agree,Agree,Strong Agree,Agree,Strong Agree,Strong Agree
+677be7f32b827fb2ae1eb7f0,6,5,6,5,Agree,Strong Agree,Agree,Agree,Agree,Agree,Agree,Agree,Disagree,Agree,Agree,Agree
+6783379eb9fef4654886ead1,4,6,1,5,Agree,Strong Agree,Strong Agree,Agree,Strong Agree,Agree,Strong Agree,Strong Agree,Neutral,Agree,Strong Agree,Strong Agree
+59e7232f24d7bf00012f112e,2,3,3,5,Neutral,Agree,Agree,Agree,Agree,Strong Agree,Agree,Strong Agree,Strong Agree,Strong Agree,Strong Agree,Strong Agree
+675e8e92f5b7ffad57a265b1,3,4,4,3,Strong Agree,Strong Agree,Strong Agree,Strong Agree,Strong Agree,Strong Agree,Strong Agree,Strong Agree,Strong Agree,Strong Agree,Strong Agree,Strong Agree
+675af02593fabc7398d6447e,2,6,1,1,Agree,Agree,Disagree,Agree,Agree,Agree,Agree,Agree,Agree,Agree,Agree,Agree
+5962a5b29955ee00015bce98,3,3,2,2,Disagree,Neutral,Agree,Agree,Neutral,Agree,Disagree,Agree,Neutral,Disagree,Neutral,Disagree
+66edea9d406f629b67ce30b8,5,4,2,2,Agree,Agree,Neutral,Neutral,Neutral,Agree,Disagree,Neutral,Disagree,Neutral,Disagree,Neutral
+57c357770e6a1f00015f6038,5,6,4,5,Agree,Strong Agree,Neutral,Neutral,Neutral,Neutral,Disagree,Neutral,Disagree,Neutral,Neutral,Neutral
+6570824312e21ad0a49858f4,5,6,2,4,Agree,Strong Agree,Neutral,Agree,Agree,Agree,Agree,Agree,Agree,Agree,Agree,Agree
+60537fdcda0ac05f1c59c57f,4,4,5,5,Agree,Agree,Neutral,Agree,Agree,Agree,Neutral,Agree,Neutral,Agree,Agree,Agree
+5c5ff87f8c0552000109d7de,5,6,2,2,Neutral,Agree,Agree,Neutral,Strong Agree,Agree,Strong Agree,Agree,Neutral,Agree,Agree,Agree
+675e06422af6e9cb4bcbd459,5,6,5,7,Strong Agree,Strong Agree,Strong Agree,Strong Agree,Strong Agree,Strong Agree,Strong Agree,Strong Agree,Agree,Agree,Agree,Agree
+5b2bcfb51835660001cc6751,5,6,5,7,Strong Agree,Strong Agree,Strong Agree,Strong Agree,Strong Agree,Strong Agree,Strong Agree,Strong Agree,Strong Agree,Strong Agree,Strong Agree,Strong Agree
+66084cde8c8b94db6ce51ac9,6,7,1,2,Strong Agree,Strong Agree,Strong Agree,Strong Agree,Strong Agree,Strong Agree,Strong Agree,Strong Agree,Strong Agree,Strong Agree,Strong Agree,Strong Agree
+66cf306107ad4fcf4bef6f2f,3,5,2,2,Agree,Agree,Neutral,Agree,Neutral,Neutral,Neutral,Agree,Disagree,Strong Agree,Agree,Agree
+5aafd9eff69e940001d88bf4,4,1,5,4,Disagree,Strong Disagree,Neutral,Strong Disagree,Neutral,Strong Disagree,Strong Disagree,Disagree,Neutral,Strong Disagree,Disagree,Disagree
+66338f4346e84e4f0469bc21,4,5,4,4,Agree,Agree,Neutral,Neutral,Agree,Agree,Agree,Agree,Neutral,Agree,Agree,Agree
+5cad1eef8ed53d00180d2532,4,5,1,1,Disagree,Disagree,Neutral,Disagree,Neutral,Neutral,Neutral,Agree,Neutral,Neutral,Neutral,Disagree
+669d7d04ec742963733a5b35,2,5,5,5,Strong Agree,Strong Agree,Agree,Strong Agree,Agree,Agree,Agree,Strong Agree,Strong Agree,Strong Agree,Strong Agree,Strong Agree
+6715013670bed7e4e955f109,7,7,6,7,Strong Agree,Agree,Agree,Strong Agree,Strong Agree,Agree,Agree,Strong Agree,Neutral,Strong Agree,Agree,Strong Agree
+67a688221058a62a9fa76a82,6,7,6,7,Strong Agree,Strong Agree,Agree,Agree,Strong Agree,Agree,Strong Agree,Strong Agree,Agree,Strong Agree,Strong Agree,Agree
+6100105892a2248ae5d48498,4,4,1,3,Neutral,Disagree,Neutral,Agree,Agree,Neutral,Neutral,Neutral,Neutral,Strong Disagree,Neutral,Strong Disagree
+6630f6bfbdc7906ef7c0ee24,4,6,5,6,Agree,Strong Agree,Agree,Agree,Agree,Agree,Agree,Agree,Neutral,Strong Agree,Strong Agree,Agree
+67657ea1ad7558bf427f3a22,6,6,1,2,Neutral,Agree,Neutral,Agree,Agree,Agree,Disagree,Agree,Neutral,Agree,Agree,Agree
+66847cc7c67232fae11af5b3,5,6,4,6,Strong Agree,Agree,Agree,Agree,Strong Agree,Strong Agree,Agree,Agree,Agree,Strong Agree,Strong Agree,Strong Agree
+6709725953883fa2a8fe6957,5,7,2,5,Strong Agree,Strong Agree,Strong Agree,Agree,Agree,Strong Agree,Strong Agree,Strong Agree,Agree,Strong Agree,Agree,Strong Agree
+6738a38d5b42ebdad45239a4,7,7,5,5,Agree,Strong Agree,Agree,Agree,Agree,Agree,Strong Agree,Strong Agree,Agree,Agree,Agree,Agree
+62c5ebe612c40c7e32390bf6,4,5,1,1,Agree,Agree,Neutral,Agree,Neutral,Agree,Neutral,Agree,Neutral,Agree,Agree,Agree
+5f653cb18aad310a9ee7c32d,2,3,1,2,Agree,Agree,Strong Agree,Agree,Neutral,Agree,Agree,Strong Agree,Neutral,Agree,Agree,Agree
+677692c13cfeae70079e3caa,4,6,1,6,Agree,Agree,Agree,Strong Agree,Agree,Agree,Agree,Agree,Neutral,Strong Agree,Agree,Agree
+566feba6b937e400052d33b2,6,7,3,4,Strong Agree,Strong Agree,Strong Agree,Strong Agree,Strong Agree,Strong Agree,Strong Agree,Strong Agree,Strong Agree,Strong Agree,Strong Agree,Strong Agree
+677299ebbff623812504a11d,5,6,1,5,Agree,Strong Agree,Agree,Strong Agree,Agree,Strong Agree,Agree,Agree,Strong Agree,Agree,Strong Agree,Strong Agree
+6773e8418b4496160ace9137,3,4,1,1,Agree,Agree,Neutral,Agree,Agree,Agree,Agree,Strong Agree,Neutral,Neutral,Agree,Neutral
+5f514593ea1e87365b9cb05f,5,6,1,5,Strong Agree,Strong Agree,Strong Agree,Strong Agree,Strong Agree,Strong Agree,Neutral,Strong Agree,Neutral,Strong Agree,Strong Agree,Strong Agree
+67605cad2b91076c10846479,4,5,7,3,Agree,Strong Agree,Neutral,Agree,Neutral,Neutral,Neutral,Agree,Neutral,Strong Agree,Agree,Agree
+63469da3cef76cc5b3523b97,4,5,1,4,Agree,Agree,Neutral,Agree,Agree,Agree,Neutral,Agree,Neutral,Agree,Agree,Strong Agree
+670ffdb6896bad5ab5d6f894,4,6,6,6,Strong Agree,Strong Agree,Agree,Strong Agree,Strong Agree,Agree,Agree,Strong Agree,Strong Agree,Strong Agree,Strong Agree,Strong Agree
+57b4a771cda70d0001534835,3,1,1,1,Strong Disagree,Strong Disagree,Strong Disagree,Strong Disagree,Strong Disagree,Strong Disagree,Strong Disagree,Strong Disagree,Strong Disagree,Strong Disagree,Strong Disagree,Strong Disagree
+599442e6bf8bcf0001ab6857,4,5,4,5,Agree,Agree,Neutral,Agree,Agree,Neutral,Neutral,Agree,Neutral,Agree,Agree,Agree
+6777f8aafc72369e96bb6da6,4,4,1,1,Agree,Agree,Disagree,Disagree,Strong Agree,Strong Agree,Neutral,Strong Agree,Neutral,Agree,Agree,Agree
+6772e1e5965ccca40d8cfba9,3,6,1,4,Agree,Strong Agree,Agree,Agree,Neutral,Agree,Neutral,Agree,Neutral,Agree,Agree,Strong Agree
+5c72f9bf8711bf000139c5ee,5,6,1,4,Agree,Agree,Neutral,Agree,Neutral,Agree,Neutral,Agree,Neutral,Agree,Agree,Agree
+6788228f3fcc7c8b75b77522,4,5,3,3,Agree,Strong Agree,Agree,Agree,Strong Agree,Agree,Strong Agree,Agree,Agree,Strong Agree,Agree,Strong Agree
+5a9c4b3d35237b000112a00e,4,5,1,2,Neutral,Disagree,Disagree,Agree,Neutral,Agree,Neutral,Neutral,Neutral,Agree,Agree,Agree
+670939463679b3968927066e,4,4,3,4,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral,Disagree,Agree,Disagree,Neutral,Neutral,Neutral
+640485331e13a7bfa4a43d46,6,6,1,2,Agree,Agree,Agree,Agree,Neutral,Disagree,Disagree,Disagree,Disagree,Disagree,Agree,Agree
+6760c6a23c7512b7ca3383d0,6,7,1,3,Agree,Agree,Agree,Agree,Agree,Agree,Agree,Agree,Strong Agree,Strong Agree,Agree,Agree
+5c59e12429f64c0001cc6436,5,4,1,1,Disagree,Disagree,Neutral,Neutral,Neutral,Agree,Disagree,Neutral,Neutral,Agree,Strong Disagree,Disagree
+5db7203e98ecdf000ae8d504,4,5,1,3,Agree,Agree,Neutral,Agree,Neutral,Agree,Neutral,Agree,Neutral,Agree,Agree,Agree
+59d3b07947f4e80001a6c551,3,6,1,6,Strong Agree,Strong Agree,Neutral,Strong Agree,Neutral,Strong Agree,Neutral,Strong Agree,Neutral,Strong Agree,Strong Agree,Strong Agree
+60d3867b6e7529fc77032b54,4,5,1,3,Agree,Agree,Neutral,Agree,Neutral,Neutral,Neutral,Agree,Disagree,Agree,Agree,Agree
+577a3dfd92c50c0001c9488f,3,4,1,1,Disagree,Disagree,Neutral,Agree,Agree,Agree,Neutral,Neutral,Agree,Agree,Agree,Agree
+6697864e364c6864275e4a17,4,6,1,6,Strong Agree,Strong Agree,Strong Agree,Strong Agree,Strong Agree,Strong Agree,Strong Agree,Strong Agree,Agree,Strong Agree,Strong Agree,Strong Agree

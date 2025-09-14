@@ -1,0 +1,140 @@
+# About this repo
+
+This repository contains the data and code required to replicate the results of manuscript, "A Cognitive Layer Architecture Enables Patient-Facing (Mental) Health Support with LLMs".
+
+# Data
+
+## Study 1: Experimental study
+
+1. **Condition allocation for all participants** - `study1_condition_allocation.csv`: 
+
+    * N = 234 rows (one per participant)
+    
+    * Each transcript is labelled with the participant ID, agent condition (cognitive layer architecture, standalone LLM, or human therapist), and underlying LLM (AI conditions only: Claude, Gemini, LLama, or GPT-4)
+    
+    * Data contains summary-level information of the transcripts, including the session duration and average response latency
+
+2. **CTRS scores provided by human raters** - `study1_ctrs.csv`:
+
+    * N = 234 rows (one per participant)
+    
+    * Contains all 11 sub-scales for all rated transcripts
+
+    * Each transcript has two scores from different raters plus one score from the CTRS classifier
+
+3. **General clinical performance rubric marked by human raters** - `study1_general_clinical.csv`:
+
+    * N = 1,872 rows (one row per item per participant)
+    
+    * Contains human rater scores for general clinical performance dimensions including CBT appropriateness, therapeutic alliance, and clinical effectiveness
+    
+    * Each participant is rated on multiple clinical dimensions by expert raters
+
+4. **Pre- and post-session user survey data** - `study1_user_ratings.csv`:
+
+    * N = 234 rows (one per participant)
+    
+    * Contains pre-session mood ratings, post-session mood ratings, human-likeness ratings, and WAIS-R task performance measures
+    
+    * Includes both self-reported measures and objective task performance data
+
+5. **Pairwise comparison data** - `study1_pairwise_comparisons.csv`:
+
+    * N = 721 rows (comparison pairs, one row per item per participant pair)
+    
+    * Contains head-to-head comparisons between different agent conditions across various clinical dimensions
+    
+    * Each row represents a comparison between two participants' transcripts rated by expert clinicians
+
+## Study 2: Real-world study
+
+1. **Clinical outcomes data** - `study2_realworld_clinical.csv`:
+
+    * N = 942 rows (one per user with clinical outcomes)
+    
+    * Contains GAD-7 and PHQ-9 scores at start and end of treatment, recovery status, and linguistic features
+    
+    * Includes sentiment analysis, embedding entropy, and conversation complexity metrics
+
+2. **CTRS scores from real-world conversations** - `study2_realworld_ctrs.csv`:
+
+    * N = 19,674 rows (one per conversation)
+    
+    * Contains automated CTRS scores for all 11 sub-scales from real-world therapy conversations
+    
+    * Scores generated using the CTRS classifier trained on Study 1 data
+
+3. **User feedback data** - `study2_realworld_feedback.csv`:
+
+    * N = 6,551 rows (one per conversation with feedback)
+    
+    * Contains user-provided feedback on conversation helpfulness
+    
+    * Binary classification: "helpful" or "not helpful"
+
+4. **Human-labeled CTRS scores** - `study2_realworld_human_labels.csv`:
+
+    * N = 1,405 rows (subset of conversations with human labels, one row per CTRS item per user)
+    
+    * Contains human rater scores for CTRS dimensions on a subset of real-world conversations
+    
+    * Used for validating the automated CTRS classifier performance
+
+5. **User interaction data** - `study2_realworld_users.csv`:
+
+    * N = 51,916 rows (one per conversation)
+    
+    * Contains detailed conversation metadata including cognitive layer scores, message counts, linguistic features, and timestamps
+    
+    * Includes 16,630 unique users with conversation-level analytics
+
+# Analysis Code
+
+The analysis is organized into Jupyter notebooks in the `lib/` directory:
+
+## Study 1 Analysis
+- **`study1_clinical_performance.ipynb`**: Analysis of CTRS scores and general clinical performance dimensions
+- **`study1_user_survey.ipynb`**: Analysis of user survey data and WAIS-R task performance  
+- **`study1_supplementary.ipynb`**: Supplementary analyses and additional statistical tests
+
+## Study 2 Analysis
+- **`study2_realworld.ipynb`**: Comprehensive analysis of real-world deployment data including clinical outcomes, CTRS performance, and user engagement metrics
+
+## Utility Functions
+- **`utils/utils.py`**: Statistical analysis functions and data processing utilities
+- **`utils/variables.py`**: Variable definitions and constants used across analyses
+
+# Setup and Installation
+
+1. **Clone the repository**:
+   ```bash
+   git clone <repository-url>
+   cd study-2025-cognitive-layer
+   ```
+
+2. **Install dependencies**:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+3. **Run the analysis notebooks**:
+   - Open Jupyter Lab or Jupyter Notebook
+   - Navigate to the `lib/` directory
+   - Execute the notebooks in order for complete replication
+
+# Results
+
+The `results/` directory contains all figures and visualizations generated by the analysis:
+
+- **Clinical Performance**: CTRS score comparisons across conditions
+- **User Experience**: WAIS-R task performance and human-likeness ratings  
+- **Real-world Outcomes**: Clinical recovery rates and CTRS performance in deployment
+- **Pairwise Comparisons**: Head-to-head comparisons between different agent conditions
+
+# Citation
+
+If you use this data or code, please cite:
+
+```
+[Citation information will be added when the manuscript is published]
+```

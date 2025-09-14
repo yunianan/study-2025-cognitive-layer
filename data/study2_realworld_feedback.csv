@@ -1,0 +1,6554 @@
+conversation_id,feedback
+coaching_2847,helpful
+coaching_3070,helpful
+coaching_3481,helpful
+coaching_5179,helpful
+coaching_6268,helpful
+coaching_6464,helpful
+coaching_12984,helpful
+coaching_13319,helpful
+coaching_13322,helpful
+coaching_13546,helpful
+coaching_13661,helpful
+coaching_13745,helpful
+coaching_13768,helpful
+coaching_13813,helpful
+coaching_13881,helpful
+coaching_14194,helpful
+coaching_14198,helpful
+coaching_14233,helpful
+coaching_14414,helpful
+coaching_14553,helpful
+coaching_14575,helpful
+coaching_14859,helpful
+coaching_14925,helpful
+coaching_15065,helpful
+coaching_15451,helpful
+coaching_15463,helpful
+coaching_15498,helpful
+coaching_15555,helpful
+coaching_15632,helpful
+coaching_15811,helpful
+coaching_15853,helpful
+coaching_16086,helpful
+coaching_16183,helpful
+coaching_16306,helpful
+coaching_16391,helpful
+coaching_16417,helpful
+coaching_16442,helpful
+coaching_16474,helpful
+coaching_16511,helpful
+coaching_16595,helpful
+coaching_16757,helpful
+coaching_16790,helpful
+coaching_16805,helpful
+coaching_16810,helpful
+coaching_16813,helpful
+coaching_16817,helpful
+coaching_16819,helpful
+coaching_16882,helpful
+coaching_16885,helpful
+coaching_16936,not helpful
+coaching_16942,helpful
+coaching_17023,helpful
+coaching_17151,helpful
+coaching_17378,helpful
+coaching_17407,helpful
+coaching_17412,helpful
+coaching_17465,helpful
+coaching_17469,helpful
+coaching_17662,helpful
+coaching_17692,helpful
+coaching_17971,helpful
+coaching_18293,helpful
+coaching_18427,helpful
+coaching_18445,helpful
+coaching_18584,helpful
+coaching_18597,helpful
+coaching_18810,helpful
+coaching_19306,helpful
+coaching_19336,helpful
+coaching_19611,helpful
+coaching_20025,helpful
+coaching_20152,helpful
+coaching_20208,helpful
+coaching_20456,helpful
+coaching_20540,helpful
+coaching_20637,helpful
+coaching_20802,helpful
+coaching_20859,helpful
+coaching_20871,helpful
+coaching_20977,helpful
+coaching_20985,helpful
+coaching_21120,helpful
+coaching_21209,helpful
+coaching_21270,helpful
+coaching_21303,helpful
+coaching_21548,helpful
+coaching_21605,helpful
+coaching_21780,helpful
+coaching_21795,helpful
+coaching_21842,helpful
+coaching_22037,helpful
+coaching_22120,helpful
+coaching_22192,helpful
+coaching_22241,helpful
+coaching_22332,helpful
+coaching_22371,helpful
+coaching_22391,helpful
+coaching_22554,helpful
+coaching_22607,helpful
+coaching_23065,helpful
+coaching_23091,helpful
+coaching_23100,helpful
+gptchats_219,not helpful
+gptchats_298,not helpful
+gptchats_454,not helpful
+gptchats_470,not helpful
+gptchats_483,not helpful
+gptchats_575,not helpful
+gptchats_625,not helpful
+gptchats_637,not helpful
+gptchats_657,not helpful
+gptchats_659,not helpful
+gptchats_697,not helpful
+gptchats_785,not helpful
+gptchats_871,not helpful
+gptchats_926,not helpful
+gptchats_955,not helpful
+gptchats_1031,not helpful
+gptchats_1145,not helpful
+gptchats_1213,not helpful
+gptchats_1247,not helpful
+gptchats_1296,not helpful
+gptchats_1318,not helpful
+gptchats_1349,not helpful
+gptchats_1437,not helpful
+gptchats_1449,not helpful
+gptchats_1526,not helpful
+gptchats_1537,not helpful
+gptchats_1605,not helpful
+gptchats_1611,not helpful
+gptchats_1618,not helpful
+gptchats_1655,not helpful
+gptchats_1838,not helpful
+gptchats_1858,not helpful
+gptchats_1888,not helpful
+gptchats_1892,not helpful
+gptchats_1984,not helpful
+gptchats_2034,not helpful
+gptchats_2123,not helpful
+gptchats_2152,not helpful
+gptchats_2279,not helpful
+gptchats_2291,not helpful
+gptchats_2326,not helpful
+gptchats_2361,not helpful
+gptchats_2367,not helpful
+gptchats_2420,not helpful
+gptchats_2465,not helpful
+gptchats_2683,not helpful
+gptchats_2724,not helpful
+gptchats_2789,not helpful
+gptchats_2859,not helpful
+gptchats_2894,not helpful
+gptchats_2939,not helpful
+gptchats_3051,not helpful
+gptchats_3167,not helpful
+gptchats_3177,not helpful
+gptchats_3205,not helpful
+gptchats_3225,not helpful
+gptchats_3229,not helpful
+gptchats_3275,not helpful
+gptchats_3393,not helpful
+gptchats_3443,not helpful
+gptchats_3561,not helpful
+gptchats_3585,not helpful
+gptchats_3720,not helpful
+gptchats_3853,not helpful
+gptchats_4085,not helpful
+gptchats_4215,not helpful
+gptchats_4465,not helpful
+gptchats_4499,not helpful
+gptchats_4658,not helpful
+gptchats_4724,not helpful
+gptchats_4754,not helpful
+gptchats_4757,not helpful
+gptchats_4820,not helpful
+gptchats_4965,not helpful
+gptchats_4966,not helpful
+gptchats_5031,not helpful
+gptchats_5232,not helpful
+gptchats_5238,not helpful
+gptchats_5259,not helpful
+gptchats_5302,not helpful
+gptchats_5412,not helpful
+gptchats_5510,not helpful
+gptchats_5549,not helpful
+gptchats_5708,not helpful
+gptchats_5728,not helpful
+gptchats_5819,not helpful
+gptchats_5823,not helpful
+gptchats_5866,not helpful
+gptchats_6050,not helpful
+gptchats_6053,not helpful
+gptchats_6072,not helpful
+gptchats_6123,not helpful
+gptchats_6167,not helpful
+gptchats_6178,not helpful
+gptchats_6210,not helpful
+gptchats_6271,not helpful
+gptchats_6428,not helpful
+gptchats_6441,not helpful
+gptchats_6502,not helpful
+gptchats_6562,not helpful
+gptchats_6658,not helpful
+gptchats_6663,not helpful
+gptchats_6681,not helpful
+gptchats_6766,not helpful
+gptchats_6769,not helpful
+gptchats_6839,not helpful
+gptchats_6863,not helpful
+gptchats_6952,not helpful
+gptchats_7036,not helpful
+gptchats_7333,not helpful
+gptchats_7391,not helpful
+gptchats_7427,not helpful
+gptchats_7434,not helpful
+gptchats_7459,not helpful
+gptchats_7632,not helpful
+gptchats_7702,not helpful
+gptchats_7780,not helpful
+gptchats_7965,not helpful
+gptchats_7971,not helpful
+gptchats_7992,not helpful
+gptchats_8311,not helpful
+gptchats_8514,not helpful
+gptchats_8533,not helpful
+gptchats_8579,not helpful
+gptchats_8676,not helpful
+gptchats_8848,not helpful
+gptchats_8923,not helpful
+gptchats_9022,not helpful
+gptchats_9033,not helpful
+gptchats_9068,not helpful
+gptchats_9098,not helpful
+gptchats_9333,not helpful
+gptchats_9361,not helpful
+gptchats_9418,not helpful
+gptchats_9451,not helpful
+gptchats_9579,not helpful
+gptchats_9805,not helpful
+gptchats_9921,not helpful
+gptchats_10044,not helpful
+gptchats_10079,not helpful
+gptchats_10476,not helpful
+gptchats_10831,not helpful
+gptchats_10866,not helpful
+gptchats_10921,not helpful
+gptchats_10986,not helpful
+gptchats_11157,not helpful
+gptchats_11209,not helpful
+gptchats_11223,not helpful
+gptchats_11228,not helpful
+gptchats_11231,not helpful
+gptchats_11269,not helpful
+gptchats_11377,not helpful
+gptchats_11617,not helpful
+gptchats_11621,not helpful
+gptchats_11960,not helpful
+gptchats_11977,not helpful
+gptchats_12026,not helpful
+gptchats_12082,not helpful
+gptchats_12140,not helpful
+gptchats_12253,not helpful
+gptchats_12451,not helpful
+gptchats_12868,not helpful
+gptchats_13050,not helpful
+gptchats_13109,not helpful
+gptchats_13236,not helpful
+gptchats_13437,not helpful
+gptchats_13441,not helpful
+gptchats_13553,not helpful
+gptchats_13823,not helpful
+gptchats_13828,not helpful
+gptchats_14032,not helpful
+gptchats_14122,not helpful
+gptchats_14377,not helpful
+gptchats_14902,not helpful
+gptchats_14941,not helpful
+gptchats_14973,not helpful
+gptchats_14974,not helpful
+gptchats_14992,not helpful
+gptchats_15084,not helpful
+gptchats_15100,not helpful
+gptchats_15174,not helpful
+gptchats_15183,not helpful
+gptchats_15344,not helpful
+gptchats_15378,not helpful
+gptchats_15451,not helpful
+gptchats_15485,not helpful
+gptchats_15543,not helpful
+gptchats_15556,not helpful
+gptchats_15615,not helpful
+gptchats_15722,not helpful
+gptchats_15814,not helpful
+gptchats_15873,not helpful
+gptchats_15984,not helpful
+gptchats_16052,not helpful
+gptchats_16069,not helpful
+gptchats_16138,not helpful
+gptchats_16767,not helpful
+gptchats_16864,not helpful
+gptchats_16868,not helpful
+gptchats_16904,not helpful
+gptchats_17015,not helpful
+gptchats_17149,not helpful
+gptchats_17186,not helpful
+gptchats_17264,not helpful
+gptchats_17313,not helpful
+gptchats_17337,not helpful
+gptchats_17388,not helpful
+gptchats_17444,not helpful
+gptchats_17576,not helpful
+gptchats_17635,not helpful
+gptchats_17639,not helpful
+gptchats_17896,not helpful
+gptchats_18130,not helpful
+gptchats_18147,not helpful
+gptchats_18156,not helpful
+gptchats_18160,not helpful
+gptchats_18318,not helpful
+gptchats_18473,not helpful
+gptchats_18612,not helpful
+gptchats_18633,not helpful
+gptchats_18691,not helpful
+gptchats_18767,not helpful
+gptchats_18994,not helpful
+gptchats_19256,not helpful
+gptchats_19282,not helpful
+gptchats_19627,not helpful
+gptchats_19644,not helpful
+gptchats_19782,not helpful
+gptchats_19960,not helpful
+gptchats_20023,not helpful
+gptchats_20061,not helpful
+gptchats_20187,not helpful
+gptchats_20218,not helpful
+gptchats_20404,not helpful
+gptchats_20546,not helpful
+gptchats_20719,not helpful
+gptchats_20871,not helpful
+gptchats_21026,not helpful
+gptchats_21087,not helpful
+gptchats_21195,not helpful
+gptchats_21206,not helpful
+gptchats_21245,not helpful
+gptchats_21280,not helpful
+gptchats_21360,not helpful
+gptchats_21386,not helpful
+gptchats_21439,not helpful
+gptchats_21623,not helpful
+gptchats_21628,not helpful
+gptchats_21750,not helpful
+gptchats_21754,not helpful
+gptchats_21759,not helpful
+gptchats_21801,not helpful
+gptchats_21866,not helpful
+gptchats_21897,not helpful
+gptchats_21942,not helpful
+gptchats_22038,not helpful
+gptchats_22047,not helpful
+gptchats_22270,not helpful
+gptchats_22345,not helpful
+gptchats_22400,not helpful
+gptchats_22403,not helpful
+gptchats_22426,not helpful
+gptchats_22563,not helpful
+gptchats_22622,not helpful
+gptchats_22713,not helpful
+gptchats_22793,not helpful
+gptchats_22831,not helpful
+gptchats_22957,not helpful
+gptchats_23013,not helpful
+gptchats_23064,not helpful
+gptchats_23193,not helpful
+gptchats_23342,not helpful
+gptchats_23457,not helpful
+gptchats_23474,not helpful
+gptchats_23539,not helpful
+gptchats_23645,not helpful
+gptchats_23753,not helpful
+gptchats_23760,not helpful
+gptchats_23766,not helpful
+gptchats_23802,not helpful
+gptchats_23810,not helpful
+gptchats_23898,not helpful
+gptchats_24003,not helpful
+gptchats_24134,not helpful
+gptchats_24345,not helpful
+gptchats_24566,not helpful
+gptchats_25066,not helpful
+gptchats_25816,not helpful
+gptchats_26082,not helpful
+gptchats_26166,not helpful
+gptchats_26172,not helpful
+gptchats_26178,not helpful
+gptchats_26438,not helpful
+gptchats_26468,not helpful
+gptchats_26633,not helpful
+gptchats_26777,not helpful
+gptchats_26822,not helpful
+gptchats_26946,not helpful
+gptchats_27006,not helpful
+gptchats_27140,not helpful
+gptchats_27193,not helpful
+gptchats_27292,not helpful
+gptchats_27435,not helpful
+gptchats_27540,not helpful
+gptchats_27577,not helpful
+gptchats_27581,not helpful
+gptchats_27621,not helpful
+gptchats_27971,not helpful
+gptchats_28065,not helpful
+gptchats_28139,not helpful
+gptchats_28163,not helpful
+gptchats_28314,not helpful
+gptchats_28399,not helpful
+gptchats_28404,not helpful
+gptchats_28540,not helpful
+gptchats_28659,not helpful
+gptchats_28700,helpful
+gptchats_28827,not helpful
+gptchats_28900,not helpful
+gptchats_28985,not helpful
+gptchats_29051,not helpful
+gptchats_29264,not helpful
+gptchats_29276,not helpful
+gptchats_29376,helpful
+gptchats_29381,helpful
+gptchats_29395,helpful
+gptchats_29410,helpful
+gptchats_29437,helpful
+gptchats_29500,not helpful
+gptchats_29526,not helpful
+gptchats_30412,not helpful
+gptchats_30485,not helpful
+gptchats_30732,not helpful
+gptchats_30781,not helpful
+gptchats_30838,helpful
+gptchats_30953,not helpful
+gptchats_31002,not helpful
+gptchats_31011,not helpful
+gptchats_31130,not helpful
+gptchats_31371,helpful
+gptchats_31859,not helpful
+gptchats_31939,not helpful
+gptchats_31941,helpful
+gptchats_31980,not helpful
+gptchats_31997,helpful
+gptchats_32022,not helpful
+gptchats_32024,not helpful
+gptchats_32027,helpful
+gptchats_32029,helpful
+gptchats_32043,helpful
+gptchats_32047,helpful
+gptchats_32055,not helpful
+gptchats_32077,helpful
+gptchats_32082,helpful
+gptchats_32087,helpful
+gptchats_32101,helpful
+gptchats_32114,helpful
+gptchats_32142,helpful
+gptchats_32150,not helpful
+gptchats_32151,helpful
+gptchats_32157,helpful
+gptchats_32192,helpful
+gptchats_32194,helpful
+gptchats_32223,helpful
+gptchats_32226,helpful
+gptchats_32282,not helpful
+gptchats_32308,helpful
+gptchats_32311,helpful
+gptchats_32338,not helpful
+gptchats_32346,helpful
+gptchats_32366,helpful
+gptchats_32374,helpful
+gptchats_32386,helpful
+gptchats_32398,helpful
+gptchats_32429,helpful
+gptchats_32451,helpful
+gptchats_32457,not helpful
+gptchats_32481,helpful
+gptchats_32498,helpful
+gptchats_32525,helpful
+gptchats_32592,helpful
+gptchats_32598,helpful
+gptchats_32607,helpful
+gptchats_32639,helpful
+gptchats_32656,helpful
+gptchats_32670,not helpful
+gptchats_32712,helpful
+gptchats_32752,not helpful
+gptchats_32775,helpful
+gptchats_32853,helpful
+gptchats_32886,helpful
+gptchats_32888,not helpful
+gptchats_32909,helpful
+gptchats_32913,helpful
+gptchats_32914,helpful
+gptchats_32923,not helpful
+gptchats_32961,helpful
+gptchats_32975,helpful
+gptchats_32995,helpful
+gptchats_33003,helpful
+gptchats_33021,helpful
+gptchats_33047,helpful
+gptchats_33053,not helpful
+gptchats_33113,helpful
+gptchats_33121,not helpful
+gptchats_33136,not helpful
+gptchats_33149,not helpful
+gptchats_33171,helpful
+gptchats_33178,helpful
+gptchats_33186,helpful
+gptchats_33258,helpful
+gptchats_33279,helpful
+gptchats_33288,not helpful
+gptchats_33304,helpful
+gptchats_33306,helpful
+gptchats_33310,helpful
+gptchats_33324,not helpful
+gptchats_33337,helpful
+gptchats_33345,helpful
+gptchats_33349,helpful
+gptchats_33368,helpful
+gptchats_33384,helpful
+gptchats_33416,helpful
+gptchats_33422,helpful
+gptchats_33442,helpful
+gptchats_33444,helpful
+gptchats_33475,helpful
+gptchats_33481,helpful
+gptchats_33521,helpful
+gptchats_33525,helpful
+gptchats_33556,helpful
+gptchats_33560,helpful
+gptchats_33634,helpful
+gptchats_33673,helpful
+gptchats_33687,helpful
+gptchats_33708,helpful
+gptchats_33752,helpful
+gptchats_33773,not helpful
+gptchats_33774,helpful
+gptchats_33781,helpful
+gptchats_33783,helpful
+gptchats_33787,helpful
+gptchats_33798,helpful
+gptchats_33812,helpful
+gptchats_33825,helpful
+gptchats_33836,helpful
+gptchats_33847,helpful
+gptchats_33880,helpful
+gptchats_33924,helpful
+gptchats_33934,helpful
+gptchats_33937,helpful
+gptchats_34012,helpful
+gptchats_34024,helpful
+gptchats_34178,helpful
+gptchats_34180,helpful
+gptchats_34184,helpful
+gptchats_34188,helpful
+gptchats_34242,helpful
+gptchats_34260,helpful
+gptchats_34306,not helpful
+gptchats_34336,helpful
+gptchats_34340,helpful
+gptchats_34346,helpful
+gptchats_34364,helpful
+gptchats_34372,helpful
+gptchats_34374,helpful
+gptchats_34386,helpful
+gptchats_34425,helpful
+gptchats_34466,helpful
+gptchats_34483,helpful
+gptchats_34515,helpful
+gptchats_34568,helpful
+gptchats_34583,helpful
+gptchats_34585,helpful
+gptchats_34591,helpful
+gptchats_34593,helpful
+gptchats_34597,helpful
+gptchats_34629,helpful
+gptchats_34638,helpful
+gptchats_34655,helpful
+gptchats_34676,helpful
+gptchats_34691,helpful
+gptchats_34699,helpful
+gptchats_34703,helpful
+gptchats_34712,not helpful
+gptchats_34717,helpful
+gptchats_34729,helpful
+gptchats_34733,helpful
+gptchats_34754,helpful
+gptchats_34761,helpful
+gptchats_34768,helpful
+gptchats_34770,helpful
+gptchats_34772,helpful
+gptchats_34778,helpful
+gptchats_34796,helpful
+gptchats_34829,helpful
+gptchats_34840,helpful
+gptchats_34841,helpful
+gptchats_34848,helpful
+gptchats_34854,helpful
+gptchats_34896,helpful
+gptchats_34901,helpful
+gptchats_34907,helpful
+gptchats_34982,helpful
+gptchats_34988,helpful
+gptchats_34998,not helpful
+gptchats_35006,helpful
+gptchats_35040,not helpful
+gptchats_35052,helpful
+gptchats_35062,helpful
+gptchats_35069,helpful
+gptchats_35120,helpful
+gptchats_35170,helpful
+gptchats_35175,helpful
+gptchats_35196,helpful
+gptchats_35199,helpful
+gptchats_35201,helpful
+gptchats_35208,helpful
+gptchats_35226,helpful
+gptchats_35264,helpful
+gptchats_35272,helpful
+gptchats_35322,helpful
+gptchats_35331,helpful
+gptchats_35350,helpful
+gptchats_35402,helpful
+gptchats_35471,helpful
+gptchats_35574,helpful
+gptchats_35592,helpful
+gptchats_35609,helpful
+gptchats_35659,helpful
+gptchats_35666,helpful
+gptchats_35697,helpful
+gptchats_35705,helpful
+gptchats_35720,not helpful
+gptchats_35740,helpful
+gptchats_35785,helpful
+gptchats_35817,helpful
+gptchats_35847,helpful
+gptchats_35854,helpful
+gptchats_35882,helpful
+gptchats_35887,helpful
+gptchats_35920,helpful
+gptchats_35934,helpful
+gptchats_35945,helpful
+gptchats_35947,helpful
+gptchats_35969,helpful
+gptchats_35980,not helpful
+gptchats_35987,helpful
+gptchats_36001,helpful
+gptchats_36026,not helpful
+gptchats_36060,helpful
+gptchats_36066,helpful
+gptchats_36089,helpful
+gptchats_36091,helpful
+gptchats_36097,not helpful
+gptchats_36099,helpful
+gptchats_36113,helpful
+gptchats_36123,helpful
+gptchats_36152,helpful
+gptchats_36173,helpful
+gptchats_36177,helpful
+gptchats_36186,helpful
+gptchats_36200,helpful
+gptchats_36202,helpful
+gptchats_36213,helpful
+gptchats_36221,helpful
+gptchats_36250,helpful
+gptchats_36278,helpful
+gptchats_36410,not helpful
+gptchats_36429,helpful
+gptchats_36462,helpful
+gptchats_36506,helpful
+gptchats_36508,not helpful
+gptchats_36510,not helpful
+gptchats_36520,helpful
+gptchats_36530,helpful
+gptchats_36557,not helpful
+gptchats_36561,helpful
+gptchats_36589,helpful
+gptchats_36599,helpful
+gptchats_36633,helpful
+gptchats_36637,not helpful
+gptchats_36657,helpful
+gptchats_36671,helpful
+gptchats_36687,helpful
+gptchats_36689,helpful
+gptchats_36732,not helpful
+gptchats_36750,not helpful
+gptchats_36761,helpful
+gptchats_36781,helpful
+gptchats_36784,helpful
+gptchats_36798,helpful
+gptchats_36809,not helpful
+gptchats_36893,helpful
+gptchats_36900,helpful
+gptchats_36917,helpful
+gptchats_36972,helpful
+gptchats_36974,helpful
+gptchats_36984,helpful
+gptchats_37045,helpful
+gptchats_37069,helpful
+gptchats_37089,helpful
+gptchats_37110,helpful
+gptchats_37161,not helpful
+gptchats_37180,helpful
+gptchats_37196,helpful
+gptchats_37211,helpful
+gptchats_37216,helpful
+gptchats_37274,helpful
+gptchats_37278,helpful
+gptchats_37296,helpful
+gptchats_37305,helpful
+gptchats_37325,helpful
+gptchats_37329,helpful
+gptchats_37331,helpful
+gptchats_37335,helpful
+gptchats_37339,helpful
+gptchats_37345,helpful
+gptchats_37348,helpful
+gptchats_37368,helpful
+gptchats_37380,helpful
+gptchats_37391,helpful
+gptchats_37424,helpful
+gptchats_37428,helpful
+gptchats_37460,not helpful
+gptchats_37464,helpful
+gptchats_37468,helpful
+gptchats_37470,helpful
+gptchats_37481,helpful
+gptchats_37485,helpful
+gptchats_37526,not helpful
+gptchats_37539,helpful
+gptchats_37558,not helpful
+gptchats_37560,helpful
+gptchats_37589,not helpful
+gptchats_37600,helpful
+gptchats_37612,helpful
+gptchats_37619,helpful
+gptchats_37621,helpful
+gptchats_37645,helpful
+gptchats_37735,helpful
+gptchats_37741,helpful
+gptchats_37743,helpful
+gptchats_37753,helpful
+gptchats_37757,helpful
+gptchats_37780,helpful
+gptchats_37786,helpful
+gptchats_37792,helpful
+gptchats_37806,helpful
+gptchats_37810,helpful
+gptchats_37820,helpful
+gptchats_37848,helpful
+gptchats_37858,helpful
+gptchats_37870,helpful
+gptchats_37901,helpful
+gptchats_37937,helpful
+gptchats_37955,helpful
+gptchats_37957,helpful
+gptchats_37999,helpful
+gptchats_38012,helpful
+gptchats_38032,helpful
+gptchats_38042,helpful
+gptchats_38045,helpful
+gptchats_38052,helpful
+gptchats_38054,helpful
+gptchats_38061,helpful
+gptchats_38092,helpful
+gptchats_38095,helpful
+gptchats_38103,helpful
+gptchats_38182,helpful
+gptchats_38184,helpful
+gptchats_38220,helpful
+gptchats_38224,helpful
+gptchats_38258,helpful
+gptchats_38268,helpful
+gptchats_38276,helpful
+gptchats_38314,helpful
+gptchats_38341,helpful
+gptchats_38365,helpful
+gptchats_38377,helpful
+gptchats_38403,helpful
+gptchats_38409,not helpful
+gptchats_38413,helpful
+gptchats_38427,helpful
+gptchats_38431,helpful
+gptchats_38434,helpful
+gptchats_38456,helpful
+gptchats_38462,helpful
+gptchats_38485,helpful
+gptchats_38495,helpful
+gptchats_38503,not helpful
+gptchats_38514,helpful
+gptchats_38559,helpful
+gptchats_38568,helpful
+gptchats_38593,helpful
+gptchats_38613,helpful
+gptchats_38632,helpful
+gptchats_38652,helpful
+gptchats_38657,helpful
+gptchats_38664,helpful
+gptchats_38679,helpful
+gptchats_38702,helpful
+gptchats_38708,helpful
+gptchats_38775,helpful
+gptchats_38785,helpful
+gptchats_38802,helpful
+gptchats_38808,helpful
+gptchats_38810,helpful
+gptchats_38848,helpful
+gptchats_38862,helpful
+gptchats_38864,helpful
+gptchats_38876,helpful
+gptchats_38907,helpful
+gptchats_38911,not helpful
+gptchats_38922,helpful
+gptchats_38930,helpful
+gptchats_38969,helpful
+gptchats_38999,helpful
+gptchats_39053,helpful
+gptchats_39083,helpful
+gptchats_39091,helpful
+gptchats_39102,helpful
+gptchats_39117,helpful
+gptchats_39124,helpful
+gptchats_39130,helpful
+gptchats_39133,helpful
+gptchats_39137,helpful
+gptchats_39144,helpful
+gptchats_39152,helpful
+gptchats_39164,helpful
+gptchats_39168,helpful
+gptchats_39232,helpful
+gptchats_39250,helpful
+gptchats_39294,helpful
+gptchats_39305,helpful
+gptchats_39310,helpful
+gptchats_39312,not helpful
+gptchats_39316,helpful
+gptchats_39353,helpful
+gptchats_39358,helpful
+gptchats_39380,helpful
+gptchats_39382,helpful
+gptchats_39400,helpful
+gptchats_39406,helpful
+gptchats_39431,helpful
+gptchats_39475,helpful
+gptchats_39480,helpful
+gptchats_39511,not helpful
+gptchats_39515,helpful
+gptchats_39545,helpful
+gptchats_39563,helpful
+gptchats_39587,not helpful
+gptchats_39607,helpful
+gptchats_39615,helpful
+gptchats_39626,helpful
+gptchats_39644,helpful
+gptchats_39649,helpful
+gptchats_39654,helpful
+gptchats_39666,helpful
+gptchats_39687,helpful
+gptchats_39748,helpful
+gptchats_39765,helpful
+gptchats_39803,helpful
+gptchats_39815,helpful
+gptchats_39831,not helpful
+gptchats_39840,helpful
+gptchats_39846,helpful
+gptchats_39876,helpful
+gptchats_39918,helpful
+gptchats_39934,helpful
+gptchats_39939,helpful
+gptchats_39941,helpful
+gptchats_39985,helpful
+gptchats_40001,helpful
+gptchats_40018,helpful
+gptchats_40059,helpful
+gptchats_40078,not helpful
+gptchats_40100,helpful
+gptchats_40106,helpful
+gptchats_40111,helpful
+gptchats_40136,helpful
+gptchats_40166,helpful
+gptchats_40179,not helpful
+gptchats_40190,helpful
+gptchats_40192,helpful
+gptchats_40196,helpful
+gptchats_40222,helpful
+gptchats_40245,helpful
+gptchats_40250,helpful
+gptchats_40270,not helpful
+gptchats_40301,helpful
+gptchats_40322,helpful
+gptchats_40327,helpful
+gptchats_40329,not helpful
+gptchats_40346,helpful
+gptchats_40377,helpful
+gptchats_40390,helpful
+gptchats_40394,helpful
+gptchats_40407,helpful
+gptchats_40424,helpful
+gptchats_40426,helpful
+gptchats_40521,helpful
+gptchats_40574,helpful
+gptchats_40588,not helpful
+gptchats_40590,helpful
+gptchats_40603,helpful
+gptchats_40623,helpful
+gptchats_40625,helpful
+gptchats_40627,helpful
+gptchats_40633,helpful
+gptchats_40645,helpful
+gptchats_40661,helpful
+gptchats_40665,helpful
+gptchats_40731,helpful
+gptchats_40743,helpful
+gptchats_40816,helpful
+gptchats_40818,helpful
+gptchats_40866,helpful
+gptchats_40881,helpful
+gptchats_40897,helpful
+gptchats_40902,helpful
+gptchats_40906,not helpful
+gptchats_40977,helpful
+gptchats_40985,not helpful
+gptchats_40994,helpful
+gptchats_41022,helpful
+gptchats_41026,helpful
+gptchats_41052,helpful
+gptchats_41062,helpful
+gptchats_41070,helpful
+gptchats_41072,helpful
+gptchats_41082,helpful
+gptchats_41113,helpful
+gptchats_41116,helpful
+gptchats_41126,helpful
+gptchats_41157,helpful
+gptchats_41159,helpful
+gptchats_41248,helpful
+gptchats_41306,helpful
+gptchats_41343,helpful
+gptchats_41357,helpful
+gptchats_41365,helpful
+gptchats_41411,helpful
+gptchats_41417,helpful
+gptchats_41452,helpful
+gptchats_41464,helpful
+gptchats_41470,helpful
+gptchats_41506,helpful
+gptchats_41512,helpful
+gptchats_41532,helpful
+gptchats_41544,helpful
+gptchats_41553,helpful
+gptchats_41567,helpful
+gptchats_41571,helpful
+gptchats_41575,helpful
+gptchats_41622,helpful
+gptchats_41628,helpful
+gptchats_41640,helpful
+gptchats_41671,helpful
+gptchats_41676,helpful
+gptchats_41724,helpful
+gptchats_41734,helpful
+gptchats_41766,not helpful
+gptchats_41824,not helpful
+gptchats_41832,helpful
+gptchats_41857,helpful
+gptchats_41859,not helpful
+gptchats_41864,helpful
+gptchats_41868,helpful
+gptchats_41955,not helpful
+gptchats_41970,helpful
+gptchats_41998,helpful
+gptchats_42006,helpful
+gptchats_42016,helpful
+gptchats_42029,helpful
+gptchats_42057,helpful
+gptchats_42082,helpful
+gptchats_42090,helpful
+gptchats_42105,helpful
+gptchats_42131,helpful
+gptchats_42144,helpful
+gptchats_42166,helpful
+gptchats_42191,helpful
+gptchats_42197,helpful
+gptchats_42204,helpful
+gptchats_42208,helpful
+gptchats_42238,helpful
+gptchats_42241,helpful
+gptchats_42246,helpful
+gptchats_42255,helpful
+gptchats_42271,helpful
+gptchats_42275,helpful
+gptchats_42336,helpful
+gptchats_42364,helpful
+gptchats_42382,helpful
+gptchats_42385,helpful
+gptchats_42409,not helpful
+gptchats_42415,helpful
+gptchats_42421,helpful
+gptchats_42422,not helpful
+gptchats_42431,helpful
+gptchats_42459,helpful
+gptchats_42473,helpful
+gptchats_42488,helpful
+gptchats_42518,helpful
+gptchats_42538,helpful
+gptchats_42556,helpful
+gptchats_42562,helpful
+gptchats_42573,helpful
+gptchats_42587,helpful
+gptchats_42596,helpful
+gptchats_42627,helpful
+gptchats_42637,helpful
+gptchats_42642,not helpful
+gptchats_42647,not helpful
+gptchats_42655,helpful
+gptchats_42686,helpful
+gptchats_42701,helpful
+gptchats_42710,helpful
+gptchats_42726,helpful
+gptchats_42728,helpful
+gptchats_42746,helpful
+gptchats_42748,helpful
+gptchats_42774,helpful
+gptchats_42780,helpful
+gptchats_42802,helpful
+gptchats_42830,helpful
+gptchats_42842,helpful
+gptchats_42861,helpful
+gptchats_42880,helpful
+gptchats_42891,helpful
+gptchats_42912,helpful
+gptchats_42929,helpful
+gptchats_42965,helpful
+gptchats_42988,helpful
+gptchats_43016,helpful
+gptchats_43023,helpful
+gptchats_43095,helpful
+gptchats_43127,helpful
+gptchats_43133,not helpful
+gptchats_43143,helpful
+gptchats_43182,helpful
+gptchats_43207,helpful
+gptchats_43219,not helpful
+gptchats_43223,helpful
+gptchats_43227,helpful
+gptchats_43239,not helpful
+gptchats_43253,helpful
+gptchats_43257,helpful
+gptchats_43294,helpful
+gptchats_43307,helpful
+gptchats_43314,helpful
+gptchats_43337,not helpful
+gptchats_43339,helpful
+gptchats_43341,helpful
+gptchats_43396,helpful
+gptchats_43404,helpful
+gptchats_43441,helpful
+gptchats_43458,helpful
+gptchats_43467,helpful
+gptchats_43504,helpful
+gptchats_43509,helpful
+gptchats_43536,helpful
+gptchats_43605,helpful
+gptchats_43609,helpful
+gptchats_43631,not helpful
+gptchats_43651,not helpful
+gptchats_43656,helpful
+gptchats_43660,helpful
+gptchats_43670,not helpful
+gptchats_43685,helpful
+gptchats_43697,helpful
+gptchats_43710,helpful
+gptchats_43731,helpful
+gptchats_43737,helpful
+gptchats_43797,helpful
+gptchats_43801,helpful
+gptchats_43838,helpful
+gptchats_43872,not helpful
+gptchats_43876,helpful
+gptchats_43894,helpful
+gptchats_43911,helpful
+gptchats_43921,helpful
+gptchats_43932,helpful
+gptchats_43940,not helpful
+gptchats_43956,helpful
+gptchats_43962,helpful
+gptchats_43966,helpful
+gptchats_43974,helpful
+gptchats_43976,not helpful
+gptchats_43984,helpful
+gptchats_44007,helpful
+gptchats_44019,helpful
+gptchats_44040,not helpful
+gptchats_44054,helpful
+gptchats_44070,helpful
+gptchats_44085,helpful
+gptchats_44122,not helpful
+gptchats_44124,helpful
+gptchats_44126,helpful
+gptchats_44160,helpful
+gptchats_44177,helpful
+gptchats_44183,helpful
+gptchats_44197,helpful
+gptchats_44200,helpful
+gptchats_44248,helpful
+gptchats_44268,helpful
+gptchats_44289,helpful
+gptchats_44290,helpful
+gptchats_44317,helpful
+gptchats_44325,helpful
+gptchats_44329,not helpful
+gptchats_44335,not helpful
+gptchats_44341,helpful
+gptchats_44429,helpful
+gptchats_44445,helpful
+gptchats_44466,helpful
+gptchats_44472,helpful
+gptchats_44525,helpful
+gptchats_44547,helpful
+gptchats_44551,helpful
+gptchats_44613,helpful
+gptchats_44621,helpful
+gptchats_44633,helpful
+gptchats_44660,helpful
+gptchats_44682,helpful
+gptchats_44684,helpful
+gptchats_44686,helpful
+gptchats_44728,helpful
+gptchats_44732,helpful
+gptchats_44736,helpful
+gptchats_44738,helpful
+gptchats_44742,helpful
+gptchats_44764,helpful
+gptchats_44788,helpful
+gptchats_44832,not helpful
+gptchats_44859,helpful
+gptchats_44877,helpful
+gptchats_44896,helpful
+gptchats_44902,helpful
+gptchats_44906,helpful
+gptchats_44910,helpful
+gptchats_44916,helpful
+gptchats_44923,helpful
+gptchats_44955,not helpful
+gptchats_44980,helpful
+gptchats_45036,helpful
+gptchats_45042,helpful
+gptchats_45048,not helpful
+gptchats_45069,helpful
+gptchats_45075,helpful
+gptchats_45077,helpful
+gptchats_45103,not helpful
+gptchats_45175,helpful
+gptchats_45190,helpful
+gptchats_45236,not helpful
+gptchats_45265,helpful
+gptchats_45286,helpful
+gptchats_45292,helpful
+gptchats_45332,helpful
+gptchats_45333,helpful
+gptchats_45352,helpful
+gptchats_45356,helpful
+gptchats_45369,helpful
+gptchats_45385,helpful
+gptchats_45389,helpful
+gptchats_45393,helpful
+gptchats_45399,not helpful
+gptchats_45431,helpful
+gptchats_45444,helpful
+gptchats_45450,helpful
+gptchats_45462,helpful
+gptchats_45464,helpful
+gptchats_45468,helpful
+gptchats_45478,helpful
+gptchats_45481,helpful
+gptchats_45485,helpful
+gptchats_45567,helpful
+gptchats_45573,helpful
+gptchats_45584,helpful
+gptchats_45588,helpful
+gptchats_45592,helpful
+gptchats_45615,helpful
+gptchats_45620,helpful
+gptchats_45633,helpful
+gptchats_45635,helpful
+gptchats_45648,helpful
+gptchats_45652,helpful
+gptchats_45656,helpful
+gptchats_45660,helpful
+gptchats_45664,helpful
+gptchats_45668,helpful
+gptchats_45672,helpful
+gptchats_45674,helpful
+gptchats_45678,helpful
+gptchats_45712,helpful
+gptchats_45724,helpful
+gptchats_45730,helpful
+gptchats_45736,helpful
+gptchats_45741,helpful
+gptchats_45752,helpful
+gptchats_45754,helpful
+gptchats_45786,helpful
+gptchats_45798,helpful
+gptchats_45801,not helpful
+gptchats_45820,helpful
+gptchats_45826,helpful
+gptchats_45856,helpful
+gptchats_45882,helpful
+gptchats_45897,helpful
+gptchats_45901,helpful
+gptchats_45916,helpful
+gptchats_45918,helpful
+gptchats_45926,helpful
+gptchats_45927,helpful
+gptchats_45939,not helpful
+gptchats_45970,helpful
+gptchats_45979,helpful
+gptchats_45995,not helpful
+gptchats_45997,helpful
+gptchats_46014,helpful
+gptchats_46020,helpful
+gptchats_46022,helpful
+gptchats_46023,helpful
+gptchats_46025,helpful
+gptchats_46030,helpful
+gptchats_46061,helpful
+gptchats_46063,helpful
+gptchats_46073,helpful
+gptchats_46090,helpful
+gptchats_46096,helpful
+gptchats_46114,helpful
+gptchats_46119,helpful
+gptchats_46139,helpful
+gptchats_46144,helpful
+gptchats_46149,helpful
+gptchats_46161,helpful
+gptchats_46162,helpful
+gptchats_46185,helpful
+gptchats_46231,helpful
+gptchats_46242,helpful
+gptchats_46248,helpful
+gptchats_46252,helpful
+gptchats_46262,helpful
+gptchats_46265,helpful
+gptchats_46268,helpful
+gptchats_46284,helpful
+gptchats_46288,helpful
+gptchats_46290,helpful
+gptchats_46294,helpful
+gptchats_46306,helpful
+gptchats_46308,helpful
+gptchats_46317,helpful
+gptchats_46325,helpful
+gptchats_46350,helpful
+gptchats_46388,helpful
+gptchats_46399,helpful
+gptchats_46404,not helpful
+gptchats_46408,helpful
+gptchats_46424,helpful
+gptchats_46430,helpful
+gptchats_46440,helpful
+gptchats_46442,helpful
+gptchats_46474,helpful
+gptchats_46482,helpful
+gptchats_46484,not helpful
+gptchats_46507,helpful
+gptchats_46518,helpful
+gptchats_46522,helpful
+gptchats_46523,not helpful
+gptchats_46536,helpful
+gptchats_46542,not helpful
+gptchats_46546,helpful
+gptchats_46553,helpful
+gptchats_46557,helpful
+gptchats_46560,helpful
+gptchats_46562,helpful
+gptchats_46579,helpful
+gptchats_46589,not helpful
+gptchats_46592,helpful
+gptchats_46618,helpful
+gptchats_46626,helpful
+gptchats_46645,helpful
+gptchats_46656,helpful
+gptchats_46664,helpful
+gptchats_46682,helpful
+gptchats_46683,helpful
+gptchats_46688,helpful
+gptchats_46690,helpful
+gptchats_46698,helpful
+gptchats_46707,helpful
+gptchats_46726,helpful
+gptchats_46736,helpful
+gptchats_46740,helpful
+gptchats_46744,helpful
+gptchats_46756,helpful
+gptchats_46761,not helpful
+gptchats_46765,not helpful
+gptchats_46779,helpful
+gptchats_46789,helpful
+gptchats_46828,helpful
+gptchats_46840,helpful
+gptchats_46850,helpful
+gptchats_46866,helpful
+gptchats_46876,helpful
+gptchats_46882,helpful
+gptchats_46892,helpful
+gptchats_46920,helpful
+gptchats_46924,helpful
+gptchats_46926,not helpful
+gptchats_46939,helpful
+gptchats_46941,helpful
+gptchats_46956,helpful
+gptchats_46958,helpful
+gptchats_46960,not helpful
+gptchats_46979,helpful
+gptchats_46985,helpful
+gptchats_46987,helpful
+gptchats_46997,helpful
+gptchats_46998,helpful
+gptchats_47012,helpful
+gptchats_47026,helpful
+gptchats_47078,helpful
+gptchats_47101,helpful
+gptchats_47110,helpful
+gptchats_47121,helpful
+gptchats_47146,helpful
+gptchats_47148,helpful
+gptchats_47166,helpful
+gptchats_47172,helpful
+gptchats_47192,helpful
+gptchats_47196,helpful
+gptchats_47218,helpful
+gptchats_47223,helpful
+gptchats_47228,helpful
+gptchats_47250,not helpful
+gptchats_47261,helpful
+gptchats_47309,helpful
+gptchats_47317,helpful
+gptchats_47321,helpful
+gptchats_47323,helpful
+gptchats_47327,not helpful
+gptchats_47330,helpful
+gptchats_47344,helpful
+gptchats_47352,helpful
+gptchats_47360,helpful
+gptchats_47373,helpful
+gptchats_47376,helpful
+gptchats_47418,helpful
+gptchats_47420,helpful
+gptchats_47430,helpful
+gptchats_47490,not helpful
+gptchats_47515,helpful
+gptchats_47710,helpful
+gptchats_47722,not helpful
+gptchats_47730,not helpful
+gptchats_47734,helpful
+gptchats_47736,helpful
+gptchats_47740,not helpful
+gptchats_47746,helpful
+gptchats_47753,helpful
+gptchats_47785,helpful
+gptchats_47789,helpful
+gptchats_47797,helpful
+gptchats_47805,not helpful
+gptchats_47832,helpful
+gptchats_47852,helpful
+gptchats_47866,helpful
+gptchats_47867,helpful
+gptchats_47880,not helpful
+gptchats_47902,helpful
+gptchats_47908,helpful
+gptchats_47910,helpful
+gptchats_47912,helpful
+gptchats_47918,helpful
+gptchats_47920,helpful
+gptchats_47929,helpful
+gptchats_48037,helpful
+gptchats_48039,helpful
+gptchats_48043,helpful
+gptchats_48045,helpful
+gptchats_48053,helpful
+gptchats_48055,helpful
+gptchats_48057,helpful
+gptchats_48069,helpful
+gptchats_48078,helpful
+gptchats_48105,not helpful
+gptchats_48116,helpful
+gptchats_48117,helpful
+gptchats_48125,helpful
+gptchats_48134,helpful
+gptchats_48140,helpful
+gptchats_48151,helpful
+gptchats_48157,not helpful
+gptchats_48168,helpful
+gptchats_48182,helpful
+gptchats_48240,helpful
+gptchats_48244,helpful
+gptchats_48249,helpful
+gptchats_48258,helpful
+gptchats_48273,helpful
+gptchats_48287,helpful
+gptchats_48304,helpful
+gptchats_48321,helpful
+gptchats_48348,helpful
+gptchats_48356,helpful
+gptchats_48368,helpful
+gptchats_48369,helpful
+gptchats_48389,helpful
+gptchats_48443,helpful
+gptchats_48447,helpful
+gptchats_48463,helpful
+gptchats_48519,helpful
+gptchats_48523,helpful
+gptchats_48559,helpful
+gptchats_48596,helpful
+gptchats_48603,helpful
+gptchats_48617,helpful
+gptchats_48621,not helpful
+gptchats_48624,helpful
+gptchats_48643,helpful
+gptchats_48653,helpful
+gptchats_48665,helpful
+gptchats_48679,helpful
+gptchats_48685,helpful
+gptchats_48687,helpful
+gptchats_48691,helpful
+gptchats_48697,helpful
+gptchats_48713,helpful
+gptchats_48792,helpful
+gptchats_48807,helpful
+gptchats_48838,helpful
+gptchats_48840,helpful
+gptchats_48854,helpful
+gptchats_48861,not helpful
+gptchats_48869,helpful
+gptchats_48879,helpful
+gptchats_48886,helpful
+gptchats_48931,helpful
+gptchats_48957,helpful
+gptchats_49021,helpful
+gptchats_49034,helpful
+gptchats_49036,not helpful
+gptchats_49043,helpful
+gptchats_49049,helpful
+gptchats_49061,helpful
+gptchats_49147,not helpful
+gptchats_49149,not helpful
+gptchats_49187,helpful
+gptchats_49193,helpful
+gptchats_49216,helpful
+gptchats_49231,helpful
+gptchats_49257,helpful
+gptchats_49271,helpful
+gptchats_49297,helpful
+gptchats_49353,helpful
+gptchats_49358,helpful
+gptchats_49361,helpful
+gptchats_49363,helpful
+gptchats_49367,not helpful
+gptchats_49371,helpful
+gptchats_49382,not helpful
+gptchats_49392,helpful
+gptchats_49433,helpful
+gptchats_49445,helpful
+gptchats_49463,helpful
+gptchats_49481,helpful
+gptchats_49511,helpful
+gptchats_49521,helpful
+gptchats_49523,helpful
+gptchats_49532,helpful
+gptchats_49534,helpful
+gptchats_49565,helpful
+gptchats_49577,helpful
+gptchats_49592,helpful
+gptchats_49597,helpful
+gptchats_49614,helpful
+gptchats_49641,helpful
+gptchats_49645,helpful
+gptchats_49694,helpful
+gptchats_49698,not helpful
+gptchats_49715,helpful
+gptchats_49721,helpful
+gptchats_49736,helpful
+gptchats_49743,helpful
+gptchats_49757,helpful
+gptchats_49769,not helpful
+gptchats_49772,helpful
+gptchats_49799,not helpful
+gptchats_49803,helpful
+gptchats_49823,helpful
+gptchats_49829,helpful
+gptchats_49852,helpful
+gptchats_49860,helpful
+gptchats_49864,helpful
+gptchats_49892,helpful
+gptchats_49904,helpful
+gptchats_49923,helpful
+gptchats_49945,helpful
+gptchats_49950,helpful
+gptchats_49957,helpful
+gptchats_49973,not helpful
+gptchats_49979,not helpful
+gptchats_49987,helpful
+gptchats_49992,not helpful
+gptchats_50000,helpful
+gptchats_50008,helpful
+gptchats_50026,helpful
+gptchats_50033,helpful
+gptchats_50055,helpful
+gptchats_50066,helpful
+gptchats_50079,helpful
+gptchats_50118,helpful
+gptchats_50124,helpful
+gptchats_50130,helpful
+gptchats_50180,not helpful
+gptchats_50213,helpful
+gptchats_50214,helpful
+gptchats_50217,helpful
+gptchats_50219,helpful
+gptchats_50247,helpful
+gptchats_50268,helpful
+gptchats_50274,not helpful
+gptchats_50284,helpful
+gptchats_50290,helpful
+gptchats_50294,helpful
+gptchats_50296,helpful
+gptchats_50304,helpful
+gptchats_50347,helpful
+gptchats_50353,helpful
+gptchats_50357,helpful
+gptchats_50361,helpful
+gptchats_50363,helpful
+gptchats_50365,helpful
+gptchats_50379,helpful
+gptchats_50381,helpful
+gptchats_50387,helpful
+gptchats_50399,not helpful
+gptchats_50414,helpful
+gptchats_50417,helpful
+gptchats_50421,helpful
+gptchats_50437,helpful
+gptchats_50460,helpful
+gptchats_50513,helpful
+gptchats_50565,helpful
+gptchats_50578,helpful
+gptchats_50590,helpful
+gptchats_50594,helpful
+gptchats_50595,helpful
+gptchats_50618,not helpful
+gptchats_50656,helpful
+gptchats_50668,helpful
+gptchats_50673,helpful
+gptchats_50676,helpful
+gptchats_50682,helpful
+gptchats_50684,not helpful
+gptchats_50700,helpful
+gptchats_50702,helpful
+gptchats_50727,helpful
+gptchats_50731,helpful
+gptchats_50734,helpful
+gptchats_50738,helpful
+gptchats_50750,helpful
+gptchats_50756,not helpful
+gptchats_50762,helpful
+gptchats_50769,helpful
+gptchats_50782,helpful
+gptchats_50799,not helpful
+gptchats_50813,helpful
+gptchats_50821,not helpful
+gptchats_50838,helpful
+gptchats_50845,helpful
+gptchats_50898,helpful
+gptchats_50902,helpful
+gptchats_50918,helpful
+gptchats_50924,helpful
+gptchats_50999,helpful
+gptchats_51034,not helpful
+gptchats_51038,helpful
+gptchats_51048,helpful
+gptchats_51061,helpful
+gptchats_51064,helpful
+gptchats_51074,helpful
+gptchats_51082,helpful
+gptchats_51084,helpful
+gptchats_51101,not helpful
+gptchats_51106,helpful
+gptchats_51108,not helpful
+gptchats_51109,helpful
+gptchats_51148,helpful
+gptchats_51163,helpful
+gptchats_51184,helpful
+gptchats_51191,helpful
+gptchats_51225,helpful
+gptchats_51239,helpful
+gptchats_51243,helpful
+gptchats_51261,helpful
+gptchats_51270,helpful
+gptchats_51277,helpful
+gptchats_51305,not helpful
+gptchats_51311,helpful
+gptchats_51333,helpful
+gptchats_51356,helpful
+gptchats_51365,helpful
+gptchats_51369,helpful
+gptchats_51376,helpful
+gptchats_51389,helpful
+gptchats_51393,helpful
+gptchats_51409,helpful
+gptchats_51414,helpful
+gptchats_51422,helpful
+gptchats_51426,helpful
+gptchats_51430,helpful
+gptchats_51436,helpful
+gptchats_51442,helpful
+gptchats_51469,helpful
+gptchats_51470,helpful
+gptchats_51476,helpful
+gptchats_51489,helpful
+gptchats_51509,helpful
+gptchats_51523,helpful
+gptchats_51532,helpful
+gptchats_51534,helpful
+gptchats_51536,helpful
+gptchats_51544,helpful
+gptchats_51548,helpful
+gptchats_51556,helpful
+gptchats_51583,helpful
+gptchats_51591,helpful
+gptchats_51615,helpful
+gptchats_51628,helpful
+gptchats_51687,helpful
+gptchats_51706,helpful
+gptchats_51751,helpful
+gptchats_51757,helpful
+gptchats_51779,not helpful
+gptchats_51797,helpful
+gptchats_51800,helpful
+gptchats_51806,helpful
+gptchats_51810,helpful
+gptchats_51822,helpful
+gptchats_51823,helpful
+gptchats_51826,helpful
+gptchats_51828,helpful
+gptchats_51837,helpful
+gptchats_51906,helpful
+gptchats_51924,helpful
+gptchats_51931,helpful
+gptchats_51941,helpful
+gptchats_51944,helpful
+gptchats_51954,helpful
+gptchats_51958,helpful
+gptchats_51960,helpful
+gptchats_51984,helpful
+gptchats_52004,helpful
+gptchats_52018,helpful
+gptchats_52030,helpful
+gptchats_52091,helpful
+gptchats_52100,helpful
+gptchats_52106,helpful
+gptchats_52122,helpful
+gptchats_52141,helpful
+gptchats_52143,helpful
+gptchats_52166,helpful
+gptchats_52179,helpful
+gptchats_52185,not helpful
+gptchats_52216,helpful
+gptchats_52218,helpful
+gptchats_52246,helpful
+gptchats_52248,helpful
+gptchats_52262,helpful
+gptchats_52266,helpful
+gptchats_52283,helpful
+gptchats_52310,helpful
+gptchats_52326,helpful
+gptchats_52332,helpful
+gptchats_52339,helpful
+gptchats_52344,helpful
+gptchats_52366,helpful
+gptchats_52369,helpful
+gptchats_52375,helpful
+gptchats_52381,helpful
+gptchats_52393,helpful
+gptchats_52397,helpful
+gptchats_52440,helpful
+gptchats_52444,helpful
+gptchats_52451,helpful
+gptchats_52454,helpful
+gptchats_52475,helpful
+gptchats_52480,not helpful
+gptchats_52483,helpful
+gptchats_52488,helpful
+gptchats_52494,not helpful
+gptchats_52498,helpful
+gptchats_52500,helpful
+gptchats_52505,helpful
+gptchats_52531,helpful
+gptchats_52535,not helpful
+gptchats_52545,not helpful
+gptchats_52550,helpful
+gptchats_52568,helpful
+gptchats_52569,helpful
+gptchats_52578,helpful
+gptchats_52588,helpful
+gptchats_52596,helpful
+gptchats_52604,not helpful
+gptchats_52619,helpful
+gptchats_52654,helpful
+gptchats_52661,not helpful
+gptchats_52662,helpful
+gptchats_52679,helpful
+gptchats_52687,helpful
+gptchats_52694,helpful
+gptchats_52697,helpful
+gptchats_52719,not helpful
+gptchats_52750,helpful
+gptchats_52769,helpful
+gptchats_52770,helpful
+gptchats_52779,helpful
+gptchats_52800,helpful
+gptchats_52803,helpful
+gptchats_52831,helpful
+gptchats_52842,helpful
+gptchats_52862,helpful
+gptchats_52871,helpful
+gptchats_52873,helpful
+gptchats_52875,helpful
+gptchats_52876,helpful
+gptchats_52880,helpful
+gptchats_52886,helpful
+gptchats_52904,helpful
+gptchats_52905,helpful
+gptchats_52909,helpful
+gptchats_52913,helpful
+gptchats_52914,helpful
+gptchats_52916,helpful
+gptchats_52922,helpful
+gptchats_52923,helpful
+gptchats_52939,helpful
+gptchats_52947,helpful
+gptchats_52948,helpful
+gptchats_52968,helpful
+gptchats_52973,helpful
+gptchats_52974,helpful
+gptchats_52977,helpful
+gptchats_52978,helpful
+gptchats_52979,helpful
+gptchats_52981,helpful
+gptchats_52988,helpful
+gptchats_52997,helpful
+gptchats_53001,helpful
+gptchats_53002,helpful
+gptchats_53005,helpful
+gptchats_53053,helpful
+gptchats_53065,helpful
+gptchats_53091,helpful
+gptchats_53092,helpful
+gptchats_53093,not helpful
+gptchats_53101,helpful
+gptchats_53102,helpful
+gptchats_53122,helpful
+gptchats_53127,helpful
+gptchats_53135,helpful
+gptchats_53139,helpful
+gptchats_53144,helpful
+gptchats_53146,helpful
+gptchats_53151,helpful
+gptchats_53153,helpful
+gptchats_53154,helpful
+gptchats_53166,helpful
+gptchats_53180,helpful
+gptchats_53182,helpful
+gptchats_53193,helpful
+gptchats_53197,helpful
+gptchats_53200,helpful
+gptchats_53201,helpful
+gptchats_53262,helpful
+gptchats_53263,helpful
+gptchats_53269,helpful
+gptchats_53286,helpful
+gptchats_53299,helpful
+gptchats_53301,helpful
+gptchats_53339,helpful
+gptchats_53356,helpful
+gptchats_53367,helpful
+gptchats_53372,helpful
+gptchats_53376,helpful
+gptchats_53379,helpful
+gptchats_53389,helpful
+gptchats_53401,helpful
+gptchats_53405,helpful
+gptchats_53415,helpful
+gptchats_53418,helpful
+gptchats_53423,helpful
+gptchats_53430,helpful
+gptchats_53434,helpful
+gptchats_53443,helpful
+gptchats_53449,helpful
+gptchats_53459,helpful
+gptchats_53478,helpful
+gptchats_53487,helpful
+gptchats_53489,helpful
+gptchats_53500,helpful
+gptchats_53510,helpful
+gptchats_53518,helpful
+gptchats_53522,helpful
+gptchats_53537,helpful
+gptchats_53539,helpful
+gptchats_53541,helpful
+gptchats_53543,helpful
+gptchats_53548,helpful
+gptchats_53549,helpful
+gptchats_53550,helpful
+gptchats_53557,helpful
+gptchats_53561,helpful
+gptchats_53564,helpful
+gptchats_53565,helpful
+gptchats_53567,helpful
+gptchats_53577,helpful
+gptchats_53589,not helpful
+gptchats_53623,helpful
+gptchats_53624,helpful
+gptchats_53635,helpful
+gptchats_53641,helpful
+gptchats_53645,helpful
+gptchats_53648,helpful
+gptchats_53649,helpful
+gptchats_53650,helpful
+gptchats_53652,helpful
+gptchats_53663,helpful
+gptchats_53673,not helpful
+gptchats_53675,helpful
+gptchats_53679,helpful
+gptchats_53694,helpful
+gptchats_53696,helpful
+gptchats_53697,helpful
+gptchats_53710,helpful
+gptchats_53713,helpful
+gptchats_53717,helpful
+gptchats_53726,helpful
+gptchats_53729,not helpful
+gptchats_53747,helpful
+gptchats_53748,helpful
+gptchats_53775,helpful
+gptchats_53776,helpful
+gptchats_53781,helpful
+gptchats_53796,helpful
+gptchats_53797,helpful
+gptchats_53800,helpful
+gptchats_53806,helpful
+gptchats_53841,helpful
+gptchats_53847,helpful
+gptchats_53854,helpful
+gptchats_53858,helpful
+gptchats_53865,helpful
+gptchats_53876,helpful
+gptchats_53896,not helpful
+gptchats_53927,helpful
+gptchats_53940,helpful
+gptchats_53954,helpful
+gptchats_53964,helpful
+gptchats_53975,helpful
+gptchats_53977,helpful
+gptchats_53978,helpful
+gptchats_53982,not helpful
+gptchats_53983,helpful
+gptchats_53984,helpful
+gptchats_53990,helpful
+gptchats_53998,helpful
+gptchats_54005,helpful
+gptchats_54007,helpful
+gptchats_54013,helpful
+gptchats_54017,helpful
+gptchats_54018,helpful
+gptchats_54020,helpful
+gptchats_54023,helpful
+gptchats_54026,helpful
+gptchats_54036,helpful
+gptchats_54040,helpful
+gptchats_54058,helpful
+gptchats_54060,helpful
+gptchats_54073,helpful
+gptchats_54086,helpful
+gptchats_54101,not helpful
+gptchats_54102,helpful
+gptchats_54113,not helpful
+gptchats_54134,helpful
+gptchats_54152,helpful
+gptchats_54153,helpful
+gptchats_54166,helpful
+gptchats_54167,helpful
+gptchats_54172,not helpful
+gptchats_54181,helpful
+gptchats_54208,helpful
+gptchats_54218,helpful
+gptchats_54231,helpful
+gptchats_54236,helpful
+gptchats_54250,helpful
+gptchats_54263,helpful
+gptchats_54265,helpful
+gptchats_54275,helpful
+gptchats_54276,helpful
+gptchats_54286,helpful
+gptchats_54291,helpful
+gptchats_54310,helpful
+gptchats_54326,helpful
+gptchats_54328,not helpful
+gptchats_54351,helpful
+gptchats_54360,helpful
+gptchats_54362,helpful
+gptchats_54369,helpful
+gptchats_54370,helpful
+gptchats_54381,helpful
+gptchats_54386,helpful
+gptchats_54387,helpful
+gptchats_54388,helpful
+gptchats_54403,helpful
+gptchats_54422,helpful
+gptchats_54477,helpful
+gptchats_54499,not helpful
+gptchats_54505,not helpful
+gptchats_54511,helpful
+gptchats_54522,helpful
+gptchats_54533,not helpful
+gptchats_54553,helpful
+gptchats_54555,helpful
+gptchats_54583,helpful
+gptchats_54605,helpful
+gptchats_54665,helpful
+gptchats_54692,helpful
+gptchats_54694,helpful
+gptchats_54703,helpful
+gptchats_54751,helpful
+gptchats_54754,helpful
+gptchats_54764,helpful
+gptchats_54766,helpful
+gptchats_54772,helpful
+gptchats_54809,not helpful
+gptchats_54819,helpful
+gptchats_54820,helpful
+gptchats_54828,helpful
+gptchats_54829,helpful
+gptchats_54852,not helpful
+gptchats_54873,helpful
+gptchats_54875,helpful
+gptchats_54877,helpful
+gptchats_54888,helpful
+gptchats_54894,helpful
+gptchats_54896,helpful
+gptchats_54939,helpful
+gptchats_54944,helpful
+gptchats_54948,not helpful
+gptchats_54961,helpful
+gptchats_54962,helpful
+gptchats_54969,helpful
+gptchats_54970,helpful
+gptchats_54999,not helpful
+gptchats_55000,helpful
+gptchats_55010,helpful
+gptchats_55014,helpful
+gptchats_55015,helpful
+gptchats_55024,helpful
+gptchats_55030,helpful
+gptchats_55049,helpful
+gptchats_55052,helpful
+gptchats_55054,helpful
+gptchats_55056,helpful
+gptchats_55062,helpful
+gptchats_55071,helpful
+gptchats_55152,helpful
+gptchats_55212,helpful
+gptchats_55214,helpful
+gptchats_55217,helpful
+gptchats_55224,helpful
+gptchats_55237,helpful
+gptchats_55238,helpful
+gptchats_55240,helpful
+gptchats_55241,helpful
+gptchats_55247,helpful
+gptchats_55254,helpful
+gptchats_55267,helpful
+gptchats_55268,not helpful
+gptchats_55280,helpful
+gptchats_55305,helpful
+gptchats_55307,helpful
+gptchats_55315,helpful
+gptchats_55325,helpful
+gptchats_55341,helpful
+gptchats_55355,helpful
+gptchats_55390,helpful
+gptchats_55401,helpful
+gptchats_55405,helpful
+gptchats_55412,helpful
+gptchats_55426,helpful
+gptchats_55428,helpful
+gptchats_55434,helpful
+gptchats_55438,helpful
+gptchats_55455,helpful
+gptchats_55456,helpful
+gptchats_55459,helpful
+gptchats_55462,helpful
+gptchats_55476,helpful
+gptchats_55477,helpful
+gptchats_55490,helpful
+gptchats_55509,helpful
+gptchats_55528,helpful
+gptchats_55530,helpful
+gptchats_55535,helpful
+gptchats_55551,helpful
+gptchats_55557,helpful
+gptchats_55574,helpful
+gptchats_55583,helpful
+gptchats_55589,helpful
+gptchats_55596,helpful
+gptchats_55604,not helpful
+gptchats_55619,not helpful
+gptchats_55631,helpful
+gptchats_55645,helpful
+gptchats_55650,helpful
+gptchats_55657,helpful
+gptchats_55663,helpful
+gptchats_55674,not helpful
+gptchats_55679,helpful
+gptchats_55715,helpful
+gptchats_55716,helpful
+gptchats_55726,helpful
+gptchats_55728,helpful
+gptchats_55733,helpful
+gptchats_55738,helpful
+gptchats_55749,helpful
+gptchats_55765,helpful
+gptchats_55766,helpful
+gptchats_55806,helpful
+gptchats_55816,helpful
+gptchats_55825,helpful
+gptchats_55838,helpful
+gptchats_55843,helpful
+gptchats_55870,helpful
+gptchats_55881,helpful
+gptchats_55888,helpful
+gptchats_55890,helpful
+gptchats_55946,helpful
+gptchats_55947,helpful
+gptchats_55955,helpful
+gptchats_55971,helpful
+gptchats_55984,not helpful
+gptchats_55992,not helpful
+gptchats_56010,helpful
+gptchats_56014,helpful
+gptchats_56033,helpful
+gptchats_56034,helpful
+gptchats_56036,helpful
+gptchats_56037,helpful
+gptchats_56049,helpful
+gptchats_56055,helpful
+gptchats_56058,not helpful
+gptchats_56064,helpful
+gptchats_56089,helpful
+gptchats_56094,helpful
+gptchats_56125,helpful
+gptchats_56136,helpful
+gptchats_56137,helpful
+gptchats_56143,helpful
+gptchats_56156,helpful
+gptchats_56188,helpful
+gptchats_56191,not helpful
+gptchats_56192,helpful
+gptchats_56224,helpful
+gptchats_56225,helpful
+gptchats_56226,not helpful
+gptchats_56239,helpful
+gptchats_56244,helpful
+gptchats_56270,helpful
+gptchats_56272,helpful
+gptchats_56277,not helpful
+gptchats_56280,helpful
+gptchats_56283,helpful
+gptchats_56284,helpful
+gptchats_56299,helpful
+gptchats_56306,helpful
+gptchats_56325,helpful
+gptchats_56332,helpful
+gptchats_56337,not helpful
+gptchats_56338,not helpful
+gptchats_56390,helpful
+gptchats_56428,not helpful
+gptchats_56431,helpful
+gptchats_56434,helpful
+gptchats_56456,helpful
+gptchats_56457,helpful
+gptchats_56460,helpful
+gptchats_56471,helpful
+gptchats_56478,helpful
+gptchats_56481,helpful
+gptchats_56491,helpful
+gptchats_56501,not helpful
+gptchats_56549,helpful
+gptchats_56551,helpful
+gptchats_56562,helpful
+gptchats_56568,helpful
+gptchats_56571,helpful
+gptchats_56592,helpful
+gptchats_56601,helpful
+gptchats_56602,helpful
+gptchats_56603,helpful
+gptchats_56604,helpful
+gptchats_56610,helpful
+gptchats_56619,helpful
+gptchats_56626,not helpful
+gptchats_56628,helpful
+gptchats_56645,helpful
+gptchats_56651,helpful
+gptchats_56662,helpful
+gptchats_56671,helpful
+gptchats_56681,helpful
+gptchats_56739,helpful
+gptchats_56748,helpful
+gptchats_56751,helpful
+gptchats_56767,helpful
+gptchats_56770,helpful
+gptchats_56780,helpful
+gptchats_56784,helpful
+gptchats_56787,not helpful
+gptchats_56813,helpful
+gptchats_56848,helpful
+gptchats_56855,helpful
+gptchats_56859,helpful
+gptchats_56863,helpful
+gptchats_56873,helpful
+gptchats_56876,helpful
+gptchats_56877,helpful
+gptchats_56883,helpful
+gptchats_56890,helpful
+gptchats_56894,helpful
+gptchats_56901,not helpful
+gptchats_56912,helpful
+gptchats_56973,helpful
+gptchats_56990,helpful
+gptchats_56995,helpful
+gptchats_56996,helpful
+gptchats_57001,helpful
+gptchats_57003,helpful
+gptchats_57004,helpful
+gptchats_57017,helpful
+gptchats_57018,helpful
+gptchats_57029,helpful
+gptchats_57030,helpful
+gptchats_57060,helpful
+gptchats_57071,helpful
+gptchats_57087,helpful
+gptchats_57090,not helpful
+gptchats_57111,helpful
+gptchats_57115,helpful
+gptchats_57128,helpful
+gptchats_57130,helpful
+gptchats_57160,helpful
+gptchats_57194,helpful
+gptchats_57204,not helpful
+gptchats_57208,helpful
+gptchats_57225,helpful
+gptchats_57227,helpful
+gptchats_57228,helpful
+gptchats_57239,helpful
+gptchats_57249,not helpful
+gptchats_57253,helpful
+gptchats_57261,helpful
+gptchats_57263,not helpful
+gptchats_57267,helpful
+gptchats_57278,helpful
+gptchats_57283,helpful
+gptchats_57306,helpful
+gptchats_57328,helpful
+gptchats_57330,helpful
+gptchats_57341,helpful
+gptchats_57344,helpful
+gptchats_57348,not helpful
+gptchats_57350,helpful
+gptchats_57361,helpful
+gptchats_57362,not helpful
+gptchats_57367,helpful
+gptchats_57377,helpful
+gptchats_57391,helpful
+gptchats_57404,helpful
+gptchats_57425,helpful
+gptchats_57433,helpful
+gptchats_57442,helpful
+gptchats_57452,helpful
+gptchats_57453,helpful
+gptchats_57477,helpful
+gptchats_57504,not helpful
+gptchats_57508,helpful
+gptchats_57517,helpful
+gptchats_57522,helpful
+gptchats_57528,helpful
+gptchats_57529,helpful
+gptchats_57535,helpful
+gptchats_57537,helpful
+gptchats_57538,helpful
+gptchats_57539,helpful
+gptchats_57543,helpful
+gptchats_57580,helpful
+gptchats_57582,helpful
+gptchats_57583,helpful
+gptchats_57588,helpful
+gptchats_57638,helpful
+gptchats_57639,helpful
+gptchats_57649,helpful
+gptchats_57654,helpful
+gptchats_57661,helpful
+gptchats_57663,helpful
+gptchats_57684,helpful
+gptchats_57718,helpful
+gptchats_57719,helpful
+gptchats_57741,helpful
+gptchats_57748,helpful
+gptchats_57756,helpful
+gptchats_57757,helpful
+gptchats_57760,helpful
+gptchats_57770,helpful
+gptchats_57783,helpful
+gptchats_57786,helpful
+gptchats_57807,helpful
+gptchats_57808,not helpful
+gptchats_57815,helpful
+gptchats_57816,helpful
+gptchats_57817,helpful
+gptchats_57838,helpful
+gptchats_57858,helpful
+gptchats_57861,helpful
+gptchats_57867,helpful
+gptchats_57872,helpful
+gptchats_57902,helpful
+gptchats_57914,helpful
+gptchats_57976,helpful
+gptchats_57977,helpful
+gptchats_57979,helpful
+gptchats_57988,helpful
+gptchats_57997,helpful
+gptchats_58003,helpful
+gptchats_58033,helpful
+gptchats_58036,helpful
+gptchats_58047,helpful
+gptchats_58055,helpful
+gptchats_58063,helpful
+gptchats_58076,helpful
+gptchats_58081,helpful
+gptchats_58087,helpful
+gptchats_58088,helpful
+gptchats_58089,helpful
+gptchats_58104,helpful
+gptchats_58126,helpful
+gptchats_58131,helpful
+gptchats_58135,helpful
+gptchats_58136,helpful
+gptchats_58144,helpful
+gptchats_58152,helpful
+gptchats_58158,helpful
+gptchats_58160,not helpful
+gptchats_58169,helpful
+gptchats_58172,helpful
+gptchats_58177,helpful
+gptchats_58182,helpful
+gptchats_58208,not helpful
+gptchats_58223,helpful
+gptchats_58226,helpful
+gptchats_58233,helpful
+gptchats_58247,helpful
+gptchats_58253,helpful
+gptchats_58260,helpful
+gptchats_58263,helpful
+gptchats_58267,helpful
+gptchats_58269,helpful
+gptchats_58284,helpful
+gptchats_58359,helpful
+gptchats_58365,helpful
+gptchats_58373,helpful
+gptchats_58375,helpful
+gptchats_58376,helpful
+gptchats_58378,helpful
+gptchats_58392,helpful
+gptchats_58396,helpful
+gptchats_58428,helpful
+gptchats_58438,helpful
+gptchats_58440,helpful
+gptchats_58442,helpful
+gptchats_58459,helpful
+gptchats_58464,not helpful
+gptchats_58465,helpful
+gptchats_58468,helpful
+gptchats_58489,helpful
+gptchats_58492,helpful
+gptchats_58498,helpful
+gptchats_58503,helpful
+gptchats_58530,helpful
+gptchats_58535,helpful
+gptchats_58552,helpful
+gptchats_58555,helpful
+gptchats_58565,not helpful
+gptchats_58569,helpful
+gptchats_58579,helpful
+gptchats_58603,helpful
+gptchats_58613,not helpful
+gptchats_58616,helpful
+gptchats_58633,helpful
+gptchats_58636,helpful
+gptchats_58655,helpful
+gptchats_58672,helpful
+gptchats_58689,not helpful
+gptchats_58692,helpful
+gptchats_58718,helpful
+gptchats_58720,helpful
+gptchats_58729,helpful
+gptchats_58740,helpful
+gptchats_58747,helpful
+gptchats_58748,helpful
+gptchats_58755,helpful
+gptchats_58769,helpful
+gptchats_58777,helpful
+gptchats_58790,helpful
+gptchats_58794,helpful
+gptchats_58801,helpful
+gptchats_58806,not helpful
+gptchats_58825,helpful
+gptchats_58842,helpful
+gptchats_58853,not helpful
+gptchats_58877,not helpful
+gptchats_58878,helpful
+gptchats_58894,helpful
+gptchats_58898,helpful
+gptchats_58901,helpful
+gptchats_58910,helpful
+gptchats_58911,helpful
+gptchats_58916,helpful
+gptchats_58928,helpful
+gptchats_58930,helpful
+gptchats_58956,not helpful
+gptchats_58964,helpful
+gptchats_58968,helpful
+gptchats_58970,helpful
+gptchats_58997,helpful
+gptchats_58998,helpful
+gptchats_59003,helpful
+gptchats_59023,helpful
+gptchats_59031,not helpful
+gptchats_59085,helpful
+gptchats_59093,helpful
+gptchats_59100,helpful
+gptchats_59136,helpful
+gptchats_59138,not helpful
+gptchats_59146,helpful
+gptchats_59148,helpful
+gptchats_59165,helpful
+gptchats_59185,helpful
+gptchats_59188,helpful
+gptchats_59189,helpful
+gptchats_59193,helpful
+gptchats_59195,helpful
+gptchats_59216,helpful
+gptchats_59258,not helpful
+gptchats_59261,helpful
+gptchats_59271,helpful
+gptchats_59279,helpful
+gptchats_59298,not helpful
+gptchats_59310,helpful
+gptchats_59316,helpful
+gptchats_59320,helpful
+gptchats_59327,helpful
+gptchats_59332,helpful
+gptchats_59333,helpful
+gptchats_59336,helpful
+gptchats_59340,not helpful
+gptchats_59341,helpful
+gptchats_59344,helpful
+gptchats_59347,helpful
+gptchats_59348,not helpful
+gptchats_59356,helpful
+gptchats_59369,helpful
+gptchats_59383,helpful
+gptchats_59390,helpful
+gptchats_59400,helpful
+gptchats_59405,helpful
+gptchats_59408,helpful
+gptchats_59411,helpful
+gptchats_59415,helpful
+gptchats_59430,helpful
+gptchats_59438,not helpful
+gptchats_59441,helpful
+gptchats_59445,helpful
+gptchats_59451,helpful
+gptchats_59464,helpful
+gptchats_59465,helpful
+gptchats_59468,not helpful
+gptchats_59477,helpful
+gptchats_59494,helpful
+gptchats_59496,helpful
+gptchats_59503,helpful
+gptchats_59511,not helpful
+gptchats_59516,not helpful
+gptchats_59517,helpful
+gptchats_59519,helpful
+gptchats_59526,helpful
+gptchats_59534,helpful
+gptchats_59541,helpful
+gptchats_59548,not helpful
+gptchats_59578,helpful
+gptchats_59591,helpful
+gptchats_59595,helpful
+gptchats_59597,helpful
+gptchats_59604,not helpful
+gptchats_59607,helpful
+gptchats_59610,helpful
+gptchats_59617,helpful
+gptchats_59633,not helpful
+gptchats_59644,helpful
+gptchats_59646,helpful
+gptchats_59647,not helpful
+gptchats_59648,helpful
+gptchats_59651,helpful
+gptchats_59652,helpful
+gptchats_59662,helpful
+gptchats_59676,helpful
+gptchats_59677,helpful
+gptchats_59678,helpful
+gptchats_59684,helpful
+gptchats_59687,helpful
+gptchats_59703,helpful
+gptchats_59705,helpful
+gptchats_59718,not helpful
+gptchats_59747,helpful
+gptchats_59754,not helpful
+gptchats_59765,helpful
+gptchats_59782,helpful
+gptchats_59794,helpful
+gptchats_59821,not helpful
+gptchats_59824,helpful
+gptchats_59827,helpful
+gptchats_59834,not helpful
+gptchats_59837,helpful
+gptchats_59850,helpful
+gptchats_59855,helpful
+gptchats_59871,not helpful
+gptchats_59877,helpful
+gptchats_59880,helpful
+gptchats_59893,helpful
+gptchats_59903,helpful
+gptchats_59905,helpful
+gptchats_59907,helpful
+gptchats_59908,helpful
+gptchats_59915,helpful
+gptchats_59917,helpful
+gptchats_59918,helpful
+gptchats_59919,helpful
+gptchats_59925,not helpful
+gptchats_59928,helpful
+gptchats_59931,helpful
+gptchats_59933,helpful
+gptchats_59942,helpful
+gptchats_59943,helpful
+gptchats_59969,helpful
+gptchats_59973,helpful
+gptchats_59974,helpful
+gptchats_59977,helpful
+gptchats_59978,helpful
+gptchats_59987,helpful
+gptchats_60017,helpful
+gptchats_60021,helpful
+gptchats_60023,helpful
+gptchats_60030,helpful
+gptchats_60034,helpful
+gptchats_60037,helpful
+gptchats_60038,helpful
+gptchats_60052,helpful
+gptchats_60055,helpful
+gptchats_60057,helpful
+gptchats_60064,helpful
+gptchats_60070,helpful
+gptchats_60079,not helpful
+gptchats_60083,helpful
+gptchats_60090,helpful
+gptchats_60094,helpful
+gptchats_60097,helpful
+gptchats_60101,helpful
+gptchats_60110,helpful
+gptchats_60120,helpful
+gptchats_60123,helpful
+gptchats_60129,helpful
+gptchats_60130,helpful
+gptchats_60151,helpful
+gptchats_60153,helpful
+gptchats_60168,not helpful
+gptchats_60178,helpful
+gptchats_60189,helpful
+gptchats_60193,helpful
+gptchats_60200,helpful
+gptchats_60207,helpful
+gptchats_60227,helpful
+gptchats_60235,helpful
+gptchats_60238,helpful
+gptchats_60243,helpful
+gptchats_60244,helpful
+gptchats_60252,helpful
+gptchats_60254,helpful
+gptchats_60256,not helpful
+gptchats_60258,helpful
+gptchats_60259,helpful
+gptchats_60280,helpful
+gptchats_60281,helpful
+gptchats_60287,helpful
+gptchats_60301,helpful
+gptchats_60306,not helpful
+gptchats_60307,helpful
+gptchats_60310,helpful
+gptchats_60319,helpful
+gptchats_60324,helpful
+gptchats_60332,helpful
+gptchats_60334,helpful
+gptchats_60344,helpful
+gptchats_60354,helpful
+gptchats_60365,helpful
+gptchats_60375,helpful
+gptchats_60382,helpful
+gptchats_60383,helpful
+gptchats_60388,not helpful
+gptchats_60396,helpful
+gptchats_60398,helpful
+gptchats_60403,helpful
+gptchats_60410,helpful
+gptchats_60413,helpful
+gptchats_60423,helpful
+gptchats_60428,helpful
+gptchats_60433,helpful
+gptchats_60442,helpful
+gptchats_60455,helpful
+gptchats_60459,helpful
+gptchats_60460,helpful
+gptchats_60462,helpful
+gptchats_60465,helpful
+gptchats_60470,helpful
+gptchats_60476,helpful
+gptchats_60488,helpful
+gptchats_60490,helpful
+gptchats_60493,helpful
+gptchats_60494,helpful
+gptchats_60498,helpful
+gptchats_60503,helpful
+gptchats_60518,helpful
+gptchats_60519,helpful
+gptchats_60521,helpful
+gptchats_60528,helpful
+gptchats_60532,helpful
+gptchats_60539,not helpful
+gptchats_60548,helpful
+gptchats_60564,helpful
+gptchats_60583,not helpful
+gptchats_60595,helpful
+gptchats_60605,helpful
+gptchats_60607,helpful
+gptchats_60622,helpful
+gptchats_60626,helpful
+gptchats_60628,helpful
+gptchats_60630,not helpful
+gptchats_60631,helpful
+gptchats_60632,helpful
+gptchats_60642,helpful
+gptchats_60649,helpful
+gptchats_60651,helpful
+gptchats_60656,helpful
+gptchats_60658,helpful
+gptchats_60668,helpful
+gptchats_60669,helpful
+gptchats_60674,helpful
+gptchats_60725,helpful
+gptchats_60730,helpful
+gptchats_60747,helpful
+gptchats_60748,helpful
+gptchats_60756,helpful
+gptchats_60766,helpful
+gptchats_60768,helpful
+gptchats_60770,helpful
+gptchats_60773,helpful
+gptchats_60779,helpful
+gptchats_60786,helpful
+gptchats_60787,helpful
+gptchats_60789,helpful
+gptchats_60790,not helpful
+gptchats_60807,helpful
+gptchats_60810,helpful
+gptchats_60849,helpful
+gptchats_60850,helpful
+gptchats_60855,helpful
+gptchats_60858,helpful
+gptchats_60859,helpful
+gptchats_60862,helpful
+gptchats_60868,helpful
+gptchats_60870,helpful
+gptchats_60872,helpful
+gptchats_60877,helpful
+gptchats_60888,helpful
+gptchats_60894,helpful
+gptchats_60901,helpful
+gptchats_60908,helpful
+gptchats_60916,helpful
+gptchats_60920,helpful
+gptchats_60928,helpful
+gptchats_60929,helpful
+gptchats_60933,helpful
+gptchats_60939,helpful
+gptchats_60944,helpful
+gptchats_60947,helpful
+gptchats_60964,helpful
+gptchats_60970,helpful
+gptchats_60981,helpful
+gptchats_60986,helpful
+gptchats_60992,helpful
+gptchats_60997,helpful
+gptchats_61009,helpful
+gptchats_61011,helpful
+gptchats_61013,helpful
+gptchats_61021,helpful
+gptchats_61029,not helpful
+gptchats_61032,helpful
+gptchats_61033,helpful
+gptchats_61034,helpful
+gptchats_61041,helpful
+gptchats_61048,helpful
+gptchats_61053,helpful
+gptchats_61064,helpful
+gptchats_61077,helpful
+gptchats_61084,helpful
+gptchats_61088,helpful
+gptchats_61089,helpful
+gptchats_61102,helpful
+gptchats_61105,helpful
+gptchats_61108,not helpful
+gptchats_61109,helpful
+gptchats_61123,helpful
+gptchats_61129,helpful
+gptchats_61142,not helpful
+gptchats_61157,helpful
+gptchats_61159,helpful
+gptchats_61181,helpful
+gptchats_61183,helpful
+gptchats_61186,helpful
+gptchats_61187,helpful
+gptchats_61190,helpful
+gptchats_61197,helpful
+gptchats_61198,helpful
+gptchats_61209,helpful
+gptchats_61212,helpful
+gptchats_61215,not helpful
+gptchats_61220,helpful
+gptchats_61221,helpful
+gptchats_61223,helpful
+gptchats_61224,helpful
+gptchats_61231,helpful
+gptchats_61232,helpful
+gptchats_61237,helpful
+gptchats_61245,helpful
+gptchats_61252,helpful
+gptchats_61258,helpful
+gptchats_61264,helpful
+gptchats_61272,helpful
+gptchats_61276,helpful
+gptchats_61279,helpful
+gptchats_61280,helpful
+gptchats_61281,helpful
+gptchats_61282,helpful
+gptchats_61290,helpful
+gptchats_61291,helpful
+gptchats_61294,helpful
+gptchats_61295,helpful
+gptchats_61316,helpful
+gptchats_61320,helpful
+gptchats_61329,helpful
+gptchats_61333,helpful
+gptchats_61336,helpful
+gptchats_61349,helpful
+gptchats_61350,helpful
+gptchats_61358,not helpful
+gptchats_61370,helpful
+gptchats_61372,helpful
+gptchats_61381,helpful
+gptchats_61391,helpful
+gptchats_61400,helpful
+gptchats_61430,helpful
+gptchats_61432,helpful
+gptchats_61436,helpful
+gptchats_61450,helpful
+gptchats_61451,helpful
+gptchats_61452,helpful
+gptchats_61459,helpful
+gptchats_61462,helpful
+gptchats_61478,helpful
+gptchats_61480,helpful
+gptchats_61482,not helpful
+gptchats_61484,helpful
+gptchats_61485,helpful
+gptchats_61486,helpful
+gptchats_61492,not helpful
+gptchats_61496,helpful
+gptchats_61499,helpful
+gptchats_61502,helpful
+gptchats_61510,not helpful
+gptchats_61518,helpful
+gptchats_61522,helpful
+gptchats_61531,helpful
+gptchats_61532,helpful
+gptchats_61533,helpful
+gptchats_61542,helpful
+gptchats_61544,helpful
+gptchats_61547,not helpful
+gptchats_61548,helpful
+gptchats_61555,helpful
+gptchats_61569,not helpful
+gptchats_61570,helpful
+gptchats_61574,not helpful
+gptchats_61578,helpful
+gptchats_61581,helpful
+gptchats_61589,helpful
+gptchats_61591,helpful
+gptchats_61597,helpful
+gptchats_61618,helpful
+gptchats_61624,helpful
+gptchats_61631,helpful
+gptchats_61640,helpful
+gptchats_61646,helpful
+gptchats_61649,helpful
+gptchats_61656,helpful
+gptchats_61659,helpful
+gptchats_61661,helpful
+gptchats_61662,helpful
+gptchats_61672,helpful
+gptchats_61673,helpful
+gptchats_61682,not helpful
+gptchats_61683,helpful
+gptchats_61688,not helpful
+gptchats_61690,helpful
+gptchats_61694,helpful
+gptchats_61697,helpful
+gptchats_61700,helpful
+gptchats_61703,helpful
+gptchats_61704,helpful
+gptchats_61706,helpful
+gptchats_61709,helpful
+gptchats_61711,helpful
+gptchats_61715,helpful
+gptchats_61722,helpful
+gptchats_61725,helpful
+gptchats_61728,helpful
+gptchats_61731,helpful
+gptchats_61735,helpful
+gptchats_61738,helpful
+gptchats_61744,helpful
+gptchats_61746,helpful
+gptchats_61753,helpful
+gptchats_61754,helpful
+gptchats_61766,helpful
+gptchats_61772,helpful
+gptchats_61774,not helpful
+gptchats_61775,helpful
+gptchats_61778,helpful
+gptchats_61781,helpful
+gptchats_61784,helpful
+gptchats_61802,helpful
+gptchats_61810,helpful
+gptchats_61818,helpful
+gptchats_61821,helpful
+gptchats_61825,not helpful
+gptchats_61827,helpful
+gptchats_61832,helpful
+gptchats_61836,helpful
+gptchats_61837,helpful
+gptchats_61838,helpful
+gptchats_61843,helpful
+gptchats_61848,helpful
+gptchats_61851,helpful
+gptchats_61854,helpful
+gptchats_61855,helpful
+gptchats_61861,helpful
+gptchats_61864,helpful
+gptchats_61871,helpful
+gptchats_61873,helpful
+gptchats_61881,helpful
+gptchats_61882,helpful
+gptchats_61890,helpful
+gptchats_61892,helpful
+gptchats_61895,helpful
+gptchats_61898,helpful
+gptchats_61900,helpful
+gptchats_61905,helpful
+gptchats_61908,helpful
+gptchats_61909,helpful
+gptchats_61916,not helpful
+gptchats_61920,helpful
+gptchats_61925,helpful
+gptchats_61947,helpful
+gptchats_61974,helpful
+gptchats_61990,helpful
+gptchats_61993,helpful
+gptchats_61996,not helpful
+gptchats_62002,helpful
+gptchats_62005,helpful
+gptchats_62006,helpful
+gptchats_62008,helpful
+gptchats_62013,helpful
+gptchats_62018,helpful
+gptchats_62025,helpful
+gptchats_62026,helpful
+gptchats_62027,helpful
+gptchats_62033,helpful
+gptchats_62034,not helpful
+gptchats_62037,helpful
+gptchats_62040,helpful
+gptchats_62052,helpful
+gptchats_62053,helpful
+gptchats_62054,helpful
+gptchats_62063,helpful
+gptchats_62064,helpful
+gptchats_62076,helpful
+gptchats_62083,helpful
+gptchats_62087,helpful
+gptchats_62088,helpful
+gptchats_62089,helpful
+gptchats_62096,helpful
+gptchats_62099,helpful
+gptchats_62102,helpful
+gptchats_62104,helpful
+gptchats_62106,helpful
+gptchats_62112,helpful
+gptchats_62114,helpful
+gptchats_62115,helpful
+gptchats_62119,not helpful
+gptchats_62123,helpful
+gptchats_62126,helpful
+gptchats_62131,not helpful
+gptchats_62132,helpful
+gptchats_62143,helpful
+gptchats_62144,helpful
+gptchats_62145,helpful
+gptchats_62148,helpful
+gptchats_62151,helpful
+gptchats_62152,helpful
+gptchats_62176,helpful
+gptchats_62177,helpful
+gptchats_62178,helpful
+gptchats_62179,helpful
+gptchats_62180,helpful
+gptchats_62182,helpful
+gptchats_62184,helpful
+gptchats_62188,helpful
+gptchats_62193,helpful
+gptchats_62208,helpful
+gptchats_62211,helpful
+gptchats_62227,helpful
+gptchats_62228,helpful
+gptchats_62233,helpful
+gptchats_62236,helpful
+gptchats_62237,not helpful
+gptchats_62240,helpful
+gptchats_62242,helpful
+gptchats_62253,helpful
+gptchats_62257,helpful
+gptchats_62259,helpful
+gptchats_62261,helpful
+gptchats_62263,helpful
+gptchats_62271,helpful
+gptchats_62275,not helpful
+gptchats_62278,helpful
+gptchats_62279,helpful
+gptchats_62285,helpful
+gptchats_62290,helpful
+gptchats_62291,helpful
+gptchats_62292,helpful
+gptchats_62294,helpful
+gptchats_62297,helpful
+gptchats_62299,not helpful
+gptchats_62309,not helpful
+gptchats_62312,helpful
+gptchats_62315,helpful
+gptchats_62317,helpful
+gptchats_62320,helpful
+gptchats_62321,helpful
+gptchats_62325,helpful
+gptchats_62330,not helpful
+gptchats_62335,helpful
+gptchats_62340,helpful
+gptchats_62342,helpful
+gptchats_62343,not helpful
+gptchats_62344,helpful
+gptchats_62346,helpful
+gptchats_62349,helpful
+gptchats_62355,helpful
+gptchats_62357,helpful
+gptchats_62361,helpful
+gptchats_62362,helpful
+gptchats_62364,helpful
+gptchats_62367,helpful
+gptchats_62384,not helpful
+gptchats_62385,helpful
+gptchats_62390,not helpful
+gptchats_62391,helpful
+gptchats_62392,helpful
+gptchats_62396,helpful
+gptchats_62397,helpful
+gptchats_62398,helpful
+gptchats_62399,not helpful
+gptchats_62401,helpful
+gptchats_62402,helpful
+gptchats_62405,helpful
+gptchats_62419,not helpful
+gptchats_62420,helpful
+gptchats_62421,helpful
+gptchats_62423,helpful
+gptchats_62425,helpful
+gptchats_62427,not helpful
+gptchats_62430,helpful
+gptchats_62432,helpful
+gptchats_62433,helpful
+gptchats_62436,helpful
+gptchats_62441,helpful
+gptchats_62443,helpful
+gptchats_62445,helpful
+gptchats_62446,helpful
+gptchats_62449,helpful
+gptchats_62451,helpful
+gptchats_62456,helpful
+gptchats_62457,helpful
+gptchats_62461,helpful
+gptchats_62462,helpful
+gptchats_62463,helpful
+gptchats_62464,helpful
+gptchats_62466,helpful
+gptchats_62468,not helpful
+gptchats_62470,helpful
+gptchats_62483,helpful
+gptchats_62484,helpful
+gptchats_62487,helpful
+gptchats_62489,helpful
+gptchats_62495,helpful
+gptchats_62501,helpful
+gptchats_62509,helpful
+gptchats_62555,helpful
+gptchats_62559,helpful
+gptchats_62562,helpful
+gptchats_62572,helpful
+gptchats_62573,helpful
+gptchats_62576,helpful
+gptchats_62577,helpful
+gptchats_62582,helpful
+gptchats_62583,helpful
+gptchats_62584,helpful
+gptchats_62586,helpful
+gptchats_62588,helpful
+gptchats_62590,helpful
+gptchats_62591,helpful
+gptchats_62593,helpful
+gptchats_62600,not helpful
+gptchats_62602,helpful
+gptchats_62605,helpful
+gptchats_62610,helpful
+gptchats_62615,helpful
+gptchats_62621,helpful
+gptchats_62622,helpful
+gptchats_62625,helpful
+gptchats_62629,helpful
+gptchats_62631,helpful
+gptchats_62632,helpful
+gptchats_62633,helpful
+gptchats_62635,helpful
+gptchats_62641,helpful
+gptchats_62646,helpful
+gptchats_62647,helpful
+gptchats_62653,helpful
+gptchats_62654,not helpful
+gptchats_62658,helpful
+gptchats_62661,helpful
+gptchats_62666,helpful
+gptchats_62671,helpful
+gptchats_62674,helpful
+gptchats_62678,helpful
+gptchats_62683,helpful
+gptchats_62684,helpful
+gptchats_62687,helpful
+gptchats_62694,helpful
+gptchats_62696,helpful
+gptchats_62700,helpful
+gptchats_62701,helpful
+gptchats_62702,not helpful
+gptchats_62705,helpful
+gptchats_62712,helpful
+gptchats_62717,helpful
+gptchats_62719,helpful
+gptchats_62725,helpful
+gptchats_62735,helpful
+gptchats_62736,helpful
+gptchats_62740,not helpful
+gptchats_62741,helpful
+gptchats_62742,helpful
+gptchats_62748,helpful
+gptchats_62750,helpful
+gptchats_62751,helpful
+gptchats_62756,not helpful
+gptchats_62775,helpful
+gptchats_62777,helpful
+gptchats_62778,helpful
+gptchats_62782,helpful
+gptchats_62786,not helpful
+gptchats_62787,helpful
+gptchats_62790,helpful
+gptchats_62798,helpful
+gptchats_62800,helpful
+gptchats_62801,helpful
+gptchats_62803,helpful
+gptchats_62816,helpful
+gptchats_62825,helpful
+gptchats_62837,helpful
+gptchats_62845,helpful
+gptchats_62847,helpful
+gptchats_62848,helpful
+gptchats_62849,helpful
+gptchats_62853,helpful
+gptchats_62860,helpful
+gptchats_62863,helpful
+gptchats_62877,not helpful
+gptchats_62878,helpful
+gptchats_62879,helpful
+gptchats_62880,helpful
+gptchats_62882,helpful
+gptchats_62889,helpful
+gptchats_62898,helpful
+gptchats_62901,helpful
+gptchats_62908,helpful
+gptchats_62925,helpful
+gptchats_62934,helpful
+gptchats_62948,helpful
+gptchats_62949,helpful
+gptchats_62951,helpful
+gptchats_62952,helpful
+gptchats_62954,helpful
+gptchats_62956,helpful
+gptchats_62959,helpful
+gptchats_62972,helpful
+gptchats_62974,helpful
+gptchats_62975,helpful
+gptchats_62976,helpful
+gptchats_62979,helpful
+gptchats_62980,helpful
+gptchats_62981,helpful
+gptchats_62985,helpful
+gptchats_62987,helpful
+gptchats_62991,helpful
+gptchats_62993,helpful
+gptchats_62998,helpful
+gptchats_63002,helpful
+gptchats_63006,helpful
+gptchats_63008,helpful
+gptchats_63009,helpful
+gptchats_63016,helpful
+gptchats_63019,helpful
+gptchats_63021,helpful
+gptchats_63022,helpful
+gptchats_63023,helpful
+gptchats_63027,helpful
+gptchats_63028,helpful
+gptchats_63029,helpful
+gptchats_63030,helpful
+gptchats_63032,helpful
+gptchats_63035,helpful
+gptchats_63047,helpful
+gptchats_63056,helpful
+gptchats_63062,helpful
+gptchats_63063,helpful
+gptchats_63072,not helpful
+gptchats_63073,helpful
+gptchats_63074,helpful
+gptchats_63079,helpful
+gptchats_63084,helpful
+gptchats_63086,helpful
+gptchats_63090,not helpful
+gptchats_63091,helpful
+gptchats_63092,helpful
+gptchats_63096,helpful
+gptchats_63098,helpful
+gptchats_63517,helpful
+gptchats_63632,helpful
+gptchats_63937,helpful
+gptchats_64121,helpful
+gptchats_64122,helpful
+gptchats_64124,helpful
+gptchats_64130,helpful
+gptchats_64133,helpful
+gptchats_64136,helpful
+gptchats_64138,helpful
+gptchats_64140,helpful
+gptchats_64145,helpful
+gptchats_64146,not helpful
+gptchats_64295,helpful
+gptchats_64298,helpful
+gptchats_64311,helpful
+gptchats_64316,helpful
+gptchats_64322,helpful
+gptchats_64323,helpful
+gptchats_64324,helpful
+gptchats_64327,helpful
+gptchats_64329,helpful
+gptchats_64330,not helpful
+gptchats_64331,helpful
+gptchats_64333,helpful
+gptchats_64337,helpful
+gptchats_64339,helpful
+gptchats_64343,helpful
+gptchats_64345,helpful
+gptchats_64347,helpful
+gptchats_64348,helpful
+gptchats_64354,helpful
+gptchats_64355,helpful
+gptchats_64356,not helpful
+gptchats_64360,helpful
+gptchats_64361,helpful
+gptchats_64364,helpful
+gptchats_64365,helpful
+gptchats_64366,helpful
+gptchats_64367,helpful
+gptchats_64377,not helpful
+gptchats_64387,not helpful
+gptchats_64390,helpful
+gptchats_64393,helpful
+gptchats_64404,helpful
+gptchats_64411,helpful
+gptchats_64416,helpful
+gptchats_64420,helpful
+gptchats_64421,helpful
+gptchats_64423,helpful
+gptchats_64426,helpful
+gptchats_64427,helpful
+gptchats_64432,helpful
+gptchats_64434,helpful
+gptchats_64436,helpful
+gptchats_64442,helpful
+gptchats_64445,helpful
+gptchats_64448,helpful
+gptchats_64452,helpful
+gptchats_64457,helpful
+gptchats_64460,helpful
+gptchats_64461,helpful
+gptchats_64465,helpful
+gptchats_64472,helpful
+gptchats_64474,helpful
+gptchats_64476,helpful
+gptchats_64482,helpful
+gptchats_64487,helpful
+gptchats_64488,helpful
+gptchats_64490,helpful
+gptchats_64493,helpful
+gptchats_64494,helpful
+gptchats_64495,helpful
+gptchats_64496,helpful
+gptchats_64498,helpful
+gptchats_64499,not helpful
+gptchats_64502,helpful
+gptchats_64509,helpful
+gptchats_64511,helpful
+gptchats_64518,helpful
+gptchats_64519,helpful
+gptchats_64524,helpful
+gptchats_64527,helpful
+gptchats_64531,helpful
+gptchats_64540,helpful
+gptchats_64545,helpful
+gptchats_64546,helpful
+gptchats_64553,helpful
+gptchats_64557,helpful
+gptchats_64563,helpful
+gptchats_64566,helpful
+gptchats_64567,helpful
+gptchats_64569,helpful
+gptchats_64576,helpful
+gptchats_64583,helpful
+gptchats_64584,not helpful
+gptchats_64585,helpful
+gptchats_64588,helpful
+gptchats_64592,helpful
+gptchats_64596,helpful
+gptchats_64634,helpful
+gptchats_64637,helpful
+gptchats_64643,not helpful
+gptchats_64649,helpful
+gptchats_64653,helpful
+gptchats_64655,helpful
+gptchats_64656,helpful
+gptchats_64657,helpful
+gptchats_64658,not helpful
+gptchats_64659,helpful
+gptchats_64662,not helpful
+gptchats_64670,helpful
+gptchats_64671,helpful
+gptchats_64672,helpful
+gptchats_64677,helpful
+gptchats_64679,helpful
+gptchats_64682,not helpful
+gptchats_64687,helpful
+gptchats_64689,helpful
+gptchats_64692,helpful
+gptchats_64694,helpful
+gptchats_64696,helpful
+gptchats_64700,helpful
+gptchats_64702,helpful
+gptchats_64703,helpful
+gptchats_64714,helpful
+gptchats_64728,helpful
+gptchats_64739,helpful
+gptchats_64746,not helpful
+gptchats_64763,helpful
+gptchats_64764,helpful
+gptchats_64765,helpful
+gptchats_64768,helpful
+gptchats_64770,helpful
+gptchats_64771,helpful
+gptchats_64773,helpful
+gptchats_64776,helpful
+gptchats_64784,helpful
+gptchats_64788,helpful
+gptchats_64791,helpful
+gptchats_64792,helpful
+gptchats_64793,not helpful
+gptchats_64795,helpful
+gptchats_64799,helpful
+gptchats_64800,helpful
+gptchats_64803,helpful
+gptchats_64810,helpful
+gptchats_64812,helpful
+gptchats_64813,helpful
+gptchats_64817,helpful
+gptchats_64826,helpful
+gptchats_64827,helpful
+gptchats_64832,helpful
+gptchats_64844,helpful
+gptchats_64846,helpful
+gptchats_64847,helpful
+gptchats_64848,helpful
+gptchats_64851,helpful
+gptchats_64855,helpful
+gptchats_64858,not helpful
+gptchats_64863,helpful
+gptchats_64865,helpful
+gptchats_64900,helpful
+gptchats_64909,helpful
+gptchats_64912,helpful
+gptchats_64914,helpful
+gptchats_64916,helpful
+gptchats_64919,helpful
+gptchats_64927,helpful
+gptchats_64928,helpful
+gptchats_64932,helpful
+gptchats_64934,helpful
+gptchats_64937,helpful
+gptchats_64938,helpful
+gptchats_64940,helpful
+gptchats_64947,not helpful
+gptchats_64949,helpful
+gptchats_64951,helpful
+gptchats_64952,helpful
+gptchats_64953,helpful
+gptchats_64958,helpful
+gptchats_64966,helpful
+gptchats_64969,helpful
+gptchats_64973,helpful
+gptchats_64984,helpful
+gptchats_64986,helpful
+gptchats_64993,helpful
+gptchats_64996,helpful
+gptchats_64999,helpful
+gptchats_65003,helpful
+gptchats_65004,helpful
+gptchats_65008,helpful
+gptchats_65009,helpful
+gptchats_65012,helpful
+gptchats_65020,not helpful
+gptchats_65021,helpful
+gptchats_65025,helpful
+gptchats_65026,not helpful
+gptchats_65027,helpful
+gptchats_65030,helpful
+gptchats_65031,helpful
+gptchats_65034,helpful
+gptchats_65038,helpful
+gptchats_65039,helpful
+gptchats_65042,helpful
+gptchats_65047,not helpful
+gptchats_65048,helpful
+gptchats_65051,helpful
+gptchats_65052,helpful
+gptchats_65053,helpful
+gptchats_65057,helpful
+gptchats_65058,helpful
+gptchats_65060,helpful
+gptchats_65066,helpful
+gptchats_65067,helpful
+gptchats_65069,helpful
+gptchats_65070,helpful
+gptchats_65072,helpful
+gptchats_65073,helpful
+gptchats_65082,helpful
+gptchats_65092,helpful
+gptchats_65094,helpful
+gptchats_65099,not helpful
+gptchats_65106,helpful
+gptchats_65114,helpful
+gptchats_65115,helpful
+gptchats_65116,helpful
+gptchats_65118,helpful
+gptchats_65125,helpful
+gptchats_65128,helpful
+gptchats_65131,helpful
+gptchats_65136,helpful
+gptchats_65138,helpful
+gptchats_65143,helpful
+gptchats_65148,helpful
+gptchats_65151,helpful
+gptchats_65154,helpful
+gptchats_65156,helpful
+gptchats_65159,helpful
+gptchats_65160,helpful
+gptchats_65161,helpful
+gptchats_65164,helpful
+gptchats_65165,helpful
+gptchats_65170,not helpful
+gptchats_65175,helpful
+gptchats_65176,not helpful
+gptchats_65179,helpful
+gptchats_65182,helpful
+gptchats_65183,helpful
+gptchats_65190,helpful
+gptchats_65191,helpful
+gptchats_65193,helpful
+gptchats_65200,helpful
+gptchats_65201,helpful
+gptchats_65202,helpful
+gptchats_65205,helpful
+gptchats_65207,helpful
+gptchats_65209,helpful
+gptchats_65210,helpful
+gptchats_65217,not helpful
+gptchats_65218,helpful
+gptchats_65222,helpful
+gptchats_65224,helpful
+gptchats_65225,helpful
+gptchats_65228,helpful
+gptchats_65235,helpful
+gptchats_65240,helpful
+gptchats_65242,helpful
+gptchats_65243,helpful
+gptchats_65245,helpful
+gptchats_65246,helpful
+gptchats_65247,helpful
+gptchats_65250,not helpful
+gptchats_65253,helpful
+gptchats_65259,helpful
+gptchats_65265,helpful
+gptchats_65270,helpful
+gptchats_65272,helpful
+gptchats_65274,helpful
+gptchats_65286,helpful
+gptchats_65287,helpful
+gptchats_65290,helpful
+gptchats_65306,helpful
+gptchats_65314,helpful
+gptchats_65317,helpful
+gptchats_65320,helpful
+gptchats_65322,helpful
+gptchats_65327,not helpful
+gptchats_65338,helpful
+gptchats_65339,helpful
+gptchats_65340,helpful
+gptchats_65343,helpful
+gptchats_65352,helpful
+gptchats_65358,helpful
+gptchats_65362,helpful
+gptchats_65363,helpful
+gptchats_65366,helpful
+gptchats_65370,helpful
+gptchats_65371,helpful
+gptchats_65384,helpful
+gptchats_65386,helpful
+gptchats_65388,helpful
+gptchats_65389,helpful
+gptchats_65391,helpful
+gptchats_65406,not helpful
+gptchats_65410,helpful
+gptchats_65416,helpful
+gptchats_65424,helpful
+gptchats_65428,helpful
+gptchats_65429,helpful
+gptchats_65433,helpful
+gptchats_65435,helpful
+gptchats_65439,helpful
+gptchats_65443,not helpful
+gptchats_65447,not helpful
+gptchats_65451,helpful
+gptchats_65452,helpful
+gptchats_65454,helpful
+gptchats_65457,helpful
+gptchats_65466,helpful
+gptchats_65468,helpful
+gptchats_65469,helpful
+gptchats_65478,helpful
+gptchats_65479,helpful
+gptchats_65481,helpful
+gptchats_65482,helpful
+gptchats_65483,helpful
+gptchats_65484,helpful
+gptchats_65493,helpful
+gptchats_65494,helpful
+gptchats_65502,helpful
+gptchats_65510,helpful
+gptchats_65511,helpful
+gptchats_65513,not helpful
+gptchats_65519,helpful
+gptchats_65522,helpful
+gptchats_65523,helpful
+gptchats_65525,helpful
+gptchats_65534,helpful
+gptchats_65537,helpful
+gptchats_65542,helpful
+gptchats_65549,helpful
+gptchats_65556,helpful
+gptchats_65562,helpful
+gptchats_65563,helpful
+gptchats_65567,helpful
+gptchats_65571,helpful
+gptchats_65575,helpful
+gptchats_65582,helpful
+gptchats_65584,helpful
+gptchats_65586,helpful
+gptchats_65588,helpful
+gptchats_65603,helpful
+gptchats_65604,helpful
+gptchats_65608,helpful
+gptchats_65619,helpful
+gptchats_65625,helpful
+gptchats_65626,helpful
+gptchats_65629,helpful
+gptchats_65631,helpful
+gptchats_65632,helpful
+gptchats_65642,helpful
+gptchats_65647,helpful
+gptchats_65652,helpful
+gptchats_65671,helpful
+gptchats_65673,helpful
+gptchats_65680,helpful
+gptchats_65681,helpful
+gptchats_65682,helpful
+gptchats_65685,not helpful
+gptchats_65687,helpful
+gptchats_65693,helpful
+gptchats_65695,helpful
+gptchats_65698,helpful
+gptchats_65700,helpful
+gptchats_65702,helpful
+gptchats_65704,helpful
+gptchats_65705,helpful
+gptchats_65709,not helpful
+gptchats_65710,not helpful
+gptchats_65713,helpful
+gptchats_65722,helpful
+gptchats_65724,helpful
+gptchats_65727,helpful
+gptchats_65728,helpful
+gptchats_65730,helpful
+gptchats_65733,helpful
+gptchats_65736,helpful
+gptchats_65743,helpful
+gptchats_65745,helpful
+gptchats_65750,helpful
+gptchats_65753,not helpful
+gptchats_65755,helpful
+gptchats_65758,helpful
+gptchats_65759,helpful
+gptchats_65761,helpful
+gptchats_65765,not helpful
+gptchats_65766,helpful
+gptchats_65771,helpful
+gptchats_65786,helpful
+gptchats_65787,helpful
+gptchats_65790,helpful
+gptchats_65791,helpful
+gptchats_65795,helpful
+gptchats_65802,helpful
+gptchats_65805,helpful
+gptchats_65824,helpful
+gptchats_65828,helpful
+gptchats_65829,helpful
+gptchats_65832,helpful
+gptchats_65833,helpful
+gptchats_65837,helpful
+gptchats_65838,helpful
+gptchats_65840,helpful
+gptchats_65843,helpful
+gptchats_65844,helpful
+gptchats_65846,helpful
+gptchats_65849,helpful
+gptchats_65850,not helpful
+gptchats_65856,helpful
+gptchats_65858,not helpful
+gptchats_65862,helpful
+gptchats_65863,helpful
+gptchats_65864,helpful
+gptchats_65867,helpful
+gptchats_65869,helpful
+gptchats_65870,helpful
+gptchats_65875,not helpful
+gptchats_65879,helpful
+gptchats_65880,helpful
+gptchats_65881,helpful
+gptchats_65882,helpful
+gptchats_65885,helpful
+gptchats_65890,helpful
+gptchats_65896,helpful
+gptchats_65903,helpful
+gptchats_65907,helpful
+gptchats_65923,helpful
+gptchats_65934,helpful
+gptchats_65935,helpful
+gptchats_65946,helpful
+gptchats_65947,helpful
+gptchats_65949,helpful
+gptchats_65950,helpful
+gptchats_65951,helpful
+gptchats_65952,helpful
+gptchats_65955,helpful
+gptchats_65958,helpful
+gptchats_65959,helpful
+gptchats_65963,helpful
+gptchats_65971,helpful
+gptchats_65973,helpful
+gptchats_65979,helpful
+gptchats_65980,helpful
+gptchats_65981,helpful
+gptchats_65992,helpful
+gptchats_65998,helpful
+gptchats_65999,helpful
+gptchats_66000,helpful
+gptchats_66001,helpful
+gptchats_66002,not helpful
+gptchats_66006,helpful
+gptchats_66009,not helpful
+gptchats_66010,helpful
+gptchats_66015,helpful
+gptchats_66016,helpful
+gptchats_66032,helpful
+gptchats_66037,helpful
+gptchats_66042,helpful
+gptchats_66046,helpful
+gptchats_66047,helpful
+gptchats_66048,helpful
+gptchats_66052,helpful
+gptchats_66054,helpful
+gptchats_66057,helpful
+gptchats_66058,helpful
+gptchats_66062,helpful
+gptchats_66067,helpful
+gptchats_66090,helpful
+gptchats_66093,helpful
+gptchats_66102,helpful
+gptchats_66103,helpful
+gptchats_66104,helpful
+gptchats_66105,helpful
+gptchats_66109,helpful
+gptchats_66114,helpful
+gptchats_66115,helpful
+gptchats_66120,helpful
+gptchats_66121,helpful
+gptchats_66123,helpful
+gptchats_66125,helpful
+gptchats_66130,helpful
+gptchats_66132,helpful
+gptchats_66133,helpful
+gptchats_66134,helpful
+gptchats_66144,helpful
+gptchats_66145,helpful
+gptchats_66153,helpful
+gptchats_66155,helpful
+gptchats_66156,helpful
+gptchats_66162,not helpful
+gptchats_66164,helpful
+gptchats_66168,helpful
+gptchats_66173,helpful
+gptchats_66176,not helpful
+gptchats_66179,helpful
+gptchats_66189,helpful
+gptchats_66201,helpful
+gptchats_66202,helpful
+gptchats_66211,helpful
+gptchats_66214,helpful
+gptchats_66216,helpful
+gptchats_66217,helpful
+gptchats_66218,helpful
+gptchats_66219,helpful
+gptchats_66224,helpful
+gptchats_66228,helpful
+gptchats_66231,helpful
+gptchats_66237,helpful
+gptchats_66240,helpful
+gptchats_66244,helpful
+gptchats_66245,not helpful
+gptchats_66249,not helpful
+gptchats_66256,helpful
+gptchats_66262,helpful
+gptchats_66265,helpful
+gptchats_66266,helpful
+gptchats_66269,helpful
+gptchats_66272,helpful
+gptchats_66278,helpful
+gptchats_66284,helpful
+gptchats_66285,helpful
+gptchats_66288,helpful
+gptchats_66296,helpful
+gptchats_66298,helpful
+gptchats_66300,helpful
+gptchats_66301,helpful
+gptchats_66302,helpful
+gptchats_66303,helpful
+gptchats_66313,helpful
+gptchats_66316,helpful
+gptchats_66320,helpful
+gptchats_66325,helpful
+gptchats_66327,helpful
+gptchats_66328,helpful
+gptchats_66330,helpful
+gptchats_66340,helpful
+gptchats_66341,helpful
+gptchats_66345,helpful
+gptchats_66346,helpful
+gptchats_66351,helpful
+gptchats_66357,helpful
+gptchats_66358,helpful
+gptchats_66359,helpful
+gptchats_66364,helpful
+gptchats_66365,helpful
+gptchats_66366,helpful
+gptchats_66373,helpful
+gptchats_66382,helpful
+gptchats_66384,not helpful
+gptchats_66385,helpful
+gptchats_66387,helpful
+gptchats_66390,helpful
+gptchats_66392,helpful
+gptchats_66397,helpful
+gptchats_66398,helpful
+gptchats_66400,not helpful
+gptchats_66401,helpful
+gptchats_66403,helpful
+gptchats_66405,helpful
+gptchats_66408,helpful
+gptchats_66414,helpful
+gptchats_66416,helpful
+gptchats_66418,helpful
+gptchats_66420,helpful
+gptchats_66421,helpful
+gptchats_66425,helpful
+gptchats_66428,helpful
+gptchats_66430,helpful
+gptchats_66434,helpful
+gptchats_66443,helpful
+gptchats_66444,helpful
+gptchats_66447,helpful
+gptchats_66449,helpful
+gptchats_66451,helpful
+gptchats_66458,helpful
+gptchats_66463,helpful
+gptchats_66465,helpful
+gptchats_66468,helpful
+gptchats_66474,helpful
+gptchats_66478,not helpful
+gptchats_66480,helpful
+gptchats_66484,helpful
+gptchats_66494,helpful
+gptchats_66495,not helpful
+gptchats_66500,helpful
+gptchats_66501,helpful
+gptchats_66506,helpful
+gptchats_66511,helpful
+gptchats_66515,helpful
+gptchats_66516,helpful
+gptchats_66517,helpful
+gptchats_66522,helpful
+gptchats_66527,helpful
+gptchats_66529,helpful
+gptchats_66530,helpful
+gptchats_66533,helpful
+gptchats_66534,helpful
+gptchats_66537,helpful
+gptchats_66540,helpful
+gptchats_66542,helpful
+gptchats_66545,helpful
+gptchats_66546,helpful
+gptchats_66547,helpful
+gptchats_66549,helpful
+gptchats_66555,helpful
+gptchats_66556,helpful
+gptchats_66574,helpful
+gptchats_66575,helpful
+gptchats_66577,not helpful
+gptchats_66583,helpful
+gptchats_66585,helpful
+gptchats_66586,helpful
+gptchats_66588,helpful
+gptchats_66591,helpful
+gptchats_66595,helpful
+gptchats_66596,helpful
+gptchats_66601,helpful
+gptchats_66605,helpful
+gptchats_66607,helpful
+gptchats_66609,helpful
+gptchats_66613,helpful
+gptchats_66617,helpful
+gptchats_66619,helpful
+gptchats_66622,helpful
+gptchats_66627,helpful
+gptchats_66629,helpful
+gptchats_66632,helpful
+gptchats_66638,helpful
+gptchats_66643,helpful
+gptchats_66646,helpful
+gptchats_66648,helpful
+gptchats_66650,helpful
+gptchats_66655,helpful
+gptchats_66656,helpful
+gptchats_66661,helpful
+gptchats_66665,helpful
+gptchats_66670,helpful
+gptchats_66672,helpful
+gptchats_66674,helpful
+gptchats_66675,not helpful
+gptchats_66678,helpful
+gptchats_66679,helpful
+gptchats_66682,helpful
+gptchats_66684,helpful
+gptchats_66685,helpful
+gptchats_66687,helpful
+gptchats_66693,helpful
+gptchats_66696,helpful
+gptchats_66699,helpful
+gptchats_66700,helpful
+gptchats_66703,helpful
+gptchats_66705,helpful
+gptchats_66706,helpful
+gptchats_66708,not helpful
+gptchats_66709,helpful
+gptchats_66710,helpful
+gptchats_66711,helpful
+gptchats_66712,helpful
+gptchats_66714,helpful
+gptchats_66721,helpful
+gptchats_66722,helpful
+gptchats_66725,helpful
+gptchats_66728,helpful
+gptchats_66731,helpful
+gptchats_66734,not helpful
+gptchats_66736,helpful
+gptchats_66740,helpful
+gptchats_66742,helpful
+gptchats_66743,helpful
+gptchats_66747,helpful
+gptchats_66748,helpful
+gptchats_66749,helpful
+gptchats_66751,helpful
+gptchats_66752,helpful
+gptchats_66759,helpful
+gptchats_66764,helpful
+gptchats_66766,helpful
+gptchats_66768,helpful
+gptchats_66769,helpful
+gptchats_66773,helpful
+gptchats_66774,helpful
+gptchats_66781,helpful
+gptchats_66790,not helpful
+gptchats_66794,helpful
+gptchats_66800,helpful
+gptchats_66807,helpful
+gptchats_66811,helpful
+gptchats_66814,helpful
+gptchats_66816,helpful
+gptchats_66817,helpful
+gptchats_66818,helpful
+gptchats_66821,helpful
+gptchats_66826,helpful
+gptchats_66827,helpful
+gptchats_66831,not helpful
+gptchats_66836,helpful
+gptchats_66845,helpful
+gptchats_66846,helpful
+gptchats_66876,not helpful
+gptchats_66884,helpful
+gptchats_66885,not helpful
+gptchats_66894,not helpful
+gptchats_66898,helpful
+gptchats_66901,helpful
+gptchats_66906,helpful
+gptchats_66912,helpful
+gptchats_66914,helpful
+gptchats_66919,helpful
+gptchats_66920,helpful
+gptchats_66923,helpful
+gptchats_66926,helpful
+gptchats_66931,not helpful
+gptchats_66934,helpful
+gptchats_66936,helpful
+gptchats_66939,helpful
+gptchats_66942,helpful
+gptchats_66946,helpful
+gptchats_66948,helpful
+gptchats_66951,helpful
+gptchats_66952,helpful
+gptchats_66954,helpful
+gptchats_66959,not helpful
+gptchats_66962,helpful
+gptchats_66963,not helpful
+gptchats_66971,helpful
+gptchats_66988,helpful
+gptchats_66991,helpful
+gptchats_66994,helpful
+gptchats_66999,helpful
+gptchats_67002,helpful
+gptchats_67004,helpful
+gptchats_67010,helpful
+gptchats_67012,helpful
+gptchats_67028,helpful
+gptchats_67030,helpful
+gptchats_67031,helpful
+gptchats_67038,helpful
+gptchats_67057,helpful
+gptchats_67064,helpful
+gptchats_67073,helpful
+gptchats_67076,helpful
+gptchats_67080,helpful
+gptchats_67088,helpful
+gptchats_67109,helpful
+gptchats_67112,not helpful
+gptchats_67113,not helpful
+gptchats_67115,helpful
+gptchats_67116,helpful
+gptchats_67120,helpful
+gptchats_67122,helpful
+gptchats_67123,helpful
+gptchats_67139,helpful
+gptchats_67145,helpful
+gptchats_67148,not helpful
+gptchats_67151,helpful
+gptchats_67159,helpful
+gptchats_67162,helpful
+gptchats_67170,helpful
+gptchats_67174,helpful
+gptchats_67180,helpful
+gptchats_67188,helpful
+gptchats_67191,helpful
+gptchats_67196,helpful
+gptchats_67200,helpful
+gptchats_67203,helpful
+gptchats_67209,helpful
+gptchats_67210,helpful
+gptchats_67211,helpful
+gptchats_67212,helpful
+gptchats_67213,helpful
+gptchats_67214,helpful
+gptchats_67221,helpful
+gptchats_67224,helpful
+gptchats_67229,not helpful
+gptchats_67231,helpful
+gptchats_67232,helpful
+gptchats_67233,helpful
+gptchats_67234,helpful
+gptchats_67235,helpful
+gptchats_67236,helpful
+gptchats_67237,helpful
+gptchats_67238,helpful
+gptchats_67239,helpful
+gptchats_67241,helpful
+gptchats_67244,helpful
+gptchats_67251,helpful
+gptchats_67256,helpful
+gptchats_67264,not helpful
+gptchats_67270,helpful
+gptchats_67271,helpful
+gptchats_67279,helpful
+gptchats_67281,helpful
+gptchats_67282,helpful
+gptchats_67286,helpful
+gptchats_67290,helpful
+gptchats_67292,helpful
+gptchats_67293,helpful
+gptchats_67294,helpful
+gptchats_67307,helpful
+gptchats_67308,helpful
+gptchats_67309,helpful
+gptchats_67310,helpful
+gptchats_67312,helpful
+gptchats_67314,helpful
+gptchats_67336,helpful
+gptchats_67339,helpful
+gptchats_67340,helpful
+gptchats_67341,helpful
+gptchats_67343,helpful
+gptchats_67346,helpful
+gptchats_67373,helpful
+gptchats_67377,helpful
+gptchats_67381,helpful
+gptchats_67383,helpful
+gptchats_67384,helpful
+gptchats_67385,helpful
+gptchats_67390,helpful
+gptchats_67392,helpful
+gptchats_67394,not helpful
+gptchats_67398,helpful
+gptchats_67405,helpful
+gptchats_67408,helpful
+gptchats_67420,helpful
+gptchats_67423,not helpful
+gptchats_67432,helpful
+gptchats_67448,helpful
+gptchats_67449,helpful
+gptchats_67450,helpful
+gptchats_67451,helpful
+gptchats_67453,not helpful
+gptchats_67459,helpful
+gptchats_67464,helpful
+gptchats_67465,helpful
+gptchats_67466,helpful
+gptchats_67470,helpful
+gptchats_67473,helpful
+gptchats_67475,helpful
+gptchats_67477,helpful
+gptchats_67482,helpful
+gptchats_67489,helpful
+gptchats_67493,helpful
+gptchats_67494,helpful
+gptchats_67497,helpful
+gptchats_67498,helpful
+gptchats_67499,helpful
+gptchats_67502,not helpful
+gptchats_67503,helpful
+gptchats_67504,helpful
+gptchats_67506,helpful
+gptchats_67512,not helpful
+gptchats_67518,helpful
+gptchats_67520,helpful
+gptchats_67523,helpful
+gptchats_67526,helpful
+gptchats_67528,helpful
+gptchats_67529,helpful
+gptchats_67530,helpful
+gptchats_67531,helpful
+gptchats_67532,not helpful
+gptchats_67534,helpful
+gptchats_67537,helpful
+gptchats_67542,helpful
+gptchats_67545,helpful
+gptchats_67546,helpful
+gptchats_67547,helpful
+gptchats_67555,helpful
+gptchats_67558,helpful
+gptchats_67562,helpful
+gptchats_67563,helpful
+gptchats_67567,helpful
+gptchats_67568,helpful
+gptchats_67569,helpful
+gptchats_67575,helpful
+gptchats_67576,not helpful
+gptchats_67584,helpful
+gptchats_67587,helpful
+gptchats_67595,not helpful
+gptchats_67596,helpful
+gptchats_67598,helpful
+gptchats_67602,helpful
+gptchats_67604,helpful
+gptchats_67608,helpful
+gptchats_67611,helpful
+gptchats_67615,helpful
+gptchats_67616,helpful
+gptchats_67618,helpful
+gptchats_67619,helpful
+gptchats_67620,helpful
+gptchats_67622,helpful
+gptchats_67624,helpful
+gptchats_67641,helpful
+gptchats_67645,helpful
+gptchats_67659,helpful
+gptchats_67663,helpful
+gptchats_67664,helpful
+gptchats_67668,helpful
+gptchats_67670,helpful
+gptchats_67672,not helpful
+gptchats_67674,helpful
+gptchats_67680,helpful
+gptchats_67681,helpful
+gptchats_67684,helpful
+gptchats_67689,helpful
+gptchats_67691,helpful
+gptchats_67693,helpful
+gptchats_67694,helpful
+gptchats_67700,helpful
+gptchats_67702,not helpful
+gptchats_67704,helpful
+gptchats_67711,helpful
+gptchats_67712,helpful
+gptchats_67713,helpful
+gptchats_67717,helpful
+gptchats_67724,helpful
+gptchats_67732,not helpful
+gptchats_67733,helpful
+gptchats_67735,helpful
+gptchats_67739,helpful
+gptchats_67740,helpful
+gptchats_67743,helpful
+gptchats_67745,helpful
+gptchats_67748,not helpful
+gptchats_67750,helpful
+gptchats_67752,helpful
+gptchats_67755,helpful
+gptchats_67757,helpful
+gptchats_67758,helpful
+gptchats_67760,helpful
+gptchats_67762,helpful
+gptchats_67769,helpful
+gptchats_67770,helpful
+gptchats_67778,helpful
+gptchats_67781,helpful
+gptchats_67782,helpful
+gptchats_67783,helpful
+gptchats_67785,helpful
+gptchats_67786,helpful
+gptchats_67787,helpful
+gptchats_67789,helpful
+gptchats_67790,not helpful
+gptchats_67791,helpful
+gptchats_67794,helpful
+gptchats_67797,helpful
+gptchats_67799,helpful
+gptchats_67800,helpful
+gptchats_67801,helpful
+gptchats_67806,helpful
+gptchats_67808,helpful
+gptchats_67809,helpful
+gptchats_67810,helpful
+gptchats_67819,helpful
+gptchats_67820,helpful
+gptchats_67821,not helpful
+gptchats_67825,helpful
+gptchats_67826,helpful
+gptchats_67828,not helpful
+gptchats_67829,helpful
+gptchats_67832,helpful
+gptchats_67836,helpful
+gptchats_67838,helpful
+gptchats_67847,helpful
+gptchats_67848,helpful
+gptchats_67849,helpful
+gptchats_67850,helpful
+gptchats_67852,helpful
+gptchats_67853,helpful
+gptchats_67855,helpful
+gptchats_67857,helpful
+gptchats_67862,helpful
+gptchats_67863,not helpful
+gptchats_67864,helpful
+gptchats_67865,not helpful
+gptchats_67867,helpful
+gptchats_67882,helpful
+gptchats_67885,helpful
+gptchats_67886,helpful
+gptchats_67887,helpful
+gptchats_67889,helpful
+gptchats_67903,helpful
+gptchats_67904,helpful
+gptchats_67906,helpful
+gptchats_67914,helpful
+gptchats_67916,helpful
+gptchats_67920,helpful
+gptchats_67925,helpful
+gptchats_67927,helpful
+gptchats_67930,helpful
+gptchats_67933,helpful
+gptchats_67936,helpful
+gptchats_67940,helpful
+gptchats_67942,helpful
+gptchats_67944,helpful
+gptchats_67945,helpful
+gptchats_67947,helpful
+gptchats_67948,helpful
+gptchats_67951,helpful
+gptchats_67956,helpful
+gptchats_67957,helpful
+gptchats_67961,helpful
+gptchats_67971,helpful
+gptchats_67974,helpful
+gptchats_67980,helpful
+gptchats_67982,helpful
+gptchats_67983,helpful
+gptchats_67985,helpful
+gptchats_67986,helpful
+gptchats_67989,helpful
+gptchats_67990,helpful
+gptchats_67991,helpful
+gptchats_67996,helpful
+gptchats_67997,helpful
+gptchats_68002,helpful
+gptchats_68006,helpful
+gptchats_68007,helpful
+gptchats_68019,helpful
+gptchats_68020,helpful
+gptchats_68023,helpful
+gptchats_68024,helpful
+gptchats_68025,helpful
+gptchats_68028,helpful
+gptchats_68032,helpful
+gptchats_68038,helpful
+gptchats_68040,helpful
+gptchats_68041,helpful
+gptchats_68045,helpful
+gptchats_68047,helpful
+gptchats_68049,helpful
+gptchats_68051,helpful
+gptchats_68055,helpful
+gptchats_68056,helpful
+gptchats_68057,helpful
+gptchats_68058,helpful
+gptchats_68059,helpful
+gptchats_68060,helpful
+gptchats_68061,helpful
+gptchats_68062,helpful
+gptchats_68064,helpful
+gptchats_68066,helpful
+gptchats_68067,helpful
+gptchats_68068,helpful
+gptchats_68069,helpful
+gptchats_68076,helpful
+gptchats_68079,not helpful
+gptchats_68080,helpful
+gptchats_68082,helpful
+gptchats_68084,helpful
+gptchats_68085,helpful
+gptchats_68090,helpful
+gptchats_68094,helpful
+gptchats_68095,helpful
+gptchats_68096,helpful
+gptchats_68099,not helpful
+gptchats_68104,not helpful
+gptchats_68105,helpful
+gptchats_68108,helpful
+gptchats_68109,helpful
+gptchats_68110,helpful
+gptchats_68111,helpful
+gptchats_68113,helpful
+gptchats_68116,helpful
+gptchats_68121,not helpful
+gptchats_68122,helpful
+gptchats_68126,helpful
+gptchats_68130,helpful
+gptchats_68133,helpful
+gptchats_68136,helpful
+gptchats_68142,helpful
+gptchats_68143,helpful
+gptchats_68145,not helpful
+gptchats_68148,not helpful
+gptchats_68149,helpful
+gptchats_68160,helpful
+gptchats_68166,helpful
+gptchats_68169,helpful
+gptchats_68175,helpful
+gptchats_68176,helpful
+gptchats_68177,helpful
+gptchats_68179,helpful
+gptchats_68181,helpful
+gptchats_68182,helpful
+gptchats_68186,not helpful
+gptchats_68187,helpful
+gptchats_68188,helpful
+gptchats_68189,helpful
+gptchats_68190,helpful
+gptchats_68191,helpful
+gptchats_68193,not helpful
+gptchats_68195,helpful
+gptchats_68198,helpful
+gptchats_68202,helpful
+gptchats_68209,helpful
+gptchats_68212,helpful
+gptchats_68213,helpful
+gptchats_68218,helpful
+gptchats_68222,helpful
+gptchats_68227,helpful
+gptchats_68236,helpful
+gptchats_68237,helpful
+gptchats_68240,helpful
+gptchats_68241,helpful
+gptchats_68243,not helpful
+gptchats_68244,helpful
+gptchats_68246,helpful
+gptchats_68247,helpful
+gptchats_68248,helpful
+gptchats_68249,helpful
+gptchats_68252,helpful
+gptchats_68253,helpful
+gptchats_68254,helpful
+gptchats_68259,helpful
+gptchats_68260,helpful
+gptchats_68264,helpful
+gptchats_68266,helpful
+gptchats_68267,helpful
+gptchats_68273,helpful
+gptchats_68276,helpful
+gptchats_68288,helpful
+gptchats_68292,helpful
+gptchats_68294,helpful
+gptchats_68298,helpful
+gptchats_68299,helpful
+gptchats_68300,helpful
+gptchats_68308,helpful
+gptchats_68309,helpful
+gptchats_68317,helpful
+gptchats_68321,helpful
+gptchats_68332,helpful
+gptchats_68333,helpful
+gptchats_68335,helpful
+gptchats_68337,helpful
+gptchats_68338,helpful
+gptchats_68341,helpful
+gptchats_68342,helpful
+gptchats_68343,helpful
+gptchats_68346,helpful
+gptchats_68352,helpful
+gptchats_68355,helpful
+gptchats_68358,helpful
+gptchats_68363,helpful
+gptchats_68365,helpful
+gptchats_68368,helpful
+gptchats_68373,helpful
+gptchats_68389,helpful
+gptchats_68390,helpful
+gptchats_68391,helpful
+gptchats_68394,helpful
+gptchats_68401,helpful
+gptchats_68403,helpful
+gptchats_68405,helpful
+gptchats_68406,not helpful
+gptchats_68407,helpful
+gptchats_68408,helpful
+gptchats_68409,helpful
+gptchats_68412,helpful
+gptchats_68414,helpful
+gptchats_68416,helpful
+gptchats_68417,helpful
+gptchats_68419,helpful
+gptchats_68420,helpful
+gptchats_68429,helpful
+gptchats_68432,helpful
+gptchats_68435,helpful
+gptchats_68438,not helpful
+gptchats_68448,helpful
+gptchats_68451,helpful
+gptchats_68457,helpful
+gptchats_68458,not helpful
+gptchats_68459,helpful
+gptchats_68463,helpful
+gptchats_68467,helpful
+gptchats_68468,helpful
+gptchats_68472,not helpful
+gptchats_68473,helpful
+gptchats_68474,helpful
+gptchats_68480,not helpful
+gptchats_68483,not helpful
+gptchats_68485,helpful
+gptchats_68486,helpful
+gptchats_68488,helpful
+gptchats_68491,not helpful
+gptchats_68496,not helpful
+gptchats_68500,not helpful
+gptchats_68504,helpful
+gptchats_68512,not helpful
+gptchats_68514,helpful
+gptchats_68515,helpful
+gptchats_68521,helpful
+gptchats_68523,helpful
+gptchats_68525,helpful
+gptchats_68537,helpful
+gptchats_68543,helpful
+gptchats_68546,helpful
+gptchats_68550,helpful
+gptchats_68552,not helpful
+gptchats_68553,helpful
+gptchats_68558,helpful
+gptchats_68562,helpful
+gptchats_68564,helpful
+gptchats_68565,helpful
+gptchats_68567,helpful
+gptchats_68568,helpful
+gptchats_68570,helpful
+gptchats_68578,helpful
+gptchats_68580,helpful
+gptchats_68581,helpful
+gptchats_68583,helpful
+gptchats_68584,helpful
+gptchats_68586,helpful
+gptchats_68589,not helpful
+gptchats_68591,helpful
+gptchats_68592,helpful
+gptchats_68593,helpful
+gptchats_68594,helpful
+gptchats_68596,helpful
+gptchats_68600,helpful
+gptchats_68604,helpful
+gptchats_68605,helpful
+gptchats_68608,helpful
+gptchats_68609,helpful
+gptchats_68612,helpful
+gptchats_68613,helpful
+gptchats_68615,helpful
+gptchats_68618,helpful
+gptchats_68620,helpful
+gptchats_68621,not helpful
+gptchats_68625,helpful
+gptchats_68628,helpful
+gptchats_68632,not helpful
+gptchats_68633,helpful
+gptchats_68642,helpful
+gptchats_68644,not helpful
+gptchats_68649,helpful
+gptchats_68651,helpful
+gptchats_68654,helpful
+gptchats_68655,helpful
+gptchats_68656,helpful
+gptchats_68657,helpful
+gptchats_68660,helpful
+gptchats_68666,helpful
+gptchats_68668,helpful
+gptchats_68675,helpful
+gptchats_68683,helpful
+gptchats_68685,helpful
+gptchats_68686,helpful
+gptchats_68688,helpful
+gptchats_68691,helpful
+gptchats_68693,helpful
+gptchats_68694,helpful
+gptchats_68697,helpful
+gptchats_68700,helpful
+gptchats_68702,helpful
+gptchats_68703,helpful
+gptchats_68704,helpful
+gptchats_68705,helpful
+gptchats_68707,helpful
+gptchats_68717,helpful
+gptchats_68722,helpful
+gptchats_68723,helpful
+gptchats_68724,helpful
+gptchats_68727,helpful
+gptchats_68728,not helpful
+gptchats_68729,helpful
+gptchats_68731,helpful
+gptchats_68732,helpful
+gptchats_68741,helpful
+gptchats_68743,helpful
+gptchats_68744,helpful
+gptchats_68745,helpful
+gptchats_68746,helpful
+gptchats_68748,helpful
+gptchats_68755,helpful
+gptchats_68758,not helpful
+gptchats_68762,helpful
+gptchats_68765,helpful
+gptchats_68771,not helpful
+gptchats_68774,helpful
+gptchats_68779,helpful
+gptchats_68783,helpful
+gptchats_68796,not helpful
+gptchats_68798,not helpful
+gptchats_68799,not helpful
+gptchats_68803,helpful
+gptchats_68806,helpful
+gptchats_68819,helpful
+gptchats_68822,helpful
+gptchats_68826,helpful
+gptchats_68827,helpful
+gptchats_68832,not helpful
+gptchats_68834,helpful
+gptchats_68836,helpful
+gptchats_68838,helpful
+gptchats_68843,helpful
+gptchats_68844,helpful
+gptchats_68846,not helpful
+gptchats_68849,helpful
+gptchats_68855,helpful
+gptchats_68858,helpful
+gptchats_68859,helpful
+gptchats_68865,helpful
+gptchats_68867,helpful
+gptchats_68868,helpful
+gptchats_68872,helpful
+gptchats_68878,helpful
+gptchats_68880,helpful
+gptchats_68888,helpful
+gptchats_68889,helpful
+gptchats_68890,helpful
+gptchats_68895,helpful
+gptchats_68897,helpful
+gptchats_68905,not helpful
+gptchats_68906,helpful
+gptchats_68910,helpful
+gptchats_68911,helpful
+gptchats_68924,helpful
+gptchats_68929,helpful
+gptchats_68930,helpful
+gptchats_68934,helpful
+gptchats_68938,helpful
+gptchats_68941,helpful
+gptchats_68942,helpful
+gptchats_68944,not helpful
+gptchats_68945,helpful
+gptchats_68947,helpful
+gptchats_68948,helpful
+gptchats_68949,helpful
+gptchats_68957,helpful
+gptchats_68960,helpful
+gptchats_68962,not helpful
+gptchats_68967,helpful
+gptchats_68968,helpful
+gptchats_68970,not helpful
+gptchats_68974,helpful
+gptchats_68975,helpful
+gptchats_68976,helpful
+gptchats_68978,helpful
+gptchats_68982,helpful
+gptchats_68987,helpful
+gptchats_68988,helpful
+gptchats_68991,helpful
+gptchats_68994,helpful
+gptchats_68995,helpful
+gptchats_68996,helpful
+gptchats_68999,helpful
+gptchats_69001,helpful
+gptchats_69007,helpful
+gptchats_69013,helpful
+gptchats_69015,helpful
+gptchats_69016,helpful
+gptchats_69018,helpful
+gptchats_69022,helpful
+gptchats_69037,helpful
+gptchats_69055,helpful
+gptchats_69057,helpful
+gptchats_69066,helpful
+gptchats_69067,not helpful
+gptchats_69078,helpful
+gptchats_69080,helpful
+gptchats_69081,helpful
+gptchats_69083,helpful
+gptchats_69084,helpful
+gptchats_69085,helpful
+gptchats_69086,helpful
+gptchats_69088,helpful
+gptchats_69090,helpful
+gptchats_69094,helpful
+gptchats_69095,helpful
+gptchats_69100,helpful
+gptchats_69109,helpful
+gptchats_69113,helpful
+gptchats_69116,helpful
+gptchats_69124,helpful
+gptchats_69130,helpful
+gptchats_69135,helpful
+gptchats_69142,helpful
+gptchats_69143,helpful
+gptchats_69144,helpful
+gptchats_69160,helpful
+gptchats_69163,helpful
+gptchats_69173,helpful
+gptchats_69174,not helpful
+gptchats_69181,helpful
+gptchats_69188,helpful
+gptchats_69191,helpful
+gptchats_69192,helpful
+gptchats_69194,not helpful
+gptchats_69197,helpful
+gptchats_69205,helpful
+gptchats_69206,helpful
+gptchats_69207,helpful
+gptchats_69209,helpful
+gptchats_69213,helpful
+gptchats_69222,helpful
+gptchats_69224,helpful
+gptchats_69229,helpful
+gptchats_69230,helpful
+gptchats_69235,helpful
+gptchats_69240,helpful
+gptchats_69244,helpful
+gptchats_69249,helpful
+gptchats_69252,helpful
+gptchats_69254,helpful
+gptchats_69261,helpful
+gptchats_69263,helpful
+gptchats_69265,helpful
+gptchats_69271,helpful
+gptchats_69273,helpful
+gptchats_69274,helpful
+gptchats_69278,helpful
+gptchats_69279,helpful
+gptchats_69280,helpful
+gptchats_69283,helpful
+gptchats_69285,helpful
+gptchats_69287,helpful
+gptchats_69288,helpful
+gptchats_69289,helpful
+gptchats_69290,helpful
+gptchats_69295,helpful
+gptchats_69297,helpful
+gptchats_69305,helpful
+gptchats_69307,helpful
+gptchats_69309,helpful
+gptchats_69311,helpful
+gptchats_69313,helpful
+gptchats_69318,helpful
+gptchats_69324,helpful
+gptchats_69327,helpful
+gptchats_69331,helpful
+gptchats_69335,helpful
+gptchats_69337,helpful
+gptchats_69340,not helpful
+gptchats_69341,not helpful
+gptchats_69347,helpful
+gptchats_69349,helpful
+gptchats_69357,helpful
+gptchats_69361,helpful
+gptchats_69365,helpful
+gptchats_69367,helpful
+gptchats_69370,helpful
+gptchats_69375,helpful
+gptchats_69377,helpful
+gptchats_69382,helpful
+gptchats_69385,helpful
+gptchats_69389,helpful
+gptchats_69391,helpful
+gptchats_69394,helpful
+gptchats_69398,helpful
+gptchats_69399,helpful
+gptchats_69400,helpful
+gptchats_69402,helpful
+gptchats_69408,helpful
+gptchats_69409,helpful
+gptchats_69411,helpful
+gptchats_69414,helpful
+gptchats_69416,helpful
+gptchats_69417,helpful
+gptchats_69418,helpful
+gptchats_69431,helpful
+gptchats_69434,helpful
+gptchats_69440,helpful
+gptchats_69444,helpful
+gptchats_69448,helpful
+gptchats_69450,helpful
+gptchats_69451,helpful
+gptchats_69453,helpful
+gptchats_69456,helpful
+gptchats_69459,helpful
+gptchats_69461,helpful
+gptchats_69462,not helpful
+gptchats_69473,helpful
+gptchats_69478,helpful
+gptchats_69481,helpful
+gptchats_69482,helpful
+gptchats_69493,helpful
+gptchats_69498,helpful
+gptchats_69501,helpful
+gptchats_69502,helpful
+gptchats_69506,helpful
+gptchats_69508,helpful
+gptchats_69509,helpful
+gptchats_69510,helpful
+gptchats_69518,helpful
+gptchats_69524,helpful
+gptchats_69527,helpful
+gptchats_69529,helpful
+gptchats_69530,helpful
+gptchats_69534,helpful
+gptchats_69535,helpful
+gptchats_69538,helpful
+gptchats_69542,helpful
+gptchats_69543,helpful
+gptchats_69544,helpful
+gptchats_69546,helpful
+gptchats_69551,helpful
+gptchats_69554,helpful
+gptchats_69559,helpful
+gptchats_69560,helpful
+gptchats_69562,helpful
+gptchats_69563,helpful
+gptchats_69564,helpful
+gptchats_69568,helpful
+gptchats_69572,helpful
+gptchats_69573,helpful
+gptchats_69584,helpful
+gptchats_69591,helpful
+gptchats_69596,helpful
+gptchats_69602,helpful
+gptchats_69604,helpful
+gptchats_69608,helpful
+gptchats_69611,helpful
+gptchats_69612,helpful
+gptchats_69615,helpful
+gptchats_69619,helpful
+gptchats_69620,helpful
+gptchats_69621,helpful
+gptchats_69622,helpful
+gptchats_69624,helpful
+gptchats_69625,helpful
+gptchats_69628,helpful
+gptchats_69629,helpful
+gptchats_69636,helpful
+gptchats_69637,helpful
+gptchats_69640,helpful
+gptchats_69641,helpful
+gptchats_69643,helpful
+gptchats_69646,helpful
+gptchats_69649,helpful
+gptchats_69651,helpful
+gptchats_69652,helpful
+gptchats_69662,helpful
+gptchats_69664,helpful
+gptchats_69667,helpful
+gptchats_69668,helpful
+gptchats_69672,helpful
+gptchats_69676,helpful
+gptchats_69686,helpful
+gptchats_69688,helpful
+gptchats_69690,helpful
+gptchats_69696,not helpful
+gptchats_69697,helpful
+gptchats_69699,helpful
+gptchats_69700,helpful
+gptchats_69703,helpful
+gptchats_69710,helpful
+gptchats_69711,helpful
+gptchats_69712,helpful
+gptchats_69713,helpful
+gptchats_69717,helpful
+gptchats_69718,helpful
+gptchats_69719,helpful
+gptchats_69721,helpful
+gptchats_69727,helpful
+gptchats_69729,not helpful
+gptchats_69730,helpful
+gptchats_69740,helpful
+gptchats_69743,helpful
+gptchats_69744,helpful
+gptchats_69747,helpful
+gptchats_69753,helpful
+gptchats_69754,helpful
+gptchats_69759,helpful
+gptchats_69763,helpful
+gptchats_69765,helpful
+gptchats_69778,helpful
+gptchats_69779,helpful
+gptchats_69788,not helpful
+gptchats_69791,helpful
+gptchats_69798,helpful
+gptchats_69802,helpful
+gptchats_69805,helpful
+gptchats_69806,helpful
+gptchats_69807,helpful
+gptchats_69811,helpful
+gptchats_69812,helpful
+gptchats_69815,helpful
+gptchats_69816,helpful
+gptchats_69819,not helpful
+gptchats_69820,helpful
+gptchats_69823,helpful
+gptchats_69833,helpful
+gptchats_69834,helpful
+gptchats_69836,helpful
+gptchats_69842,helpful
+gptchats_69843,helpful
+gptchats_69844,helpful
+gptchats_69861,helpful
+gptchats_69862,helpful
+gptchats_69869,helpful
+gptchats_69870,helpful
+gptchats_69874,helpful
+gptchats_69881,not helpful
+gptchats_69882,helpful
+gptchats_69888,helpful
+gptchats_69889,helpful
+gptchats_69890,helpful
+gptchats_69891,helpful
+gptchats_69892,helpful
+gptchats_69900,helpful
+gptchats_69901,not helpful
+gptchats_69903,not helpful
+gptchats_69904,helpful
+gptchats_69905,helpful
+gptchats_69906,not helpful
+gptchats_69908,helpful
+gptchats_69909,helpful
+gptchats_69914,helpful
+gptchats_69918,helpful
+gptchats_69921,not helpful
+gptchats_69922,helpful
+gptchats_69924,helpful
+gptchats_69925,helpful
+gptchats_69933,helpful
+gptchats_69934,helpful
+gptchats_69935,helpful
+gptchats_69936,helpful
+gptchats_69937,helpful
+gptchats_69939,helpful
+gptchats_69945,helpful
+gptchats_69947,helpful
+gptchats_69950,helpful
+gptchats_69955,helpful
+gptchats_69956,helpful
+gptchats_69962,helpful
+gptchats_69966,helpful
+gptchats_69970,helpful
+gptchats_69971,helpful
+gptchats_69973,helpful
+gptchats_69976,not helpful
+gptchats_69979,helpful
+gptchats_69985,not helpful
+gptchats_69986,not helpful
+gptchats_69989,helpful
+gptchats_69996,helpful
+gptchats_69997,helpful
+gptchats_69999,not helpful
+gptchats_70002,not helpful
+gptchats_70003,helpful
+gptchats_70004,not helpful
+gptchats_70010,helpful
+gptchats_70011,helpful
+gptchats_70014,helpful
+gptchats_70023,helpful
+gptchats_70024,not helpful
+gptchats_70027,helpful
+gptchats_70028,helpful
+gptchats_70030,helpful
+gptchats_70032,helpful
+gptchats_70035,helpful
+gptchats_70036,helpful
+gptchats_70040,helpful
+gptchats_70044,helpful
+gptchats_70049,helpful
+gptchats_70055,helpful
+gptchats_70056,helpful
+gptchats_70059,helpful
+gptchats_70060,helpful
+gptchats_70061,helpful
+gptchats_70062,helpful
+gptchats_70063,helpful
+gptchats_70069,helpful
+gptchats_70070,helpful
+gptchats_70072,not helpful
+gptchats_70076,helpful
+gptchats_70078,helpful
+gptchats_70086,helpful
+gptchats_70091,helpful
+gptchats_70092,helpful
+gptchats_70097,helpful
+gptchats_70098,helpful
+gptchats_70100,not helpful
+gptchats_70105,not helpful
+gptchats_70106,not helpful
+gptchats_70111,helpful
+gptchats_70113,helpful
+gptchats_70120,helpful
+gptchats_70124,helpful
+gptchats_70125,helpful
+gptchats_70127,helpful
+gptchats_70128,helpful
+gptchats_70129,helpful
+gptchats_70134,helpful
+gptchats_70136,helpful
+gptchats_70137,helpful
+gptchats_70139,helpful
+gptchats_70140,helpful
+gptchats_70144,helpful
+gptchats_70148,helpful
+gptchats_70151,helpful
+gptchats_70157,helpful
+gptchats_70163,helpful
+gptchats_70172,helpful
+gptchats_70175,helpful
+gptchats_70177,helpful
+gptchats_70182,helpful
+gptchats_70195,helpful
+gptchats_70196,helpful
+gptchats_70200,helpful
+gptchats_70201,not helpful
+gptchats_70204,helpful
+gptchats_70209,helpful
+gptchats_70210,helpful
+gptchats_70216,helpful
+gptchats_70217,helpful
+gptchats_70218,helpful
+gptchats_70219,helpful
+gptchats_70223,helpful
+gptchats_70225,helpful
+gptchats_70226,helpful
+gptchats_70228,helpful
+gptchats_70229,helpful
+gptchats_70230,helpful
+gptchats_70235,helpful
+gptchats_70237,helpful
+gptchats_70238,helpful
+gptchats_70241,helpful
+gptchats_70242,helpful
+gptchats_70245,helpful
+gptchats_70251,helpful
+gptchats_70256,helpful
+gptchats_70260,helpful
+gptchats_70268,helpful
+gptchats_70272,not helpful
+gptchats_70274,not helpful
+gptchats_70276,helpful
+gptchats_70278,helpful
+gptchats_70280,helpful
+gptchats_70282,helpful
+gptchats_70284,helpful
+gptchats_70286,not helpful
+gptchats_70287,helpful
+gptchats_70288,helpful
+gptchats_70299,helpful
+gptchats_70301,helpful
+gptchats_70307,helpful
+gptchats_70312,helpful
+gptchats_70314,helpful
+gptchats_70321,helpful
+gptchats_70324,helpful
+gptchats_70329,not helpful
+gptchats_70336,helpful
+gptchats_70348,helpful
+gptchats_70357,helpful
+gptchats_70360,helpful
+gptchats_70364,helpful
+gptchats_70368,helpful
+gptchats_70376,not helpful
+gptchats_70392,helpful
+gptchats_70396,helpful
+gptchats_70397,helpful
+gptchats_70405,helpful
+gptchats_70414,helpful
+gptchats_70419,helpful
+gptchats_70421,helpful
+gptchats_70426,helpful
+gptchats_70428,helpful
+gptchats_70431,helpful
+gptchats_70432,helpful
+gptchats_70433,helpful
+gptchats_70435,helpful
+gptchats_70436,helpful
+gptchats_70439,helpful
+gptchats_70441,not helpful
+gptchats_70442,helpful
+gptchats_70443,not helpful
+gptchats_70446,helpful
+gptchats_70450,helpful
+gptchats_70452,helpful
+gptchats_70456,helpful
+gptchats_70464,helpful
+gptchats_70471,helpful
+gptchats_70475,helpful
+gptchats_70476,helpful
+gptchats_70479,helpful
+gptchats_70481,helpful
+gptchats_70485,helpful
+gptchats_70487,helpful
+gptchats_70490,helpful
+gptchats_70498,helpful
+gptchats_70505,not helpful
+gptchats_70508,helpful
+gptchats_70510,helpful
+gptchats_70511,helpful
+gptchats_70512,helpful
+gptchats_70513,helpful
+gptchats_70517,helpful
+gptchats_70518,helpful
+gptchats_70520,helpful
+gptchats_70537,helpful
+gptchats_70541,helpful
+gptchats_70542,helpful
+gptchats_70544,helpful
+gptchats_70552,helpful
+gptchats_70554,helpful
+gptchats_70561,helpful
+gptchats_70563,helpful
+gptchats_70575,helpful
+gptchats_70576,helpful
+gptchats_70578,helpful
+gptchats_70580,not helpful
+gptchats_70589,helpful
+gptchats_70593,helpful
+gptchats_70599,helpful
+gptchats_70601,helpful
+gptchats_70609,helpful
+gptchats_70610,helpful
+gptchats_70612,helpful
+gptchats_70614,helpful
+gptchats_70621,helpful
+gptchats_70628,helpful
+gptchats_70634,not helpful
+gptchats_70636,helpful
+gptchats_70637,helpful
+gptchats_70646,helpful
+gptchats_70651,helpful
+gptchats_70652,helpful
+gptchats_70655,helpful
+gptchats_70661,helpful
+gptchats_70666,helpful
+gptchats_70667,helpful
+gptchats_70668,helpful
+gptchats_70669,helpful
+gptchats_70670,helpful
+gptchats_70672,helpful
+gptchats_70677,helpful
+gptchats_70679,helpful
+gptchats_70685,not helpful
+gptchats_70686,helpful
+gptchats_70688,helpful
+gptchats_70693,helpful
+gptchats_70696,helpful
+gptchats_70699,helpful
+gptchats_70704,helpful
+gptchats_70709,not helpful
+gptchats_70717,helpful
+gptchats_70718,helpful
+gptchats_70721,helpful
+gptchats_70723,helpful
+gptchats_70727,helpful
+gptchats_70728,helpful
+gptchats_70735,helpful
+gptchats_70739,helpful
+gptchats_70743,helpful
+gptchats_70746,helpful
+gptchats_70750,helpful
+gptchats_70752,helpful
+gptchats_70755,helpful
+gptchats_70758,helpful
+gptchats_70759,helpful
+gptchats_70767,helpful
+gptchats_70768,helpful
+gptchats_70774,helpful
+gptchats_70786,not helpful
+gptchats_70787,not helpful
+gptchats_70795,helpful
+gptchats_70797,helpful
+gptchats_70799,helpful
+gptchats_70802,helpful
+gptchats_70803,helpful
+gptchats_70804,helpful
+gptchats_70805,helpful
+gptchats_70806,helpful
+gptchats_70810,helpful
+gptchats_70815,helpful
+gptchats_70819,helpful
+gptchats_70827,helpful
+gptchats_70835,helpful
+gptchats_70845,helpful
+gptchats_70849,helpful
+gptchats_70852,helpful
+gptchats_70857,helpful
+gptchats_70858,helpful
+gptchats_70870,helpful
+gptchats_70872,not helpful
+gptchats_70874,helpful
+gptchats_70876,helpful
+gptchats_70878,helpful
+gptchats_70887,not helpful
+gptchats_70888,helpful
+gptchats_70892,helpful
+gptchats_70894,not helpful
+gptchats_70902,helpful
+gptchats_70905,helpful
+gptchats_70911,helpful
+gptchats_70913,helpful
+gptchats_70914,not helpful
+gptchats_70915,helpful
+gptchats_70924,helpful
+gptchats_70932,helpful
+gptchats_70933,helpful
+gptchats_70939,helpful
+gptchats_70945,helpful
+gptchats_70947,not helpful
+gptchats_70954,helpful
+gptchats_70959,helpful
+gptchats_70961,helpful
+gptchats_70971,helpful
+gptchats_70972,helpful
+gptchats_70974,helpful
+gptchats_70975,helpful
+gptchats_70978,helpful
+gptchats_70982,helpful
+gptchats_70984,not helpful
+gptchats_70994,helpful
+gptchats_71000,not helpful
+gptchats_71001,not helpful
+gptchats_71010,helpful
+gptchats_71012,helpful
+gptchats_71013,helpful
+gptchats_71014,helpful
+gptchats_71015,helpful
+gptchats_71018,helpful
+gptchats_71025,helpful
+gptchats_71027,helpful
+gptchats_71029,not helpful
+gptchats_71032,helpful
+gptchats_71033,helpful
+gptchats_71036,helpful
+gptchats_71039,helpful
+gptchats_71043,helpful
+gptchats_71057,helpful
+gptchats_71058,helpful
+gptchats_71059,helpful
+gptchats_71060,helpful
+gptchats_71061,helpful
+gptchats_71065,helpful
+gptchats_71067,helpful
+gptchats_71072,helpful
+gptchats_71073,helpful
+gptchats_71079,not helpful
+gptchats_71083,helpful
+gptchats_71084,helpful
+gptchats_71091,helpful
+gptchats_71092,helpful
+gptchats_71094,helpful
+gptchats_71096,helpful
+gptchats_71097,helpful
+gptchats_71102,helpful
+gptchats_71104,helpful
+gptchats_71105,helpful
+gptchats_71108,helpful
+gptchats_71109,helpful
+gptchats_71111,helpful
+gptchats_71114,helpful
+gptchats_71115,helpful
+gptchats_71117,helpful
+gptchats_71124,helpful
+gptchats_71129,helpful
+gptchats_71131,helpful
+gptchats_71136,helpful
+gptchats_71137,helpful
+gptchats_71140,helpful
+gptchats_71141,helpful
+gptchats_71144,helpful
+gptchats_71147,helpful
+gptchats_71153,not helpful
+gptchats_71157,helpful
+gptchats_71170,not helpful
+gptchats_71171,helpful
+gptchats_71173,helpful
+gptchats_71174,helpful
+gptchats_71175,helpful
+gptchats_71178,helpful
+gptchats_71179,helpful
+gptchats_71185,helpful
+gptchats_71188,helpful
+gptchats_71192,helpful
+gptchats_71193,helpful
+gptchats_71194,helpful
+gptchats_71199,helpful
+gptchats_71205,helpful
+gptchats_71216,helpful
+gptchats_71221,helpful
+gptchats_71222,helpful
+gptchats_71223,helpful
+gptchats_71224,helpful
+gptchats_71233,helpful
+gptchats_71234,helpful
+gptchats_71237,helpful
+gptchats_71238,helpful
+gptchats_71244,helpful
+gptchats_71245,helpful
+gptchats_71252,helpful
+gptchats_71255,helpful
+gptchats_71256,helpful
+gptchats_71261,helpful
+gptchats_71265,helpful
+gptchats_71274,helpful
+gptchats_71275,helpful
+gptchats_71283,helpful
+gptchats_71284,not helpful
+gptchats_71285,helpful
+gptchats_71292,helpful
+gptchats_71293,helpful
+gptchats_71306,helpful
+gptchats_71307,helpful
+gptchats_71310,helpful
+gptchats_71314,not helpful
+gptchats_71319,helpful
+gptchats_71323,helpful
+gptchats_71324,helpful
+gptchats_71330,helpful
+gptchats_71333,helpful
+gptchats_71335,helpful
+gptchats_71337,helpful
+gptchats_71338,helpful
+gptchats_71342,helpful
+gptchats_71347,helpful
+gptchats_71351,helpful
+gptchats_71352,helpful
+gptchats_71357,helpful
+gptchats_71364,helpful
+gptchats_71365,not helpful
+gptchats_71367,helpful
+gptchats_71369,helpful
+gptchats_71371,helpful
+gptchats_71372,helpful
+gptchats_71374,helpful
+gptchats_71376,helpful
+gptchats_71378,helpful
+gptchats_71380,helpful
+gptchats_71385,helpful
+gptchats_71387,helpful
+gptchats_71390,helpful
+gptchats_71391,helpful
+gptchats_71392,helpful
+gptchats_71393,helpful
+gptchats_71394,helpful
+gptchats_71397,helpful
+gptchats_71402,helpful
+gptchats_71403,not helpful
+gptchats_71404,helpful
+gptchats_71405,helpful
+gptchats_71406,helpful
+gptchats_71410,helpful
+gptchats_71411,helpful
+gptchats_71416,helpful
+gptchats_71419,helpful
+gptchats_71424,helpful
+gptchats_71431,not helpful
+gptchats_71442,helpful
+gptchats_71446,helpful
+gptchats_71450,helpful
+gptchats_71451,helpful
+gptchats_71453,helpful
+gptchats_71466,helpful
+gptchats_71467,helpful
+gptchats_71470,helpful
+gptchats_71471,helpful
+gptchats_71473,helpful
+gptchats_71476,helpful
+gptchats_71481,helpful
+gptchats_71486,helpful
+gptchats_71491,helpful
+gptchats_71495,helpful
+gptchats_71497,helpful
+gptchats_71499,helpful
+gptchats_71501,not helpful
+gptchats_71503,helpful
+gptchats_71507,helpful
+gptchats_71508,helpful
+gptchats_71509,helpful
+gptchats_71518,helpful
+gptchats_71533,helpful
+gptchats_71537,helpful
+gptchats_71539,helpful
+gptchats_71541,helpful
+gptchats_71544,helpful
+gptchats_71545,helpful
+gptchats_71548,helpful
+gptchats_71552,helpful
+gptchats_71553,helpful
+gptchats_71557,helpful
+gptchats_71558,helpful
+gptchats_71562,not helpful
+gptchats_71566,helpful
+gptchats_71569,helpful
+gptchats_71574,helpful
+gptchats_71581,not helpful
+gptchats_71587,helpful
+gptchats_71588,helpful
+gptchats_71589,helpful
+gptchats_71594,helpful
+gptchats_71602,helpful
+gptchats_71603,helpful
+gptchats_71605,helpful
+gptchats_71612,helpful
+gptchats_71617,helpful
+gptchats_71619,helpful
+gptchats_71622,helpful
+gptchats_71623,helpful
+gptchats_71625,helpful
+gptchats_71626,not helpful
+gptchats_71630,helpful
+gptchats_71644,helpful
+gptchats_71645,helpful
+gptchats_71648,helpful
+gptchats_71649,helpful
+gptchats_71651,helpful
+gptchats_71653,helpful
+gptchats_71654,helpful
+gptchats_71657,helpful
+gptchats_71662,helpful
+gptchats_71665,helpful
+gptchats_71668,helpful
+gptchats_71673,helpful
+gptchats_71674,helpful
+gptchats_71680,helpful
+gptchats_71683,helpful
+gptchats_71685,helpful
+gptchats_71688,helpful
+gptchats_71691,helpful
+gptchats_71693,helpful
+gptchats_71697,not helpful
+gptchats_71713,helpful
+gptchats_71717,helpful
+gptchats_71718,helpful
+gptchats_71727,helpful
+gptchats_71730,helpful
+gptchats_71731,helpful
+gptchats_71734,helpful
+gptchats_71736,helpful
+gptchats_71744,helpful
+gptchats_71746,helpful
+gptchats_71754,helpful
+gptchats_71755,helpful
+gptchats_71757,helpful
+gptchats_71761,helpful
+gptchats_71762,not helpful
+gptchats_71768,helpful
+gptchats_71771,helpful
+gptchats_71774,helpful
+gptchats_71775,helpful
+gptchats_71776,helpful
+gptchats_71777,helpful
+gptchats_71780,helpful
+gptchats_71781,helpful
+gptchats_71783,helpful
+gptchats_71784,helpful
+gptchats_71790,not helpful
+gptchats_71792,helpful
+gptchats_71793,helpful
+gptchats_71794,helpful
+gptchats_71798,helpful
+gptchats_71800,helpful
+gptchats_71801,helpful
+gptchats_71802,helpful
+gptchats_71803,helpful
+gptchats_71806,not helpful
+gptchats_71813,helpful
+gptchats_71815,helpful
+gptchats_71817,helpful
+gptchats_71820,helpful
+gptchats_71825,helpful
+gptchats_71826,helpful
+gptchats_71828,helpful
+gptchats_71843,helpful
+gptchats_71845,helpful
+gptchats_71848,helpful
+gptchats_71852,helpful
+gptchats_71853,helpful
+gptchats_71856,helpful
+gptchats_71862,helpful
+gptchats_71870,helpful
+gptchats_71875,helpful
+gptchats_71877,helpful
+gptchats_71879,helpful
+gptchats_71884,helpful
+gptchats_71885,helpful
+gptchats_71886,helpful
+gptchats_71887,helpful
+gptchats_71888,helpful
+gptchats_71890,helpful
+gptchats_71894,helpful
+gptchats_71898,helpful
+gptchats_71899,not helpful
+gptchats_71900,helpful
+gptchats_71902,helpful
+gptchats_71906,helpful
+gptchats_71909,helpful
+gptchats_71915,helpful
+gptchats_71918,helpful
+gptchats_71919,helpful
+gptchats_71926,helpful
+gptchats_71932,helpful
+gptchats_71933,helpful
+gptchats_71934,helpful
+gptchats_71937,helpful
+gptchats_71938,helpful
+gptchats_71941,helpful
+gptchats_71945,not helpful
+gptchats_71947,helpful
+gptchats_71948,helpful
+gptchats_71949,helpful
+gptchats_71950,helpful
+gptchats_71956,helpful
+gptchats_71958,helpful
+gptchats_71961,helpful
+gptchats_71963,helpful
+gptchats_71964,helpful
+gptchats_71965,helpful
+gptchats_71966,helpful
+gptchats_71967,helpful
+gptchats_71971,helpful
+gptchats_71972,helpful
+gptchats_71974,helpful
+gptchats_71981,helpful
+gptchats_71982,helpful
+gptchats_71983,helpful
+gptchats_71986,helpful
+gptchats_71989,helpful
+gptchats_71993,helpful
+gptchats_71998,helpful
+gptchats_72001,helpful
+gptchats_72003,helpful
+gptchats_72004,helpful
+gptchats_72007,helpful
+gptchats_72012,helpful
+gptchats_72016,helpful
+gptchats_72020,helpful
+gptchats_72022,helpful
+gptchats_72023,helpful
+gptchats_72028,helpful
+gptchats_72032,helpful
+gptchats_72035,helpful
+gptchats_72037,helpful
+gptchats_72040,helpful
+gptchats_72041,helpful
+gptchats_72043,helpful
+gptchats_72047,helpful
+gptchats_72049,helpful
+gptchats_72050,helpful
+gptchats_72054,helpful
+gptchats_72057,helpful
+gptchats_72062,not helpful
+gptchats_72066,helpful
+gptchats_72070,helpful
+gptchats_72073,helpful
+gptchats_72075,helpful
+gptchats_72080,helpful
+gptchats_72085,helpful
+gptchats_72086,helpful
+gptchats_72088,helpful
+gptchats_72092,helpful
+gptchats_72093,helpful
+gptchats_72096,helpful
+gptchats_72099,helpful
+gptchats_72106,helpful
+gptchats_72107,helpful
+gptchats_72108,helpful
+gptchats_72109,helpful
+gptchats_72110,helpful
+gptchats_72112,helpful
+gptchats_72114,helpful
+gptchats_72115,helpful
+gptchats_72116,helpful
+gptchats_72118,not helpful
+gptchats_72125,not helpful
+gptchats_72127,helpful
+gptchats_72128,helpful
+gptchats_72129,not helpful
+gptchats_72130,helpful
+gptchats_72133,not helpful
+gptchats_72140,helpful
+gptchats_72141,helpful
+gptchats_72143,helpful
+gptchats_72145,helpful
+gptchats_72146,helpful
+gptchats_72151,helpful
+gptchats_72153,helpful
+gptchats_72156,helpful
+gptchats_72164,helpful
+gptchats_72166,helpful
+gptchats_72167,helpful
+gptchats_72172,helpful
+gptchats_72176,not helpful
+gptchats_72179,helpful
+gptchats_72181,helpful
+gptchats_72186,helpful
+gptchats_72190,helpful
+gptchats_72191,helpful
+gptchats_72195,helpful
+gptchats_72196,helpful
+gptchats_72198,helpful
+gptchats_72200,helpful
+gptchats_72209,helpful
+gptchats_72213,not helpful
+gptchats_72219,helpful
+gptchats_72221,helpful
+gptchats_72222,helpful
+gptchats_72225,helpful
+gptchats_72229,helpful
+gptchats_72233,helpful
+gptchats_72234,helpful
+gptchats_72236,helpful
+gptchats_72239,helpful
+gptchats_72243,helpful
+gptchats_72248,helpful
+gptchats_72259,helpful
+gptchats_72261,helpful
+gptchats_72266,helpful
+gptchats_72269,helpful
+gptchats_72272,helpful
+gptchats_72278,helpful
+gptchats_72284,helpful
+gptchats_72285,helpful
+gptchats_72289,helpful
+gptchats_72290,helpful
+gptchats_72293,helpful
+gptchats_72298,helpful
+gptchats_72299,helpful
+gptchats_72301,helpful
+gptchats_72305,helpful
+gptchats_72307,helpful
+gptchats_72308,helpful
+gptchats_72309,helpful
+gptchats_72313,helpful
+gptchats_72314,not helpful
+gptchats_72316,helpful
+gptchats_72319,helpful
+gptchats_72320,helpful
+gptchats_72321,helpful
+gptchats_72322,helpful
+gptchats_72323,helpful
+gptchats_72325,helpful
+gptchats_72326,helpful
+gptchats_72328,helpful
+gptchats_72333,helpful
+gptchats_72341,helpful
+gptchats_72343,helpful
+gptchats_72352,helpful
+gptchats_72354,helpful
+gptchats_72356,helpful
+gptchats_72358,helpful
+gptchats_72361,helpful
+gptchats_72368,helpful
+gptchats_72369,helpful
+gptchats_72376,helpful
+gptchats_72380,helpful
+gptchats_72383,helpful
+gptchats_72385,helpful
+gptchats_72387,helpful
+gptchats_72388,helpful
+gptchats_72389,helpful
+gptchats_72390,helpful
+gptchats_72392,helpful
+gptchats_72399,helpful
+gptchats_72404,helpful
+gptchats_72410,helpful
+gptchats_72411,not helpful
+gptchats_72414,helpful
+gptchats_72416,helpful
+gptchats_72420,helpful
+gptchats_72426,helpful
+gptchats_72435,helpful
+gptchats_72441,helpful
+gptchats_72443,helpful
+gptchats_72446,helpful
+gptchats_72449,helpful
+gptchats_72450,helpful
+gptchats_72452,helpful
+gptchats_72453,helpful
+gptchats_72455,helpful
+gptchats_72458,helpful
+gptchats_72460,helpful
+gptchats_72462,helpful
+gptchats_72465,helpful
+gptchats_72467,not helpful
+gptchats_72470,helpful
+gptchats_72475,helpful
+gptchats_72478,helpful
+gptchats_72479,helpful
+gptchats_72481,helpful
+gptchats_72482,helpful
+gptchats_72490,helpful
+gptchats_72492,not helpful
+gptchats_72494,helpful
+gptchats_72498,helpful
+gptchats_72506,helpful
+gptchats_72509,helpful
+gptchats_72519,helpful
+gptchats_72522,helpful
+gptchats_72523,helpful
+gptchats_72528,helpful
+gptchats_72529,helpful
+gptchats_72533,helpful
+gptchats_72543,helpful
+gptchats_72545,helpful
+gptchats_72557,helpful
+gptchats_72558,helpful
+gptchats_72561,helpful
+gptchats_72562,helpful
+gptchats_72564,helpful
+gptchats_72566,helpful
+gptchats_72573,helpful
+gptchats_72576,not helpful
+gptchats_72580,helpful
+gptchats_72581,helpful
+gptchats_72586,helpful
+gptchats_72588,helpful
+gptchats_72590,helpful
+gptchats_72591,helpful
+gptchats_72592,helpful
+gptchats_72595,helpful
+gptchats_72605,helpful
+gptchats_72606,helpful
+gptchats_72608,helpful
+gptchats_72609,helpful
+gptchats_72614,helpful
+gptchats_72615,not helpful
+gptchats_72616,helpful
+gptchats_72621,not helpful
+gptchats_72625,helpful
+gptchats_72629,helpful
+gptchats_72630,helpful
+gptchats_72631,helpful
+gptchats_72648,helpful
+gptchats_72649,helpful
+gptchats_72650,not helpful
+gptchats_72651,helpful
+gptchats_72652,helpful
+gptchats_72657,helpful
+gptchats_72660,helpful
+gptchats_72666,helpful
+gptchats_72667,helpful
+gptchats_72668,helpful
+gptchats_72669,helpful
+gptchats_72670,helpful
+gptchats_72672,helpful
+gptchats_72673,helpful
+gptchats_72678,helpful
+gptchats_72684,not helpful
+gptchats_72685,not helpful
+gptchats_72691,helpful
+gptchats_72692,helpful
+gptchats_72697,helpful
+gptchats_72703,helpful
+gptchats_72710,helpful
+gptchats_72712,helpful
+gptchats_72718,helpful
+gptchats_72722,helpful
+gptchats_72733,helpful
+gptchats_72736,helpful
+gptchats_72741,helpful
+gptchats_72753,helpful
+gptchats_72756,helpful
+gptchats_72758,helpful
+gptchats_72759,helpful
+gptchats_72760,helpful
+gptchats_72762,helpful
+gptchats_72766,helpful
+gptchats_72768,helpful
+gptchats_72780,helpful
+gptchats_72789,helpful
+gptchats_72790,helpful
+gptchats_72796,helpful
+gptchats_72798,helpful
+gptchats_72801,helpful
+gptchats_72808,helpful
+gptchats_72809,helpful
+gptchats_72810,helpful
+gptchats_72813,helpful
+gptchats_72818,not helpful
+gptchats_72822,helpful
+gptchats_72824,helpful
+gptchats_72825,helpful
+gptchats_72828,helpful
+gptchats_72830,helpful
+gptchats_72831,helpful
+gptchats_72834,helpful
+gptchats_72840,helpful
+gptchats_72842,helpful
+gptchats_72848,helpful
+gptchats_72849,helpful
+gptchats_72850,helpful
+gptchats_72851,helpful
+gptchats_72857,helpful
+gptchats_72861,helpful
+gptchats_72868,helpful
+gptchats_72871,helpful
+gptchats_72872,helpful
+gptchats_72876,helpful
+gptchats_72880,helpful
+gptchats_72886,helpful
+gptchats_72888,helpful
+gptchats_72889,helpful
+gptchats_72890,helpful
+gptchats_72892,helpful
+gptchats_72893,helpful
+gptchats_72894,helpful
+gptchats_72896,helpful
+gptchats_72897,not helpful
+gptchats_72898,helpful
+gptchats_72899,helpful
+gptchats_72900,helpful
+gptchats_72901,helpful
+gptchats_72903,helpful
+gptchats_72904,helpful
+gptchats_72905,helpful
+gptchats_72907,helpful
+gptchats_72909,helpful
+gptchats_72910,helpful
+gptchats_72915,helpful
+gptchats_72916,helpful
+gptchats_72917,helpful
+gptchats_72918,helpful
+gptchats_72922,helpful
+gptchats_72923,helpful
+gptchats_72927,helpful
+gptchats_72933,helpful
+gptchats_72934,helpful
+gptchats_72938,helpful
+gptchats_72939,helpful
+gptchats_72941,helpful
+gptchats_72951,helpful
+gptchats_72952,helpful
+gptchats_72953,helpful
+gptchats_72955,helpful
+gptchats_72956,helpful
+gptchats_72959,helpful
+gptchats_72963,helpful
+gptchats_72967,helpful
+gptchats_72970,helpful
+gptchats_72976,helpful
+gptchats_72977,helpful
+gptchats_72978,helpful
+gptchats_72981,helpful
+gptchats_72982,helpful
+gptchats_72983,helpful
+gptchats_72998,helpful
+gptchats_73004,not helpful
+gptchats_73006,helpful
+gptchats_73008,helpful
+gptchats_73011,helpful
+gptchats_73014,helpful
+gptchats_73016,helpful
+gptchats_73017,helpful
+gptchats_73023,helpful
+gptchats_73025,helpful
+gptchats_73032,helpful
+gptchats_73034,helpful
+gptchats_73037,helpful
+gptchats_73038,not helpful
+gptchats_73040,helpful
+gptchats_73042,helpful
+gptchats_73048,helpful
+gptchats_73050,helpful
+gptchats_73052,not helpful
+gptchats_73057,helpful
+gptchats_73060,helpful
+gptchats_73061,helpful
+gptchats_73062,helpful
+gptchats_73064,helpful
+gptchats_73068,helpful
+gptchats_73070,helpful
+gptchats_73071,helpful
+gptchats_73078,not helpful
+gptchats_73081,helpful
+gptchats_73082,helpful
+gptchats_73087,helpful
+gptchats_73091,helpful
+gptchats_73093,not helpful
+gptchats_73095,helpful
+gptchats_73096,helpful
+gptchats_73098,helpful
+gptchats_73099,helpful
+gptchats_73100,helpful
+gptchats_73103,not helpful
+gptchats_73105,helpful
+gptchats_73107,helpful
+gptchats_73108,helpful
+gptchats_73115,helpful
+gptchats_73116,helpful
+gptchats_73125,not helpful
+gptchats_73128,helpful
+gptchats_73132,helpful
+gptchats_73134,helpful
+gptchats_73135,not helpful
+gptchats_73140,helpful
+gptchats_73145,helpful
+gptchats_73148,helpful
+gptchats_73157,helpful
+gptchats_73163,helpful
+gptchats_73172,helpful
+gptchats_73174,helpful
+gptchats_73177,helpful
+gptchats_73183,helpful
+gptchats_73184,helpful
+gptchats_73185,helpful
+gptchats_73191,helpful
+gptchats_73192,helpful
+gptchats_73195,helpful
+gptchats_73202,helpful
+gptchats_73203,helpful
+gptchats_73206,helpful
+gptchats_73209,helpful
+gptchats_73212,helpful
+gptchats_73213,not helpful
+gptchats_73215,helpful
+gptchats_73216,helpful
+gptchats_73220,helpful
+gptchats_73222,helpful
+gptchats_73227,helpful
+gptchats_73232,helpful
+gptchats_73233,helpful
+gptchats_73238,helpful
+gptchats_73244,helpful
+gptchats_73250,helpful
+gptchats_73251,helpful
+gptchats_73252,helpful
+gptchats_73257,helpful
+gptchats_73260,helpful
+gptchats_73264,helpful
+gptchats_73266,helpful
+gptchats_73267,helpful
+gptchats_73270,helpful
+gptchats_73273,helpful
+gptchats_73275,helpful
+gptchats_73277,helpful
+gptchats_73285,helpful
+gptchats_73289,helpful
+gptchats_73293,helpful
+gptchats_73300,helpful
+gptchats_73304,helpful
+gptchats_73305,helpful
+gptchats_73320,helpful
+gptchats_73331,helpful
+gptchats_73335,helpful
+gptchats_73341,helpful
+gptchats_73354,helpful
+gptchats_73361,helpful
+gptchats_73366,helpful
+gptchats_73367,helpful
+gptchats_73370,helpful
+gptchats_73372,helpful
+gptchats_73373,helpful
+gptchats_73374,helpful
+gptchats_73380,helpful
+gptchats_73384,helpful
+gptchats_73385,helpful
+gptchats_73390,helpful
+gptchats_73393,helpful
+gptchats_73398,helpful
+gptchats_73401,helpful
+gptchats_73403,helpful
+gptchats_73405,helpful
+gptchats_73411,not helpful
+gptchats_73414,not helpful
+gptchats_73418,helpful
+gptchats_73419,helpful
+gptchats_73423,helpful
+gptchats_73429,helpful
+gptchats_73430,helpful
+gptchats_73433,helpful
+gptchats_73440,not helpful
+gptchats_73441,helpful
+gptchats_73443,helpful
+gptchats_73445,helpful
+gptchats_73447,helpful
+gptchats_73453,helpful
+gptchats_73454,helpful
+gptchats_73457,helpful
+gptchats_73458,helpful
+gptchats_73459,helpful
+gptchats_73460,helpful
+gptchats_73463,not helpful
+gptchats_73464,not helpful
+gptchats_73471,helpful
+gptchats_73473,helpful
+gptchats_73474,helpful
+gptchats_73476,helpful
+gptchats_73480,not helpful
+gptchats_73482,helpful
+gptchats_73484,helpful
+gptchats_73486,helpful
+gptchats_73487,helpful
+gptchats_73491,helpful
+gptchats_73492,helpful
+gptchats_73493,helpful
+gptchats_73494,helpful
+gptchats_73495,helpful
+gptchats_73505,helpful
+gptchats_73511,helpful
+gptchats_73515,helpful
+gptchats_73516,not helpful
+gptchats_73517,helpful
+gptchats_73518,helpful
+gptchats_73519,helpful
+gptchats_73523,helpful
+gptchats_73527,helpful
+gptchats_73530,helpful
+gptchats_73536,helpful
+gptchats_73537,helpful
+gptchats_73541,helpful
+gptchats_73542,helpful
+gptchats_73548,helpful
+gptchats_73549,helpful
+gptchats_73551,helpful
+gptchats_73553,helpful
+gptchats_73557,helpful
+gptchats_73559,helpful
+gptchats_73567,not helpful
+gptchats_73568,not helpful
+gptchats_73571,helpful
+gptchats_73573,helpful
+gptchats_73582,helpful
+gptchats_73584,helpful
+gptchats_73586,helpful
+gptchats_73588,helpful
+gptchats_73589,helpful
+gptchats_73608,helpful
+gptchats_73609,helpful
+gptchats_73614,helpful
+gptchats_73617,helpful
+gptchats_73618,helpful
+gptchats_73622,helpful
+gptchats_73627,not helpful
+gptchats_73629,helpful
+gptchats_73634,helpful
+gptchats_73637,helpful
+gptchats_73647,helpful
+gptchats_73648,helpful
+gptchats_73651,helpful
+gptchats_73653,helpful
+gptchats_73655,helpful
+gptchats_73659,helpful
+gptchats_73662,helpful
+gptchats_73665,helpful
+gptchats_73667,helpful
+gptchats_73670,helpful
+gptchats_73672,helpful
+gptchats_73674,helpful
+gptchats_73676,helpful
+gptchats_73682,helpful
+gptchats_73684,helpful
+gptchats_73689,helpful
+gptchats_73690,helpful
+gptchats_73692,helpful
+gptchats_73700,helpful
+gptchats_73701,helpful
+gptchats_73704,helpful
+gptchats_73705,not helpful
+gptchats_73709,helpful
+gptchats_73711,helpful
+gptchats_73716,helpful
+gptchats_73717,helpful
+gptchats_73718,helpful
+gptchats_73719,helpful
+gptchats_73724,helpful
+gptchats_73737,helpful
+gptchats_73739,helpful
+gptchats_73741,helpful
+gptchats_73742,helpful
+gptchats_73744,helpful
+gptchats_73745,helpful
+gptchats_73748,helpful
+gptchats_73755,not helpful
+gptchats_73756,helpful
+gptchats_73758,helpful
+gptchats_73765,helpful
+gptchats_73769,helpful
+gptchats_73771,helpful
+gptchats_73776,helpful
+gptchats_73779,helpful
+gptchats_73783,helpful
+gptchats_73785,helpful
+gptchats_73786,helpful
+gptchats_73787,helpful
+gptchats_73791,helpful
+gptchats_73794,helpful
+gptchats_73795,helpful
+gptchats_73797,helpful
+gptchats_73798,helpful
+gptchats_73799,helpful
+gptchats_73800,helpful
+gptchats_73801,helpful
+gptchats_73806,helpful
+gptchats_73809,helpful
+gptchats_73819,helpful
+gptchats_73820,helpful
+gptchats_73821,helpful
+gptchats_73832,helpful
+gptchats_73836,helpful
+gptchats_73837,helpful
+gptchats_73839,helpful
+gptchats_73840,not helpful
+gptchats_73841,helpful
+gptchats_73843,helpful
+gptchats_73845,helpful
+gptchats_73846,helpful
+gptchats_73848,helpful
+gptchats_73849,helpful
+gptchats_73850,helpful
+gptchats_73855,helpful
+gptchats_73856,helpful
+gptchats_73860,helpful
+gptchats_73861,helpful
+gptchats_73862,helpful
+gptchats_73863,helpful
+gptchats_73871,helpful
+gptchats_73884,helpful
+gptchats_73888,helpful
+gptchats_73889,helpful
+gptchats_73893,helpful
+gptchats_73895,helpful
+gptchats_73896,helpful
+gptchats_73905,helpful
+gptchats_73911,helpful
+gptchats_73915,helpful
+gptchats_73916,helpful
+gptchats_73930,helpful
+gptchats_73931,helpful
+gptchats_73934,helpful
+gptchats_73937,helpful
+gptchats_73939,helpful
+gptchats_73940,helpful
+gptchats_73943,not helpful
+gptchats_73946,helpful
+gptchats_73947,helpful
+gptchats_73949,not helpful
+gptchats_73952,helpful
+gptchats_73954,helpful
+gptchats_73955,helpful
+gptchats_73957,helpful
+gptchats_73959,helpful
+gptchats_73967,not helpful
+gptchats_73969,helpful
+gptchats_73971,helpful
+gptchats_73972,helpful
+gptchats_73977,helpful
+gptchats_73978,helpful
+gptchats_73980,helpful
+gptchats_73994,helpful
+gptchats_73999,helpful
+gptchats_74000,helpful
+gptchats_74001,helpful
+gptchats_74002,helpful
+gptchats_74003,helpful
+gptchats_74004,helpful
+gptchats_74007,helpful
+gptchats_74009,helpful
+gptchats_74012,helpful
+gptchats_74016,helpful
+gptchats_74018,helpful
+gptchats_74028,helpful
+gptchats_74030,helpful
+gptchats_74033,helpful
+gptchats_74035,helpful
+gptchats_74036,helpful
+gptchats_74040,helpful
+gptchats_74041,helpful
+gptchats_74042,helpful
+gptchats_74043,helpful
+gptchats_74044,helpful
+gptchats_74045,helpful
+gptchats_74047,helpful
+gptchats_74049,helpful
+gptchats_74050,helpful
+gptchats_74057,helpful
+gptchats_74058,helpful
+gptchats_74059,helpful
+gptchats_74060,helpful
+gptchats_74062,helpful
+gptchats_74063,helpful
+gptchats_74067,helpful
+gptchats_74071,helpful
+gptchats_74072,helpful
+gptchats_74073,helpful
+gptchats_74074,helpful
+gptchats_74076,helpful
+gptchats_74077,helpful
+gptchats_74079,helpful
+gptchats_74080,helpful
+gptchats_74081,helpful
+gptchats_74082,helpful
+gptchats_74084,helpful
+gptchats_74087,helpful
+gptchats_74088,helpful
+gptchats_74096,helpful
+gptchats_74099,helpful
+gptchats_74100,helpful
+gptchats_74102,helpful
+gptchats_74103,helpful
+gptchats_74105,helpful
+gptchats_74107,helpful
+gptchats_74110,not helpful
+gptchats_74114,helpful
+gptchats_74116,helpful
+gptchats_74120,helpful
+gptchats_74121,helpful
+gptchats_74123,helpful
+gptchats_74127,helpful
+gptchats_74129,helpful
+gptchats_74139,helpful
+gptchats_74148,helpful
+gptchats_74149,helpful
+gptchats_74157,helpful
+gptchats_74165,helpful
+gptchats_74166,helpful
+gptchats_74171,helpful
+gptchats_74172,helpful
+gptchats_74178,helpful
+gptchats_74179,not helpful
+gptchats_74181,helpful
+gptchats_74182,helpful
+gptchats_74186,helpful
+gptchats_74187,helpful
+gptchats_74188,helpful
+gptchats_74189,helpful
+gptchats_74193,helpful
+gptchats_74197,helpful
+gptchats_74199,not helpful
+gptchats_74200,helpful
+gptchats_74202,helpful
+gptchats_74209,helpful
+gptchats_74213,helpful
+gptchats_74221,helpful
+gptchats_74222,helpful
+gptchats_74223,helpful
+gptchats_74224,helpful
+gptchats_74225,helpful
+gptchats_74226,helpful
+gptchats_74228,helpful
+gptchats_74243,helpful
+gptchats_74247,helpful
+gptchats_74248,helpful
+gptchats_74250,helpful
+gptchats_74253,helpful
+gptchats_74264,helpful
+gptchats_74266,not helpful
+gptchats_74270,not helpful
+gptchats_74271,helpful
+gptchats_74272,helpful
+gptchats_74279,helpful
+gptchats_74282,helpful
+gptchats_74284,helpful
+gptchats_74285,helpful
+gptchats_74286,helpful
+gptchats_74298,helpful
+gptchats_74301,helpful
+gptchats_74302,helpful
+gptchats_74307,helpful
+gptchats_74318,helpful
+gptchats_74320,helpful
+gptchats_74321,helpful
+gptchats_74322,helpful
+gptchats_74323,helpful
+gptchats_74324,helpful
+gptchats_74329,helpful
+gptchats_74330,helpful
+gptchats_74334,not helpful
+gptchats_74335,helpful
+gptchats_74342,helpful
+gptchats_74349,helpful
+gptchats_74352,helpful
+gptchats_74355,helpful
+gptchats_74358,helpful
+gptchats_74365,helpful
+gptchats_74368,helpful
+gptchats_74369,helpful
+gptchats_74370,not helpful
+gptchats_74377,helpful
+gptchats_74378,helpful
+gptchats_74382,helpful
+gptchats_74383,helpful
+gptchats_74387,helpful
+gptchats_74389,helpful
+gptchats_74390,helpful
+gptchats_74392,helpful
+gptchats_74393,helpful
+gptchats_74409,helpful
+gptchats_74413,helpful
+gptchats_74415,helpful
+gptchats_74416,helpful
+gptchats_74420,helpful
+gptchats_74425,helpful
+gptchats_74430,helpful
+gptchats_74431,helpful
+gptchats_74434,helpful
+gptchats_74436,helpful
+gptchats_74444,helpful
+gptchats_74446,helpful
+gptchats_74451,helpful
+gptchats_74453,helpful
+gptchats_74455,helpful
+gptchats_74457,helpful
+gptchats_74460,helpful
+gptchats_74465,helpful
+gptchats_74467,helpful
+gptchats_74468,helpful
+gptchats_74477,not helpful
+gptchats_74482,helpful
+gptchats_74483,helpful
+gptchats_74488,helpful
+gptchats_74490,helpful
+gptchats_74493,helpful
+gptchats_74494,helpful
+gptchats_74495,helpful
+gptchats_74499,helpful
+gptchats_74501,helpful
+gptchats_74502,helpful
+gptchats_74508,helpful
+gptchats_74509,helpful
+gptchats_74520,helpful
+gptchats_74522,helpful
+gptchats_74525,not helpful
+gptchats_74531,helpful
+gptchats_74538,helpful
+gptchats_74539,not helpful
+gptchats_74541,helpful
+gptchats_74542,helpful
+gptchats_74543,helpful
+gptchats_74552,helpful
+gptchats_74560,helpful
+gptchats_74561,not helpful
+gptchats_74564,helpful
+gptchats_74565,helpful
+gptchats_74569,helpful
+gptchats_74571,helpful
+gptchats_74572,not helpful
+gptchats_74573,helpful
+gptchats_74575,helpful
+gptchats_74577,helpful
+gptchats_74578,helpful
+gptchats_74584,helpful
+gptchats_74591,helpful
+gptchats_74594,helpful
+gptchats_74598,not helpful
+gptchats_74602,helpful
+gptchats_74603,helpful
+gptchats_74604,helpful
+gptchats_74606,helpful
+gptchats_74607,helpful
+gptchats_74609,helpful
+gptchats_74612,helpful
+gptchats_74614,helpful
+gptchats_74616,helpful
+gptchats_74617,helpful
+gptchats_74620,helpful
+gptchats_74625,helpful
+gptchats_74627,helpful
+gptchats_74629,helpful
+gptchats_74631,helpful
+gptchats_74633,helpful
+gptchats_74639,helpful
+gptchats_74640,helpful
+gptchats_74641,helpful
+gptchats_74650,helpful
+gptchats_74654,helpful
+gptchats_74657,helpful
+gptchats_74662,helpful
+gptchats_74665,helpful
+gptchats_74666,helpful
+gptchats_74667,helpful
+gptchats_74670,helpful
+gptchats_74679,helpful
+gptchats_74680,helpful
+gptchats_74684,helpful
+gptchats_74685,helpful
+gptchats_74689,helpful
+gptchats_74695,helpful
+gptchats_74699,helpful
+gptchats_74700,helpful
+gptchats_74701,helpful
+gptchats_74704,helpful
+gptchats_74707,not helpful
+gptchats_74710,helpful
+gptchats_74711,helpful
+gptchats_74712,helpful
+gptchats_74714,helpful
+gptchats_74718,helpful
+gptchats_74721,helpful
+gptchats_74722,helpful
+gptchats_74723,helpful
+gptchats_74724,not helpful
+gptchats_74726,helpful
+gptchats_74727,helpful
+gptchats_74735,helpful
+gptchats_74741,helpful
+gptchats_74743,helpful
+gptchats_74744,helpful
+gptchats_74747,helpful
+gptchats_74749,helpful
+gptchats_74752,helpful
+gptchats_74759,not helpful
+gptchats_74762,helpful
+gptchats_74769,helpful
+gptchats_74770,helpful
+gptchats_74773,helpful
+gptchats_74774,helpful
+gptchats_74775,helpful
+gptchats_74777,helpful
+gptchats_74778,helpful
+gptchats_74782,helpful
+gptchats_74783,helpful
+gptchats_74784,helpful
+gptchats_74785,helpful
+gptchats_74788,helpful
+gptchats_74790,not helpful
+gptchats_74797,helpful
+gptchats_74798,helpful
+gptchats_74803,helpful
+gptchats_74806,helpful
+gptchats_74809,helpful
+gptchats_74812,helpful
+gptchats_74815,helpful
+gptchats_74817,helpful
+gptchats_74818,helpful
+gptchats_74820,helpful
+gptchats_74821,helpful
+gptchats_74828,helpful
+gptchats_74830,helpful
+gptchats_74832,helpful
+gptchats_74839,helpful
+gptchats_74843,helpful
+gptchats_74845,helpful
+gptchats_74851,not helpful
+gptchats_74853,helpful
+gptchats_74855,helpful
+gptchats_74864,helpful
+gptchats_74867,helpful
+gptchats_74869,helpful
+gptchats_74873,helpful
+gptchats_74874,helpful
+gptchats_74876,helpful
+gptchats_74877,helpful
+gptchats_74878,helpful
+gptchats_74885,helpful
+gptchats_74889,helpful
+gptchats_74891,helpful
+gptchats_74894,helpful
+gptchats_74895,helpful
+gptchats_74899,helpful
+gptchats_74900,helpful
+gptchats_74904,helpful
+gptchats_74906,helpful
+gptchats_74908,helpful
+gptchats_74910,helpful
+gptchats_74915,helpful
+gptchats_74917,helpful
+gptchats_74923,helpful
+gptchats_74924,helpful
+gptchats_74926,helpful
+gptchats_74928,helpful
+gptchats_74938,helpful
+gptchats_74939,helpful
+gptchats_74940,helpful
+gptchats_74946,helpful
+gptchats_74947,helpful
+gptchats_74948,helpful
+gptchats_74949,not helpful
+gptchats_74956,helpful
+gptchats_74958,helpful
+gptchats_74963,helpful
+gptchats_74966,helpful
+gptchats_74976,helpful
+gptchats_74980,helpful
+gptchats_74984,helpful
+gptchats_74986,helpful
+gptchats_74988,helpful
+gptchats_74989,helpful
+gptchats_74990,helpful
+gptchats_74994,helpful
+gptchats_74995,helpful
+gptchats_74998,helpful
+gptchats_75004,helpful
+gptchats_75006,helpful
+gptchats_75007,helpful
+gptchats_75010,helpful
+gptchats_75013,helpful
+gptchats_75016,helpful
+gptchats_75018,helpful
+gptchats_75020,helpful
+gptchats_75021,helpful
+gptchats_75025,helpful
+gptchats_75027,helpful
+gptchats_75031,helpful
+gptchats_75032,helpful
+gptchats_75033,helpful
+gptchats_75038,helpful
+gptchats_75042,helpful
+gptchats_75048,helpful
+gptchats_75049,helpful
+gptchats_75050,helpful
+gptchats_75056,helpful
+gptchats_75059,helpful
+gptchats_75060,helpful
+gptchats_75069,helpful
+gptchats_75074,helpful
+gptchats_75075,helpful
+gptchats_75076,helpful
+gptchats_75077,helpful
+gptchats_75078,helpful
+gptchats_75079,not helpful
+gptchats_75080,helpful
+gptchats_75088,helpful
+gptchats_75093,helpful
+gptchats_75096,helpful
+gptchats_75098,helpful
+gptchats_75099,helpful
+gptchats_75101,helpful
+gptchats_75103,helpful
+gptchats_75104,helpful
+gptchats_75106,helpful
+gptchats_75107,helpful
+gptchats_75109,helpful
+gptchats_75111,helpful
+gptchats_75114,helpful
+gptchats_75116,helpful
+gptchats_75117,helpful
+gptchats_75120,helpful
+gptchats_75129,helpful
+gptchats_75130,helpful
+gptchats_75131,helpful
+gptchats_75133,helpful
+gptchats_75134,helpful
+gptchats_75136,helpful
+gptchats_75145,helpful
+gptchats_75148,helpful
+gptchats_75149,helpful
+gptchats_75158,helpful
+gptchats_75159,helpful
+gptchats_75161,helpful
+gptchats_75164,helpful
+gptchats_75165,helpful
+gptchats_75167,helpful
+gptchats_75168,helpful
+gptchats_75169,helpful
+gptchats_75175,helpful
+gptchats_75176,helpful
+gptchats_75178,helpful
+gptchats_75179,helpful
+gptchats_75182,helpful
+gptchats_75186,helpful
+gptchats_75187,helpful
+gptchats_75197,helpful
+gptchats_75198,helpful
+gptchats_75201,helpful
+gptchats_75202,helpful
+gptchats_75204,helpful
+gptchats_75207,helpful
+gptchats_75210,helpful
+gptchats_75214,helpful
+gptchats_75218,helpful
+gptchats_75219,helpful
+gptchats_75223,helpful
+gptchats_75225,helpful
+gptchats_75227,helpful
+gptchats_75229,helpful
+gptchats_75232,helpful
+gptchats_75236,helpful
+gptchats_75239,helpful
+gptchats_75241,helpful
+gptchats_75250,helpful
+gptchats_75254,helpful
+gptchats_75255,helpful
+gptchats_75258,helpful
+gptchats_75262,helpful
+gptchats_75268,helpful
+gptchats_75272,helpful
+gptchats_75278,helpful
+gptchats_75288,not helpful
+gptchats_75290,helpful
+gptchats_75292,helpful
+gptchats_75297,helpful
+gptchats_75300,helpful
+gptchats_75302,helpful
+gptchats_75303,helpful
+gptchats_75305,helpful
+gptchats_75310,helpful
+gptchats_75311,not helpful
+gptchats_75312,helpful
+gptchats_75313,helpful
+gptchats_75314,helpful
+gptchats_75315,helpful
+gptchats_75318,helpful
+gptchats_75323,helpful
+gptchats_75325,helpful
+gptchats_75326,not helpful
+gptchats_75332,helpful
+gptchats_75333,helpful
+gptchats_75334,helpful
+gptchats_75335,helpful
+gptchats_75342,not helpful
+gptchats_75346,helpful
+gptchats_75349,helpful
+gptchats_75351,helpful
+gptchats_75352,helpful
+gptchats_75364,helpful
+gptchats_75371,helpful
+gptchats_75378,helpful
+gptchats_75382,helpful
+gptchats_75383,helpful
+gptchats_75384,helpful
+gptchats_75386,helpful
+gptchats_75387,helpful
+gptchats_75392,helpful
+gptchats_75394,helpful
+gptchats_75395,helpful
+gptchats_75396,helpful
+gptchats_75398,helpful
+gptchats_75401,helpful
+gptchats_75407,helpful
+gptchats_75408,helpful
+gptchats_75409,not helpful
+gptchats_75410,helpful
+gptchats_75414,helpful
+gptchats_75417,helpful
+gptchats_75420,helpful
+gptchats_75427,helpful
+gptchats_75429,helpful
+gptchats_75432,helpful
+gptchats_75433,helpful
+gptchats_75436,helpful
+gptchats_75437,helpful
+gptchats_75444,helpful
+gptchats_75452,helpful
+gptchats_75458,helpful
+gptchats_75459,helpful
+gptchats_75461,helpful
+gptchats_75464,helpful
+gptchats_75467,helpful
+gptchats_75468,helpful
+gptchats_75476,helpful
+gptchats_75481,helpful
+gptchats_75484,helpful
+gptchats_75485,helpful
+gptchats_75487,helpful
+gptchats_75488,helpful
+gptchats_75491,helpful
+gptchats_75494,helpful
+gptchats_75500,helpful
+gptchats_75501,helpful
+gptchats_75503,helpful
+gptchats_75507,helpful
+gptchats_75511,helpful
+gptchats_75512,helpful
+gptchats_75513,helpful
+gptchats_75515,helpful
+gptchats_75521,helpful
+gptchats_75522,helpful
+gptchats_75523,helpful
+gptchats_75525,helpful
+gptchats_75526,helpful
+gptchats_75527,helpful
+gptchats_75529,not helpful
+gptchats_75531,helpful
+gptchats_75533,helpful
+gptchats_75534,helpful
+gptchats_75536,helpful
+gptchats_75537,helpful
+gptchats_75545,helpful
+gptchats_75546,helpful
+gptchats_75548,not helpful
+gptchats_75562,helpful
+gptchats_75564,helpful
+gptchats_75568,helpful
+gptchats_75569,helpful
+gptchats_75578,helpful
+gptchats_75582,helpful
+gptchats_75583,not helpful
+gptchats_75587,helpful
+gptchats_75588,helpful
+gptchats_75591,helpful
+gptchats_75595,helpful
+gptchats_75599,helpful
+gptchats_75602,not helpful
+gptchats_75604,helpful
+gptchats_75606,helpful
+gptchats_75608,helpful
+gptchats_75614,helpful
+gptchats_75615,helpful
+gptchats_75616,helpful
+gptchats_75624,helpful
+gptchats_75625,helpful
+gptchats_75628,helpful
+gptchats_75630,helpful
+gptchats_75631,helpful
+gptchats_75632,helpful
+gptchats_75633,helpful
+gptchats_75634,helpful
+gptchats_75636,helpful
+gptchats_75638,helpful
+gptchats_75650,helpful
+gptchats_75660,helpful
+gptchats_75663,helpful
+gptchats_75670,helpful
+gptchats_75673,helpful
+gptchats_75677,helpful
+gptchats_75683,helpful
+gptchats_75684,not helpful
+gptchats_75687,helpful
+gptchats_75691,helpful
+gptchats_75695,helpful
+gptchats_75697,helpful
+gptchats_75703,helpful
+gptchats_75705,helpful
+gptchats_75717,helpful
+gptchats_75721,helpful
+gptchats_75724,helpful
+gptchats_75726,helpful
+gptchats_75727,helpful
+gptchats_75729,helpful
+gptchats_75738,helpful
+gptchats_75747,helpful
+gptchats_75751,helpful
+gptchats_75752,helpful
+gptchats_75753,helpful
+gptchats_75764,helpful
+gptchats_75767,helpful
+gptchats_75772,helpful
+gptchats_75787,helpful
+gptchats_75789,helpful
+gptchats_75795,helpful
+gptchats_75799,helpful
+gptchats_75800,helpful
+gptchats_75801,helpful
+gptchats_75808,helpful
+gptchats_75811,helpful
+gptchats_75832,helpful
+gptchats_75834,helpful
+gptchats_75838,helpful
+gptchats_75839,helpful
+gptchats_75841,helpful
+gptchats_75843,helpful
+gptchats_75845,helpful
+gptchats_75850,helpful
+gptchats_75851,helpful
+gptchats_75856,helpful
+gptchats_75857,helpful
+gptchats_75860,helpful
+gptchats_75866,helpful
+gptchats_75867,helpful
+gptchats_75872,helpful
+gptchats_75873,helpful
+gptchats_75876,helpful
+gptchats_75879,helpful
+gptchats_75881,helpful
+gptchats_75890,helpful
+gptchats_75895,helpful
+gptchats_75897,helpful
+gptchats_75901,helpful
+gptchats_75902,helpful
+gptchats_75907,helpful
+gptchats_75908,helpful
+gptchats_75911,helpful
+gptchats_75913,helpful
+gptchats_75914,helpful
+gptchats_75915,helpful
+gptchats_75925,helpful
+gptchats_75935,helpful
+gptchats_75936,helpful
+gptchats_75941,helpful
+gptchats_75942,helpful
+gptchats_75943,helpful
+gptchats_75945,helpful
+gptchats_75956,helpful
+gptchats_75975,helpful
+gptchats_75976,helpful
