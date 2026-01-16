@@ -241,3 +241,291 @@ def compute_all_icc(df):
     for label, icc_type in icc_types.items():
         icc_val = compute_icc(icc_data, icc_type=icc_type)
         print(f"{label}: {icc_val:.3f}")
+
+def plot_continuous_dot_and_bar(
+    df,
+    outcome_var='score',
+    x_var='model',
+    color_var='condition',
+    facet_col=None,
+    facet_col_wrap=2,
+    x_order=None,
+    color_order=None,
+    facet_col_order=None,
+    colour_map=None,
+    y_range=(0, 6.1),
+    width=500,
+    height=400,
+    title=None,
+    font_family='Arial',
+    marker_opacity=0.5,
+):
+    """
+    Plots strip plot and overlaid bar plot of outcome by grouping variable(s).
+
+    Parameters
+    ----------
+    df : DataFrame
+        Input data.
+    outcome_var : str
+        Column name for the y-axis (continuous outcome).
+    x_var : str
+        Column name for x-axis grouping.
+    color_var : str
+        Column name for color grouping. If same as x_var, uses single grouping.
+    facet_col : str, optional
+        Column name for faceting (creates separate subplots).
+    facet_col_wrap : int
+        Number of facet columns before wrapping to new row. Default is 2.
+    x_order : list, optional
+        Order of categories on x-axis.
+    color_order : list, optional
+        Order of categories for color. Ignored if single grouping.
+    facet_col_order : list, optional
+        Order of categories for facets.
+    colour_map : dict, optional
+        Mapping of category values to colors.
+    y_range : tuple
+        Range for y-axis.
+    width, height : int
+        Figure dimensions.
+    title : str, optional
+        Plot title.
+    font_family : str
+        Font family for text.
+
+    Returns
+    -------
+    fig : plotly.graph_objects.Figure
+    """
+
+    # Determine if single or dual grouping
+    single_grouping = (x_var == color_var)
+
+    # Build category_orders dict
+    category_orders = {}
+    if x_order is not None:
+        category_orders[x_var] = x_order
+    if not single_grouping and color_order is not None:
+        category_orders[color_var] = color_order
+    if facet_col is not None and facet_col_order is not None:
+        category_orders[facet_col] = facet_col_order
+
+    # Defaults
+    if colour_map is None:
+        colour_map = COLOURS  # expects global
+    if title is None:
+        if single_grouping:
+            title = f'{outcome_var.upper()} by {x_var.capitalize()}'
+        else:
+            title = f'{outcome_var.upper()} by {x_var.capitalize()} and {color_var.capitalize()}'
+
+    # Summary table for bar plot
+    groupby_cols = [x_var] if single_grouping else [x_var, color_var]
+    if facet_col is not None:
+        groupby_cols = [facet_col] + groupby_cols
+    
+    summary = (
+        df
+        .groupby(groupby_cols)[outcome_var]
+        .agg(['mean', 'sem'])
+        .reset_index()
+    )
+
+    # Strip plot
+    fig = px.strip(
+        df,
+        x=x_var,
+        y=outcome_var,
+        color=color_var,
+        facet_col=facet_col,
+        facet_col_wrap=facet_col_wrap,
+        color_discrete_map=colour_map,
+        category_orders=category_orders,
+        width=width,
+        height=height,
+        template='simple_white',
+        title=title,
+        labels={outcome_var: outcome_var.capitalize(), x_var: x_var.capitalize()}
+    )
+    fig.update_layout(font={'family': font_family})
+    fig.update_traces(marker=dict(opacity=marker_opacity))
+    fig.update_yaxes(range=y_range)
+
+    # Bar chart
+    bar_fig = px.bar(
+        summary,
+        x=x_var,
+        y='mean',
+        error_y='sem',
+        color=color_var,
+        facet_col=facet_col,
+        facet_col_wrap=facet_col_wrap,
+        color_discrete_map=colour_map,
+        category_orders=category_orders,
+        barmode='group',
+        width=width,
+        height=height,
+        template='simple_white',
+    )
+
+    for trace in bar_fig.data:
+        trace.update(opacity=0.4, showlegend=False)  # hide duplicate legend entries
+        fig.add_trace(trace)
+
+    fig.show()
+    return fig
+    
+def plot_dot_and_bar(
+    df,
+    outcome_var='score',
+    group_var='item',
+    subject_id_col='pid',
+    condition_col='condition',
+    items=None,
+    condition_order=None,
+    COLOURS=None,
+    score_range=(0, 4.2),
+    offset_width=0.275,
+    fig_width=500,
+    fig_height=400,
+    scatter_title='General Clinical Performance',
+    show=True,
+    return_figs=True,
+    show_barometer=False,
+    facet_col=None,
+    facet_col_wrap=None
+):
+    """
+    Flexible function to make a dot + bar plot of the outcome variable 
+    grouped by any grouping variable (and condition).
+    This is for Likert-scale data!
+    """
+
+    # Default items to unique values in group_var if not provided
+    if items is None:
+        items = df[group_var].unique().tolist()
+
+    # Precompute group-by for dot plot
+    groupby_cols = [group_var, condition_col, outcome_var]
+    if facet_col is not None:
+        groupby_cols.insert(0, facet_col)
+
+    dot_data = (
+        df.groupby(groupby_cols)[subject_id_col]
+        .count()
+        .reset_index()
+        .rename(columns={subject_id_col: 'n'})
+    )
+
+    # X-axis positions for each item/category in group_var
+    item_positions = {item: i for i, item in enumerate(items)}
+    if condition_order is None:
+        condition_order = CONDITION_ORDER.copy()
+    n_conditions = len(condition_order)
+    condition_offsets = {}
+    for idx, cond in enumerate(condition_order):
+        offset = (idx - (n_conditions-1)/2) * offset_width
+        condition_offsets[cond] = offset
+
+    # Add x_jitter for plot separation by condition
+    dot_data['x_jitter'] = dot_data.apply(
+        lambda row: item_positions[row[group_var]] + condition_offsets.get(row[condition_col], 0), axis=1
+    )
+
+    # Add reference scale
+    if show_barometer:
+        max_x = np.ceil(dot_data['x_jitter'].max())
+        scale_data = pd.DataFrame({
+            'item': ['barometer 100','barometer 50','barometer 50','barometer 75/25','barometer 75/25'],
+            'condition': ['barometer 100','barometer 50','barometer 50','barometer 75/25','barometer 75/25'],
+            'score': [4,2,4,1,3],
+            'n': [1,1,1,3,1],
+            'x_jitter': [max_x+1,max_x+2,max_x+2,max_x+3,max_x+3]
+        }).rename(columns={'score': outcome_var, 'item': group_var})
+        if facet_col is not None:
+            unique_levels = dot_data[facet_col].unique()
+            scale_data[facet_col] = unique_levels[0]
+            insert_df = scale_data.copy()
+            for level in unique_levels[1:]:
+                this_insert = insert_df.copy()
+                this_insert[facet_col] = level
+                scale_data = pd.concat([scale_data,this_insert])
+            scale_data = scale_data.reset_index(drop=True)
+        dot_data = pd.concat([dot_data,scale_data]).reset_index(drop=True)
+        for barometer in ['barometer 100','barometer 50','barometer 75/25']:
+            items.append(barometer)
+        condition_order.append('barometer')
+
+    # Calculate dot size proportional to counts within item/condition
+    dot_data['N'] = dot_data.groupby([group_var, condition_col])['n'].transform('sum')
+    dot_data['size'] = dot_data['n']/dot_data['N']
+
+    fig = px.scatter(
+        dot_data,
+        x='x_jitter',
+        facet_col=facet_col,
+        facet_col_wrap=facet_col_wrap,
+        y=outcome_var,
+        color=condition_col,
+        size='size',
+        size_max=8,
+        color_discrete_map=COLOURS,
+        category_orders={condition_col: condition_order},
+        width=fig_width,
+        height=fig_height,
+        opacity=0.5,
+        template='simple_white',
+        title=scatter_title,
+        labels={'n': outcome_var.capitalize(), 'x_jitter': group_var.capitalize()},
+    )
+
+    # Relabel x ticks for group variable values
+    fig.update_xaxes(
+        tickvals=list(item_positions.values()),
+        ticktext=items,
+        title_text=group_var.capitalize()
+    )
+    fig.update_traces(marker=dict(line=dict(width=0)))
+    fig.update_layout(font={'family': 'Arial'})
+    fig.update_yaxes(range=score_range)
+
+    # Bar plot with means +/- sem
+    groupby_cols = [group_var, condition_col]
+    if facet_col is not None:
+        groupby_cols.insert(0, facet_col)
+    summary = (
+        df.groupby(groupby_cols)[outcome_var]
+        .agg(['mean', 'sem'])
+        .reset_index()
+    )
+    summary['x'] = summary[group_var].map(item_positions)
+    bar_fig = px.bar(
+        summary,
+        x='x',
+        y='mean',
+        error_y='sem',
+        facet_col=facet_col,
+        facet_col_wrap=facet_col_wrap,
+        color=condition_col,
+        color_discrete_map=COLOURS,
+        category_orders={group_var: items, condition_col: condition_order},
+        width=fig_width,
+        height=fig_height,
+        labels={'mean': outcome_var.capitalize(), 'x': group_var.capitalize()},
+        barmode='group',
+        template='simple_white'
+    )
+
+    # Set bar opacity to 0.5, keep error bars
+    for trace in bar_fig.data:
+        if 'marker' in trace:
+            trace.update(marker={'opacity': 0.5})
+        fig.add_trace(trace)
+
+    if show:
+        fig.show()
+
+    if return_figs:
+        return fig
+    return None
