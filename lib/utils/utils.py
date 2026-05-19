@@ -5,6 +5,8 @@ import statsmodels.formula.api as smf
 import scipy.stats as sp
 import plotly.express as px
 
+from utils.variables import CONDITION_ORDER, COLOURS
+
 def readable_pvalue(p):
     if p < .001:
         return f"{p:.2e}***"
